@@ -1,0 +1,97 @@
+League,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,xG,xGA,xGD,xGD/90,Last 5
+Premier League,1,Liverpool,35,25,7,3,81,35,+46,82,2.34,75.4,32.0,+43.4,+1.24,L 3–2 vs Fulham; W 2–1 vs West Ham; W 0–1 vs Leicester City; W 5–1 vs Tottenham; L 3–1 vs Chelsea
+Premier League,2,Arsenal,35,18,13,4,64,31,+33,67,1.91,54.4,29.9,+24.5,+0.70,D 1–1 vs Everton; D 1–1 vs Brentford; W 0–4 vs Ipswich Town; D 2–2 vs Crystal Palace; L 1–2 vs Bournemouth
+Premier League,3,Manchester City,35,19,7,9,67,43,+24,64,1.83,61.9,45.2,+16.6,+0.48,D 0–0 vs Manchester Utd; W 5–2 vs Crystal Palace; W 0–2 vs Everton; W 2–1 vs Aston Villa; W 1–0 vs Wolves
+Premier League,4,Newcastle Utd,35,19,6,10,66,45,+21,63,1.80,59.5,43.1,+16.4,+0.47,W 4–1 vs Manchester Utd; W 5–0 vs Crystal Palace; L 4–1 vs Aston Villa; W 3–0 vs Ipswich Town; D 1–1 vs Brighton
+Premier League,5,Chelsea,35,18,9,8,62,41,+21,63,1.80,65.2,44.3,+21.0,+0.60,D 0–0 vs Brentford; D 2–2 vs Ipswich Town; W 1–2 vs Fulham; W 1–0 vs Everton; W 3–1 vs Liverpool
+Premier League,6,Nott'ham Forest,35,18,7,10,54,42,+12,61,1.74,41.1,45.7,-4.6,-0.13,L 2–1 vs Aston Villa; L 0–1 vs Everton; W 1–2 vs Tottenham; L 0–2 vs Brentford; D 1–1 vs Crystal Palace
+Premier League,7,Aston Villa,35,17,9,9,55,49,+6,60,1.71,53.3,45.9,+7.4,+0.21,W 2–1 vs Nott'ham Forest; W 0–3 vs Southampton; W 4–1 vs Newcastle Utd; L 2–1 vs Manchester City; W 1–0 vs Fulham
+Premier League,8,Bournemouth,35,14,11,10,55,42,+13,53,1.51,60.5,45.7,+14.8,+0.42,D 2–2 vs West Ham; W 1–0 vs Fulham; D 0–0 vs Crystal Palace; D 1–1 vs Manchester Utd; W 1–2 vs Arsenal
+Premier League,9,Brentford,35,15,7,13,62,53,+9,52,1.49,53.7,52.5,+1.2,+0.03,D 0–0 vs Chelsea; D 1–1 vs Arsenal; W 4–2 vs Brighton; W 0–2 vs Nott'ham Forest; W 4–3 vs Manchester Utd
+Premier League,10,Brighton,35,13,13,9,57,56,+1,52,1.49,52.7,49.4,+3.3,+0.10,L 2–1 vs Crystal Palace; D 2–2 vs Leicester City; L 4–2 vs Brentford; W 3–2 vs West Ham; D 1–1 vs Newcastle Utd
+Premier League,11,Fulham,35,14,9,12,50,47,+3,51,1.46,46.0,40.6,+5.4,+0.15,W 3–2 vs Liverpool; L 1–0 vs Bournemouth; L 1–2 vs Chelsea; W 1–2 vs Southampton; L 1–0 vs Aston Villa
+Premier League,12,Crystal Palace,35,11,13,11,44,48,-4,46,1.31,53.6,44.9,+8.8,+0.25,L 5–2 vs Manchester City; L 5–0 vs Newcastle Utd; D 0–0 vs Bournemouth; D 2–2 vs Arsenal; D 1–1 vs Nott'ham Forest
+Premier League,13,Wolves,35,12,5,18,51,62,-11,41,1.17,40.4,53.5,-13.1,-0.37,W 1–2 vs Ipswich Town; W 4–2 vs Tottenham; W 0–1 vs Manchester Utd; W 3–0 vs Leicester City; L 1–0 vs Manchester City
+Premier League,14,Everton,35,8,15,12,36,43,-7,39,1.11,36.9,43.1,-6.2,-0.18,D 1–1 vs Arsenal; W 0–1 vs Nott'ham Forest; L 0–2 vs Manchester City; L 1–0 vs Chelsea; D 2–2 vs Ipswich Town
+Premier League,15,Manchester Utd,35,10,9,16,42,51,-9,39,1.11,47.2,50.9,-3.7,-0.11,D 0–0 vs Manchester City; L 4–1 vs Newcastle Utd; L 0–1 vs Wolves; D 1–1 vs Bournemouth; L 4–3 vs Brentford
+Premier League,16,Tottenham,35,11,5,19,63,57,+6,38,1.09,55.6,56.4,-0.8,-0.02,W 3–1 vs Southampton; L 4–2 vs Wolves; L 1–2 vs Nott'ham Forest; L 5–1 vs Liverpool; D 1–1 vs West Ham
+Premier League,17,West Ham,35,9,10,16,40,59,-19,37,1.06,43.1,54.9,-11.8,-0.34,D 2–2 vs Bournemouth; L 2–1 vs Liverpool; D 1–1 vs Southampton; L 3–2 vs Brighton; D 1–1 vs Tottenham
+Premier League,18,Ipswich Town,35,4,10,21,35,76,-41,22,0.63,31.3,69.4,-38.1,-1.09,L 1–2 vs Wolves; D 2–2 vs Chelsea; L 0–4 vs Arsenal; L 3–0 vs Newcastle Utd; D 2–2 vs Everton
+Premier League,19,Leicester City,35,5,6,24,29,76,-47,21,0.60,30.5,67.6,-37.1,-1.06,L 0–3 vs Newcastle Utd; D 2–2 vs Brighton; L 0–1 vs Liverpool; L 3–0 vs Wolves; W 2–0 vs Southampton
+Premier League,20,Southampton,35,2,5,28,25,82,-57,11,0.31,30.7,78.1,-47.3,-1.35,L 3–1 vs Tottenham; L 0–3 vs Aston Villa; D 1–1 vs West Ham; L 1–2 vs Fulham; L 2–0 vs Leicester City
+Serie A,1,Napoli,35,23,8,4,55,25,+30,77,2.20,48.5,28.5,+20.0,+0.57,D 1–1 vs Bologna; W 3–0 vs Empoli; W 0–1 vs Monza; W 2–0 vs Torino; W 0–1 vs Lecce
+Serie A,2,Inter,35,22,8,5,73,33,+40,74,2.11,61.9,31.6,+30.3,+0.86,D 2–2 vs Parma; W 3–1 vs Cagliari; L 1–0 vs Bologna; L 0–1 vs Roma; W 1–0 vs Hellas Verona
+Serie A,3,Atalanta,35,20,8,7,71,31,+40,68,1.94,59.4,34.1,+25.3,+0.72,L 0–1 vs Lazio; W 2–0 vs Bologna; W 0–1 vs Milan; D 1–1 vs Lecce; W 0–4 vs Monza
+Serie A,4,Juventus,35,16,15,4,52,32,+20,63,1.80,46.6,31.2,+15.4,+0.44,D 1–1 vs Roma; W 2–1 vs Lecce; L 1–0 vs Parma; W 2–0 vs Monza; D 1–1 vs Bologna
+Serie A,5,Roma,35,18,9,8,50,32,+18,63,1.80,49.2,36.6,+12.6,+0.36,D 1–1 vs Juventus; D 1–1 vs Lazio; W 1–0 vs Hellas Verona; W 0–1 vs Inter; W 1–0 vs Fiorentina
+Serie A,6,Lazio,35,18,9,8,58,45,+13,63,1.80,51.6,35.4,+16.2,+0.46,W 0–1 vs Atalanta; D 1–1 vs Roma; W 0–2 vs Genoa; D 2–2 vs Parma; W 0–1 vs Empoli
+Serie A,7,Bologna,35,16,14,5,53,38,+15,62,1.77,45.5,32.4,+13.1,+0.37,D 1–1 vs Napoli; L 2–0 vs Atalanta; W 1–0 vs Inter; D 0–0 vs Udinese; D 1–1 vs Juventus
+Serie A,8,Fiorentina,35,17,8,10,53,35,+18,59,1.69,43.3,37.0,+6.3,+0.18,D 2–2 vs Milan; D 0–0 vs Parma; W 1–2 vs Cagliari; W 2–1 vs Empoli; L 1–0 vs Roma
+Serie A,9,Milan,35,16,9,10,55,39,+16,57,1.63,59.2,39.3,+19.9,+0.57,D 2–2 vs Fiorentina; W 0–4 vs Udinese; L 0–1 vs Atalanta; W 0–2 vs Venezia; W 1–2 vs Genoa
+Serie A,10,Como,35,12,9,14,45,48,-3,45,1.29,41.5,39.3,+2.2,+0.06,W 1–3 vs Monza; W 1–0 vs Torino; W 0–3 vs Lecce; W 1–0 vs Genoa; W 0–1 vs Parma
+Serie A,11,Torino,35,10,14,11,39,40,-1,44,1.26,32.1,45.2,-13.1,-0.37,D 1–1 vs Hellas Verona; L 1–0 vs Como; W 2–0 vs Udinese; L 2–0 vs Napoli; D 1–1 vs Venezia
+Serie A,12,Udinese,35,12,8,15,38,49,-11,44,1.26,34.8,46.7,-11.9,-0.34,L 1–0 vs Genoa; L 0–4 vs Milan; L 2–0 vs Torino; D 0–0 vs Bologna; W 1–2 vs Cagliari
+Serie A,13,Genoa,35,9,12,14,30,43,-13,39,1.11,34.5,42.8,-8.3,-0.24,W 1–0 vs Udinese; D 0–0 vs Hellas Verona; L 0–2 vs Lazio; L 1–0 vs Como; L 1–2 vs Milan
+Serie A,14,Cagliari,35,8,9,18,36,51,-15,33,0.94,40.1,50.4,-10.2,-0.29,D 0–0 vs Empoli; L 3–1 vs Inter; L 1–2 vs Fiorentina; W 0–2 vs Hellas Verona; L 1–2 vs Udinese
+Serie A,15,Hellas Verona,35,9,5,21,30,63,-33,32,0.91,31.3,50.6,-19.4,-0.55,D 1–1 vs Torino; D 0–0 vs Genoa; L 1–0 vs Roma; L 0–2 vs Cagliari; L 1–0 vs Inter
+Serie A,16,Parma,35,6,14,15,40,54,-14,32,0.91,39.9,54.2,-14.3,-0.41,D 2–2 vs Inter; D 0–0 vs Fiorentina; W 1–0 vs Juventus; D 2–2 vs Lazio; L 0–1 vs Como
+Serie A,17,Lecce,35,6,9,20,24,57,-33,27,0.77,32.3,54.4,-22.1,-0.63,D 1–1 vs Venezia; L 2–1 vs Juventus; L 0–3 vs Como; D 1–1 vs Atalanta; L 0–1 vs Napoli
+Serie A,18,Venezia,35,4,14,17,28,49,-21,26,0.74,32.5,52.9,-20.4,-0.58,D 1–1 vs Lecce; W 1–0 vs Monza; D 2–2 vs Empoli; L 0–2 vs Milan; D 1–1 vs Torino
+Serie A,19,Empoli,35,4,13,18,27,55,-28,25,0.71,29.7,47.9,-18.1,-0.52,D 0–0 vs Cagliari; L 3–0 vs Napoli; D 2–2 vs Venezia; L 2–1 vs Fiorentina; L 0–1 vs Lazio
+Serie A,20,Monza,35,2,9,24,25,63,-38,15,0.43,26.9,50.4,-23.5,-0.67,L 1–3 vs Como; L 1–0 vs Venezia; L 0–1 vs Napoli; L 2–0 vs Juventus; L 0–4 vs Atalanta
+La Liga,1,Barcelona,34,25,4,5,91,33,+58,79,2.32,81.8,34.8,+46.9,+1.38,D 1–1 vs Betis; W 0–1 vs Leganés; W 4–3 vs Celta Vigo; W 1–0 vs Mallorca; W 1–2 vs Valladolid
+La Liga,2,Real Madrid,34,23,6,5,69,33,+36,75,2.21,65.4,36.7,+28.7,+0.84,L 1–2 vs Valencia; W 0–1 vs Alavés; W 1–0 vs Athletic Club; W 0–1 vs Getafe; W 3–2 vs Celta Vigo
+La Liga,3,Atlético Madrid,34,19,10,5,56,27,+29,67,1.97,54.4,31.3,+23.1,+0.68,W 1–2 vs Sevilla; W 4–2 vs Valladolid; L 1–0 vs Las Palmas; W 3–0 vs Rayo Vallecano; D 0–0 vs Alavés
+La Liga,4,Athletic Club,34,16,13,5,50,26,+24,61,1.79,48.2,33.1,+15.2,+0.45,D 0–0 vs Villarreal; W 3–1 vs Rayo Vallecano; L 1–0 vs Real Madrid; W 1–0 vs Las Palmas; D 0–0 vs Real Sociedad
+La Liga,5,Villarreal,34,16,10,8,60,47,+13,58,1.71,58.4,40.2,+18.1,+0.53,W 1–2 vs Betis; D 2–2 vs Real Sociedad; L 3–0 vs Celta Vigo; W 1–0 vs Espanyol; W 4–2 vs Osasuna
+La Liga,6,Betis,34,16,9,9,52,42,+10,57,1.68,51.2,41.9,+9.3,+0.27,D 1–1 vs Barcelona; L 1–2 vs Villarreal; W 1–3 vs Girona; W 5–1 vs Valladolid; W 1–2 vs Espanyol
+La Liga,7,Celta Vigo,34,13,7,14,52,52,0,46,1.35,48.3,37.7,+10.6,+0.31,W 1–2 vs Mallorca; L 0–2 vs Espanyol; L 4–3 vs Barcelona; W 3–0 vs Villarreal; L 3–2 vs Real Madrid
+La Liga,8,Rayo Vallecano,34,11,11,12,36,42,-6,44,1.29,39.7,44.1,-4.4,-0.13,L 0–4 vs Espanyol; L 3–1 vs Athletic Club; D 1–1 vs Valencia; L 3–0 vs Atlético Madrid; W 1–0 vs Getafe
+La Liga,9,Osasuna,34,10,14,10,42,50,-8,44,1.29,38.6,49.2,-10.5,-0.31,D 1–1 vs Leganés; W 2–1 vs Girona; W 2–3 vs Valladolid; W 1–0 vs Sevilla; L 4–2 vs Villarreal
+La Liga,10,Mallorca,34,12,8,14,31,39,-8,44,1.29,36.2,38.6,-2.3,-0.07,L 1–2 vs Celta Vigo; W 0–2 vs Real Sociedad; D 0–0 vs Leganés; L 1–0 vs Barcelona; L 1–0 vs Girona
+La Liga,11,Real Sociedad,34,12,7,15,32,37,-5,43,1.26,37.3,36.6,+0.7,+0.02,W 1–3 vs Las Palmas; L 0–2 vs Mallorca; D 2–2 vs Villarreal; L 1–0 vs Alavés; D 0–0 vs Athletic Club
+La Liga,12,Valencia,34,10,12,12,40,51,-11,42,1.24,38.5,47.6,-9.1,-0.27,W 1–2 vs Real Madrid; W 1–0 vs Sevilla; D 1–1 vs Rayo Vallecano; D 1–1 vs Espanyol; W 2–3 vs Las Palmas
+La Liga,13,Getafe,34,10,9,15,31,31,0,39,1.15,33.8,40.4,-6.6,-0.19,W 0–4 vs Valladolid; L 1–3 vs Las Palmas; L 1–0 vs Espanyol; L 0–1 vs Real Madrid; L 1–0 vs Rayo Vallecano
+La Liga,14,Espanyol,34,10,9,15,36,44,-8,39,1.15,29.1,49.9,-20.8,-0.61,W 0–2 vs Celta Vigo; W 1–0 vs Getafe; D 1–1 vs Valencia; L 1–0 vs Villarreal; L 1–2 vs Betis
+La Liga,15,Girona,34,10,8,16,41,52,-11,38,1.12,38.5,42.8,-4.2,-0.12,L 0–1 vs Alavés; L 2–1 vs Osasuna; L 1–3 vs Betis; D 1–1 vs Leganés; W 1–0 vs Mallorca
+La Liga,16,Sevilla,34,9,11,14,37,46,-9,38,1.12,37.1,43.0,-5.9,-0.17,L 1–2 vs Atlético Madrid; L 1–0 vs Valencia; D 1–1 vs Alavés; L 1–0 vs Osasuna; D 2–2 vs Leganés
+La Liga,17,Alavés,34,8,11,15,35,46,-11,35,1.03,37.3,41.7,-4.3,-0.13,W 0–1 vs Girona; L 0–1 vs Real Madrid; D 1–1 vs Sevilla; W 1–0 vs Real Sociedad; D 0–0 vs Atlético Madrid
+La Liga,18,Las Palmas,34,8,8,18,40,56,-16,32,0.94,34.1,60.8,-26.7,-0.79,L 1–3 vs Real Sociedad; W 1–3 vs Getafe; W 1–0 vs Atlético Madrid; L 1–0 vs Athletic Club; L 2–3 vs Valencia
+La Liga,19,Leganés,34,6,13,15,32,51,-19,31,0.91,29.8,55.7,-25.8,-0.76,D 1–1 vs Osasuna; L 0–1 vs Barcelona; D 0–0 vs Mallorca; D 1–1 vs Girona; D 2–2 vs Sevilla
+La Liga,20,Valladolid,34,4,4,26,25,83,-58,16,0.47,29.9,61.8,-31.9,-0.94,L 0–4 vs Getafe; L 4–2 vs Atlético Madrid; L 2–3 vs Osasuna; L 5–1 vs Betis; L 1–2 vs Barcelona
+Ligue 1,1,Paris S-G,32,24,6,2,85,33,+52,78,2.44,84.0,30.0,+54.0,+1.69,W 1–0 vs Angers; W 2–1 vs Le Havre; D 1–1 vs Nantes; L 1–3 vs Nice; L 2–1 vs Strasbourg
+Ligue 1,2,Marseille,32,18,5,9,67,44,+23,59,1.84,57.3,43.1,+14.2,+0.44,W 3–2 vs Toulouse; L 3–0 vs Monaco; W 5–1 vs Montpellier; W 4–1 vs Brest; D 1–1 vs Lille
+Ligue 1,3,Monaco,32,17,7,8,61,37,+24,58,1.81,71.2,32.7,+38.5,+1.20,L 2–1 vs Brest; W 3–0 vs Marseille; D 0–0 vs Strasbourg; D 1–1 vs Le Havre; W 1–3 vs Saint-Étienne
+Ligue 1,4,Nice,32,16,9,7,60,39,+21,57,1.78,55.7,37.6,+18.1,+0.56,L 1–2 vs Nantes; D 2–2 vs Strasbourg; W 2–1 vs Angers; W 1–3 vs Paris S-G; W 1–0 vs Reims
+Ligue 1,5,Lille,32,16,9,7,50,33,+17,57,1.78,50.8,41.2,+9.6,+0.30,L 2–1 vs Lyon; W 1–2 vs Toulouse; W 3–1 vs Auxerre; W 0–2 vs Angers; D 1–1 vs Marseille
+Ligue 1,6,Strasbourg,32,16,9,7,53,39,+14,57,1.78,46.7,52.9,-6.2,-0.19,W 0–1 vs Reims; D 2–2 vs Nice; D 0–0 vs Monaco; W 3–1 vs Saint-Étienne; W 2–1 vs Paris S-G
+Ligue 1,7,Lyon,32,16,6,10,63,44,+19,54,1.69,56.0,44.1,+11.9,+0.37,W 2–1 vs Lille; W 1–3 vs Auxerre; L 2–1 vs Saint-Étienne; W 4–1 vs Rennes; L 1–2 vs Lens
+Ligue 1,8,Lens,32,14,6,12,37,38,-1,48,1.50,49.3,43.7,+5.6,+0.18,W 1–0 vs Saint-Étienne; L 0–2 vs Reims; W 1–3 vs Brest; L 0–4 vs Auxerre; W 1–2 vs Lyon
+Ligue 1,9,Brest,32,14,5,13,50,53,-3,47,1.47,43.3,50.6,-7.3,-0.23,W 2–1 vs Monaco; D 3–3 vs Saint-Étienne; L 1–3 vs Lens; L 4–1 vs Marseille; W 1–0 vs Montpellier
+Ligue 1,10,Auxerre,32,11,8,13,46,47,-1,41,1.28,40.0,54.8,-14.8,-0.46,W 0–1 vs Rennes; L 1–3 vs Lyon; L 3–1 vs Lille; W 0–4 vs Lens; L 1–2 vs Le Havre
+Ligue 1,11,Rennes,32,12,2,18,47,46,+1,38,1.19,45.6,41.0,+4.6,+0.14,L 0–1 vs Auxerre; W 1–5 vs Le Havre; W 2–1 vs Nantes; L 4–1 vs Lyon; L 2–1 vs Toulouse
+Ligue 1,12,Toulouse,32,10,8,14,40,40,0,38,1.19,44.8,34.7,+10.1,+0.32,L 3–2 vs Marseille; L 1–2 vs Lille; L 1–0 vs Reims; D 0–0 vs Nantes; W 2–1 vs Rennes
+Ligue 1,13,Reims,32,8,9,15,32,43,-11,33,1.03,35.4,54.7,-19.2,-0.60,L 0–1 vs Strasbourg; W 0–2 vs Lens; W 1–0 vs Toulouse; D 0–0 vs Montpellier; L 1–0 vs Nice
+Ligue 1,14,Angers,32,9,6,17,30,50,-20,33,1.03,34.8,52.9,-18.1,-0.56,L 1–0 vs Paris S-G; W 2–0 vs Montpellier; L 2–1 vs Nice; L 0–2 vs Lille; W 0–1 vs Nantes
+Ligue 1,15,Nantes,32,7,11,14,35,51,-16,32,1.00,36.0,54.4,-18.4,-0.57,W 1–2 vs Nice; L 2–1 vs Rennes; D 1–1 vs Paris S-G; D 0–0 vs Toulouse; L 0–1 vs Angers
+Ligue 1,16,Le Havre,32,9,4,19,36,66,-30,31,0.97,38.0,58.7,-20.7,-0.65,W 0–2 vs Montpellier; L 1–5 vs Rennes; L 2–1 vs Paris S-G; D 1–1 vs Monaco; W 1–2 vs Auxerre
+Ligue 1,17,Saint-Étienne,31,6,6,19,33,74,-41,24,0.77,34.4,69.2,-34.9,-1.12,L 1–0 vs Lens; D 3–3 vs Brest; W 2–1 vs Lyon; L 3–1 vs Strasbourg; L 1–3 vs Monaco
+Ligue 1,18,Montpellier,31,4,4,23,22,70,-48,16,0.52,32.1,59.1,-27.0,-0.87,L 0–2 vs Le Havre; L 2–0 vs Angers; L 5–1 vs Marseille; D 0–0 vs Reims; L 1–0 vs Brest
+Bundesliga,1,Bayern Munich,32,23,7,2,93,32,+61,76,2.38,77.8,23.5,+54.3,+1.70,W 1–3 vs Augsburg; D 2–2 vs Dortmund; W 0–4 vs Heidenheim; W 3–0 vs Mainz 05; D 3–3 vs RB Leipzig
+Bundesliga,2,Leverkusen,32,19,11,2,68,37,+31,68,2.13,53.5,32.0,+21.5,+0.67,W 0–1 vs Heidenheim; D 0–0 vs Union Berlin; D 1–1 vs St. Pauli; W 2–0 vs Augsburg; D 2–2 vs Freiburg
+Bundesliga,3,Eint Frankfurt,32,16,8,8,63,43,+20,56,1.75,61.5,46.5,+14.9,+0.47,L 2–0 vs Werder Bremen; W 3–0 vs Heidenheim; D 0–0 vs Augsburg; W 4–0 vs RB Leipzig; D 1–1 vs Mainz 05
+Bundesliga,4,Freiburg,32,15,7,10,46,49,-3,52,1.63,42.1,39.5,+2.6,+0.08,L 1–4 vs Dortmund; W 1–2 vs Gladbach; W 3–2 vs Hoffenheim; W 0–1 vs Wolfsburg; D 2–2 vs Leverkusen
+Bundesliga,5,Dortmund,32,15,6,11,64,49,+15,51,1.59,57.6,39.8,+17.7,+0.55,W 1–4 vs Freiburg; D 2–2 vs Bayern Munich; W 3–2 vs Gladbach; W 2–3 vs Hoffenheim; W 4–0 vs Wolfsburg
+Bundesliga,6,RB Leipzig,32,13,11,8,51,45,+6,50,1.56,43.8,48.7,-5.0,-0.16,W 3–1 vs Hoffenheim; W 2–3 vs Wolfsburg; D 1–1 vs Holstein Kiel; L 4–0 vs Eint Frankfurt; D 3–3 vs Bayern Munich
+Bundesliga,7,Mainz 05,32,13,9,10,49,40,+9,48,1.50,45.6,46.0,-0.4,-0.01,D 1–1 vs Holstein Kiel; L 2–0 vs Hoffenheim; D 2–2 vs Wolfsburg; L 3–0 vs Bayern Munich; D 1–1 vs Eint Frankfurt
+Bundesliga,8,Werder Bremen,32,13,8,11,50,56,-6,47,1.47,44.9,44.8,0.0,0.00,W 2–0 vs Eint Frankfurt; W 1–2 vs Stuttgart; W 1–0 vs Bochum; D 0–0 vs St. Pauli; D 2–2 vs Union Berlin
+Bundesliga,9,Gladbach,32,13,6,13,55,54,+1,45,1.41,48.0,59.2,-11.2,-0.35,D 1–1 vs St. Pauli; L 1–2 vs Freiburg; L 3–2 vs Dortmund; L 4–3 vs Holstein Kiel; D 4–4 vs Hoffenheim
+Bundesliga,10,Stuttgart,32,12,8,12,57,51,+6,44,1.38,55.9,45.3,+10.6,+0.33,W 0–4 vs Bochum; L 1–2 vs Werder Bremen; D 4–4 vs Union Berlin; L 0–1 vs Heidenheim; W 0–1 vs St. Pauli
+Bundesliga,11,Augsburg,32,11,10,11,34,45,-11,43,1.34,32.5,44.2,-11.7,-0.37,L 1–3 vs Bayern Munich; W 1–2 vs Bochum; D 0–0 vs Eint Frankfurt; L 2–0 vs Leverkusen; L 1–3 vs Holstein Kiel
+Bundesliga,12,Wolfsburg,32,10,9,13,53,52,+1,39,1.22,44.9,50.2,-5.3,-0.17,L 1–0 vs Union Berlin; L 2–3 vs RB Leipzig; D 2–2 vs Mainz 05; L 0–1 vs Freiburg; L 4–0 vs Dortmund
+Bundesliga,13,Union Berlin,32,9,10,13,33,47,-14,37,1.16,35.8,45.0,-9.2,-0.29,W 1–0 vs Wolfsburg; D 0–0 vs Leverkusen; D 4–4 vs Stuttgart; D 1–1 vs Bochum; D 2–2 vs Werder Bremen
+Bundesliga,14,St. Pauli,32,8,7,17,26,37,-11,31,0.97,33.7,42.4,-8.6,-0.27,D 1–1 vs Gladbach; W 1–2 vs Holstein Kiel; D 1–1 vs Leverkusen; D 0–0 vs Werder Bremen; L 0–1 vs Stuttgart
+Bundesliga,15,Hoffenheim,32,7,10,15,44,62,-18,31,0.97,40.9,53.4,-12.5,-0.39,L 3–1 vs RB Leipzig; W 2–0 vs Mainz 05; L 3–2 vs Freiburg; L 2–3 vs Dortmund; D 4–4 vs Gladbach
+Bundesliga,16,Heidenheim,32,7,5,20,33,60,-27,26,0.81,37.6,55.0,-17.4,-0.54,L 0–1 vs Leverkusen; L 3–0 vs Eint Frankfurt; L 0–4 vs Bayern Munich; W 0–1 vs Stuttgart; D 0–0 vs Bochum
+Bundesliga,17,Holstein Kiel,32,6,7,19,48,75,-27,25,0.78,38.1,57.1,-19.1,-0.60,D 1–1 vs Mainz 05; L 1–2 vs St. Pauli; D 1–1 vs RB Leipzig; W 4–3 vs Gladbach; W 1–3 vs Augsburg
+Bundesliga,18,Bochum,32,5,7,20,30,63,-33,22,0.69,39.6,60.9,-21.3,-0.67,L 0–4 vs Stuttgart; L 1–2 vs Augsburg; L 1–0 vs Werder Bremen; D 1–1 vs Union Berlin; D 0–0 vs Heidenheim

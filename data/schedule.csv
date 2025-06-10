@@ -1,0 +1,3559 @@
+game_id,home_team,away_team,home_score,away_score,date,away_xg,home_xg
+3a6836b4,Burnley,Manchester City,0,3,2023-08-11,1.9,0.3
+26a7f90c,Arsenal,Nott'ham Forest,2,1,2023-08-12,1.2,0.8
+d6bbf293,Bournemouth,West Ham,1,1,2023-08-12,1.1,1.3
+56a137f7,Brighton,Luton Town,4,1,2023-08-12,1.5,4.0
+15addfc7,Everton,Fulham,0,1,2023-08-12,1.5,2.7
+8ff2f8fe,Newcastle Utd,Aston Villa,5,1,2023-08-12,1.8,3.3
+55fd92c7,Sheffield Utd,Crystal Palace,0,1,2023-08-12,1.9,0.5
+67ed3ba2,Brentford,Tottenham,2,2,2023-08-13,1.3,2.2
+c18d3207,Chelsea,Liverpool,1,1,2023-08-13,1.3,1.4
+f1ecda2c,Manchester Utd,Wolves,1,0,2023-08-14,2.2,2.2
+a0a93f71,Nott'ham Forest,Sheffield Utd,2,1,2023-08-18,0.5,1.4
+46be83af,Fulham,Brentford,0,3,2023-08-19,3.7,0.5
+80bebdbb,Liverpool,Bournemouth,3,1,2023-08-19,1.3,3.0
+0b8f50a5,Manchester City,Newcastle Utd,1,0,2023-08-19,0.3,1.0
+4bb62251,Tottenham,Manchester Utd,2,0,2023-08-19,2.1,1.7
+d7c606ec,Wolves,Brighton,1,4,2023-08-19,2.2,2.1
+959b558d,Aston Villa,Everton,4,0,2023-08-20,0.6,2.9
+44b9a07c,West Ham,Chelsea,3,1,2023-08-20,2.5,1.8
+3b5ecd36,Crystal Palace,Arsenal,0,1,2023-08-21,2.0,1.0
+6bfb9dc0,Chelsea,Luton Town,3,0,2023-08-25,0.4,2.2
+d8f8f8ad,Arsenal,Fulham,2,2,2023-08-26,0.6,3.2
+f49c4ad2,Bournemouth,Tottenham,0,2,2023-08-26,2.1,0.7
+537b2b0b,Brentford,Crystal Palace,1,1,2023-08-26,0.8,1.0
+ba68d60c,Brighton,West Ham,1,3,2023-08-26,3.0,1.5
+18dfee28,Everton,Wolves,0,1,2023-08-26,1.1,1.3
+70d9b1ab,Manchester Utd,Nott'ham Forest,3,2,2023-08-26,1.2,2.8
+b66a7def,Burnley,Aston Villa,1,3,2023-08-27,2.5,0.7
+b31156ab,Newcastle Utd,Liverpool,1,2,2023-08-27,0.9,2.0
+0844ff10,Sheffield Utd,Manchester City,1,2,2023-08-27,3.5,0.7
+e929e225,Luton Town,West Ham,1,2,2023-09-01,1.0,1.4
+e2946b10,Brentford,Bournemouth,2,2,2023-09-02,2.1,2.9
+4f754e0a,Brighton,Newcastle Utd,3,1,2023-09-02,1.2,1.3
+f1786fb8,Burnley,Tottenham,2,5,2023-09-02,2.2,1.3
+44e89d37,Chelsea,Nott'ham Forest,0,1,2023-09-02,0.8,2.3
+88066bdf,Manchester City,Fulham,5,1,2023-09-02,1.4,2.2
+87b46bb9,Sheffield Utd,Everton,2,2,2023-09-02,2.5,1.2
+74125d47,Arsenal,Manchester Utd,3,1,2023-09-03,0.9,2.3
+f9436d32,Crystal Palace,Wolves,3,2,2023-09-03,1.2,2.1
+bdbc722e,Liverpool,Aston Villa,3,0,2023-09-03,0.7,2.5
+bc77340e,Aston Villa,Crystal Palace,3,1,2023-09-16,1.2,3.0
+48b1bdc7,Fulham,Luton Town,1,0,2023-09-16,1.1,1.0
+ddcf2857,Manchester Utd,Brighton,1,3,2023-09-16,1.7,1.0
+71b7e5e2,Newcastle Utd,Brentford,1,0,2023-09-16,0.5,1.4
+e56e96e1,Tottenham,Sheffield Utd,2,1,2023-09-16,0.7,2.1
+64c0a6e2,West Ham,Manchester City,1,3,2023-09-16,3.6,0.9
+38daebd2,Wolves,Liverpool,1,3,2023-09-16,2.5,0.6
+be0cbf88,Bournemouth,Chelsea,0,0,2023-09-17,1.8,1.0
+b1278924,Everton,Arsenal,0,1,2023-09-17,1.0,0.3
+ad7ecfad,Nott'ham Forest,Burnley,1,1,2023-09-18,0.5,0.7
+96681b93,Brentford,Everton,1,3,2023-09-23,1.9,1.0
+8e26793d,Burnley,Manchester Utd,0,1,2023-09-23,1.0,1.1
+cf0b2b19,Crystal Palace,Fulham,0,0,2023-09-23,0.6,0.3
+76a1421e,Luton Town,Wolves,1,1,2023-09-23,0.6,2.1
+5dc7e234,Manchester City,Nott'ham Forest,2,0,2023-09-23,1.0,1.3
+08947a10,Arsenal,Tottenham,2,2,2023-09-24,1.4,1.8
+5593f16c,Brighton,Bournemouth,3,1,2023-09-24,1.1,1.9
+7d2c5e05,Chelsea,Aston Villa,0,1,2023-09-24,1.0,1.3
+90adf8b3,Liverpool,West Ham,3,1,2023-09-24,1.1,3.0
+cf4fef85,Sheffield Utd,Newcastle Utd,0,8,2023-09-24,3.9,0.9
+2df9a3a1,Aston Villa,Brighton,6,1,2023-09-30,1.7,1.6
+8de4aca0,Bournemouth,Arsenal,0,4,2023-09-30,3.4,0.6
+921d5f17,Everton,Luton Town,1,2,2023-09-30,0.9,2.9
+ef2b7ab9,Manchester Utd,Crystal Palace,0,1,2023-09-30,0.9,1.3
+a79ff136,Newcastle Utd,Burnley,2,0,2023-09-30,0.6,3.1
+ec4145b4,Tottenham,Liverpool,2,1,2023-09-30,1.3,2.2
+b82be6d7,West Ham,Sheffield Utd,2,0,2023-09-30,1.1,2.1
+60ce29cd,Wolves,Manchester City,2,1,2023-09-30,0.9,0.4
+923467c5,Nott'ham Forest,Brentford,1,1,2023-10-01,1.6,0.5
+c9787e60,Fulham,Chelsea,0,2,2023-10-02,1.7,1.1
+4f7b3f27,Luton Town,Burnley,1,2,2023-10-03,1.1,1.3
+cfd83ca3,Burnley,Chelsea,1,4,2023-10-07,1.9,0.7
+1828106c,Crystal Palace,Nott'ham Forest,0,0,2023-10-07,1.0,0.8
+497b9558,Everton,Bournemouth,3,0,2023-10-07,0.7,2.4
+ffc59ea8,Fulham,Sheffield Utd,3,1,2023-10-07,0.6,2.2
+d021f28f,Luton Town,Tottenham,0,1,2023-10-07,1.9,0.8
+5006142a,Manchester Utd,Brentford,2,1,2023-10-07,0.9,1.4
+59cd18ae,Arsenal,Manchester City,1,0,2023-10-08,0.5,0.4
+3b1ec657,Brighton,Liverpool,2,2,2023-10-08,2.3,2.3
+017c9ca5,West Ham,Newcastle Utd,2,2,2023-10-08,2.0,1.2
+3292ed35,Wolves,Aston Villa,1,1,2023-10-08,1.6,1.7
+007b352e,Bournemouth,Wolves,1,2,2023-10-21,2.4,0.6
+52781f37,Brentford,Burnley,3,0,2023-10-21,1.1,3.1
+a1c336e2,Chelsea,Arsenal,2,2,2023-10-21,1.0,1.3
+e747ddb3,Liverpool,Everton,2,0,2023-10-21,0.1,2.2
+b782a834,Manchester City,Brighton,2,1,2023-10-21,0.8,0.8
+21625dde,Newcastle Utd,Crystal Palace,4,0,2023-10-21,1.2,2.4
+d1671efa,Nott'ham Forest,Luton Town,2,2,2023-10-21,1.7,2.9
+d95b42eb,Sheffield Utd,Manchester Utd,1,2,2023-10-21,1.1,1.4
+7efcc598,Aston Villa,West Ham,4,1,2023-10-22,1.1,1.9
+8c6293a3,Tottenham,Fulham,2,0,2023-10-23,1.0,1.5
+6b0aa474,Crystal Palace,Tottenham,1,2,2023-10-27,1.1,0.6
+d498f918,Arsenal,Sheffield Utd,5,0,2023-10-28,0.0,2.8
+c4c42d3e,Bournemouth,Burnley,2,1,2023-10-28,0.8,1.1
+91e3b922,Chelsea,Brentford,0,2,2023-10-28,2.2,1.9
+b84d060a,Wolves,Newcastle Utd,2,2,2023-10-28,2.2,0.9
+ee677172,Aston Villa,Luton Town,3,1,2023-10-29,0.5,2.3
+a0c422e9,Brighton,Fulham,1,1,2023-10-29,0.7,1.4
+79bf0c7f,Liverpool,Nott'ham Forest,3,0,2023-10-29,0.4,3.2
+f6bfec82,Manchester Utd,Manchester City,0,3,2023-10-29,4.0,0.9
+868a89be,West Ham,Everton,0,1,2023-10-29,0.8,0.7
+3235dd6e,Brentford,West Ham,3,2,2023-11-04,1.8,1.5
+8797f9a9,Burnley,Crystal Palace,0,2,2023-11-04,1.3,1.1
+6ecb53ac,Everton,Brighton,1,1,2023-11-04,0.5,0.7
+31273be0,Fulham,Manchester Utd,0,1,2023-11-04,0.7,1.0
+e75a870b,Manchester City,Bournemouth,6,1,2023-11-04,0.9,1.9
+6096abaa,Newcastle Utd,Arsenal,1,0,2023-11-04,0.6,1.0
+e841bbac,Sheffield Utd,Wolves,2,1,2023-11-04,1.2,1.0
+a62b97ba,Luton Town,Liverpool,1,1,2023-11-05,2.6,0.8
+ac18f108,Nott'ham Forest,Aston Villa,2,0,2023-11-05,1.2,0.4
+478e4eb3,Tottenham,Chelsea,1,4,2023-11-06,4.1,0.9
+2cb4e4dc,Arsenal,Burnley,3,1,2023-11-11,0.3,1.8
+641024cf,Bournemouth,Newcastle Utd,2,0,2023-11-11,0.5,2.4
+a4795b68,Crystal Palace,Everton,2,3,2023-11-11,1.5,2.2
+4b9f3f25,Manchester Utd,Luton Town,1,0,2023-11-11,0.4,2.2
+1634f066,Wolves,Tottenham,2,1,2023-11-11,0.7,2.1
+d6a70a44,Aston Villa,Fulham,3,1,2023-11-12,0.9,3.0
+ebf41e41,Brighton,Sheffield Utd,1,1,2023-11-12,1.1,1.5
+53bb8f30,Chelsea,Manchester City,4,4,2023-11-12,2.9,2.9
+996ee990,Liverpool,Brentford,3,0,2023-11-12,1.6,1.7
+76b8e568,West Ham,Nott'ham Forest,3,2,2023-11-12,1.7,1.8
+626c6561,Brentford,Arsenal,0,1,2023-11-25,1.6,1.1
+36a64522,Burnley,West Ham,1,2,2023-11-25,0.9,1.3
+f4805536,Luton Town,Crystal Palace,2,1,2023-11-25,1.6,0.9
+5d4a5006,Manchester City,Liverpool,1,1,2023-11-25,0.6,1.3
+8c8f48f4,Newcastle Utd,Chelsea,4,1,2023-11-25,0.5,2.4
+36be5cee,Nott'ham Forest,Brighton,2,3,2023-11-25,1.3,1.9
+799a2c04,Sheffield Utd,Bournemouth,1,3,2023-11-25,2.9,0.8
+f82a83dd,Everton,Manchester Utd,0,3,2023-11-26,2.2,2.4
+83db7754,Tottenham,Aston Villa,1,2,2023-11-26,1.7,2.3
+b19cc422,Fulham,Wolves,3,2,2023-11-27,1.4,2.9
+6e65df8e,Arsenal,Wolves,2,1,2023-12-02,0.7,2.8
+0f71f535,Brentford,Luton Town,3,1,2023-12-02,0.2,3.1
+e2c53b0a,Burnley,Sheffield Utd,5,0,2023-12-02,0.4,1.8
+66a1f3ac,Newcastle Utd,Manchester Utd,1,0,2023-12-02,0.5,2.4
+0486198b,Nott'ham Forest,Everton,0,1,2023-12-02,0.7,0.7
+19533403,Bournemouth,Aston Villa,2,2,2023-12-03,0.7,2.0
+86b7d24f,Chelsea,Brighton,3,2,2023-12-03,1.1,2.1
+4b7e6f44,Liverpool,Fulham,4,3,2023-12-03,1.2,2.1
+0e39f016,Manchester City,Tottenham,3,3,2023-12-03,0.5,2.6
+f7fb8049,West Ham,Crystal Palace,1,1,2023-12-03,0.9,1.1
+dd3a5afc,Luton Town,Arsenal,3,4,2023-12-05,2.2,0.5
+a52ffb27,Wolves,Burnley,1,0,2023-12-05,0.9,0.8
+0ad90506,Aston Villa,Manchester City,1,0,2023-12-06,0.6,2.3
+75d21da8,Brighton,Brentford,2,1,2023-12-06,1.5,1.5
+09909bf8,Crystal Palace,Bournemouth,0,2,2023-12-06,1.8,1.0
+fd5606da,Fulham,Nott'ham Forest,5,0,2023-12-06,0.3,2.5
+49f486f6,Manchester Utd,Chelsea,2,1,2023-12-06,1.5,4.1
+01aca132,Sheffield Utd,Liverpool,0,2,2023-12-06,1.7,1.0
+2fe9d766,Everton,Newcastle Utd,3,0,2023-12-07,1.5,3.3
+200af033,Tottenham,West Ham,1,2,2023-12-07,2.2,1.8
+8cf29e50,Aston Villa,Arsenal,1,0,2023-12-09,1.4,0.6
+ab18fa97,Brighton,Burnley,1,1,2023-12-09,0.6,2.6
+a1b18af3,Crystal Palace,Liverpool,1,2,2023-12-09,1.2,1.7
+0760a568,Manchester Utd,Bournemouth,0,3,2023-12-09,1.5,1.1
+e268f518,Sheffield Utd,Brentford,1,0,2023-12-09,0.6,0.8
+8c8fdba5,Wolves,Nott'ham Forest,1,1,2023-12-09,1.3,1.2
+953b5f9b,Everton,Chelsea,2,0,2023-12-10,0.9,1.2
+d3dd23fb,Fulham,West Ham,5,0,2023-12-10,1.3,2.3
+f6155857,Luton Town,Manchester City,1,2,2023-12-10,1.6,0.3
+be6d1aac,Tottenham,Newcastle Utd,4,1,2023-12-10,1.7,3.8
+4d9f1a71,Nott'ham Forest,Tottenham,0,2,2023-12-15,1.5,1.3
+01904d1d,Burnley,Everton,0,2,2023-12-16,1.4,0.7
+3bbbaf15,Chelsea,Sheffield Utd,2,0,2023-12-16,0.4,3.1
+30f3e1ee,Manchester City,Crystal Palace,2,2,2023-12-16,1.8,1.6
+5db0f25b,Newcastle Utd,Fulham,3,0,2023-12-16,0.3,3.5
+e3a46a4e,Arsenal,Brighton,2,0,2023-12-17,0.7,2.3
+4a3af0ab,Brentford,Aston Villa,1,2,2023-12-17,1.4,0.5
+18e98d77,Liverpool,Manchester Utd,0,0,2023-12-17,0.8,2.3
+5f5bc7b3,West Ham,Wolves,3,0,2023-12-17,0.7,1.1
+7340be7a,Crystal Palace,Brighton,1,1,2023-12-21,1.2,1.3
+37916998,Aston Villa,Sheffield Utd,1,1,2023-12-22,0.6,0.9
+7dd3c51a,Fulham,Burnley,0,2,2023-12-23,0.4,1.3
+bfbfbbe8,Liverpool,Arsenal,1,1,2023-12-23,0.7,1.0
+46bfb645,Luton Town,Newcastle Utd,1,0,2023-12-23,1.4,1.4
+c5548935,Nott'ham Forest,Bournemouth,2,3,2023-12-23,1.6,1.0
+849071fe,Tottenham,Everton,2,1,2023-12-23,1.8,1.5
+328777ed,West Ham,Manchester Utd,2,0,2023-12-23,1.0,1.2
+8c0b314c,Wolves,Chelsea,2,1,2023-12-24,2.0,1.3
+331c942d,Bournemouth,Fulham,3,0,2023-12-26,0.3,1.8
+c0904954,Burnley,Liverpool,0,2,2023-12-26,1.8,0.8
+83709fdf,Manchester Utd,Aston Villa,3,2,2023-12-26,1.7,1.1
+f22a20f0,Newcastle Utd,Nott'ham Forest,1,3,2023-12-26,3.5,2.4
+6269b2e3,Sheffield Utd,Luton Town,2,3,2023-12-26,0.6,2.4
+ea28d527,Brentford,Wolves,1,4,2023-12-27,2.4,2.2
+2bfb6552,Chelsea,Crystal Palace,2,1,2023-12-27,1.1,2.6
+b9f69f01,Everton,Manchester City,1,3,2023-12-27,2.4,1.0
+ba570015,Arsenal,West Ham,0,2,2023-12-28,1.4,2.7
+3e2e9248,Brighton,Tottenham,4,2,2023-12-28,2.3,3.2
+2828c5bc,Aston Villa,Burnley,3,2,2023-12-30,1.2,3.2
+e9d5dd9b,Crystal Palace,Brentford,3,1,2023-12-30,1.4,1.0
+8e04572c,Luton Town,Chelsea,2,3,2023-12-30,1.5,2.3
+aefd7405,Manchester City,Sheffield Utd,2,0,2023-12-30,0.3,2.2
+1aa68cba,Nott'ham Forest,Manchester Utd,2,1,2023-12-30,0.8,0.7
+7dfc59ca,Wolves,Everton,3,0,2023-12-30,0.4,1.9
+6c1b6ffc,Fulham,Arsenal,2,1,2023-12-31,1.6,1.2
+3ab71352,Tottenham,Bournemouth,3,1,2023-12-31,1.7,2.3
+107b2d79,Liverpool,Newcastle Utd,4,2,2024-01-01,0.6,7.0
+d557afd0,West Ham,Brighton,0,0,2024-01-02,2.3,0.7
+d62dd931,Burnley,Luton Town,1,1,2024-01-12,0.9,1.1
+dd052c34,Chelsea,Fulham,1,0,2024-01-13,0.8,2.2
+738f8c3e,Newcastle Utd,Manchester City,2,3,2024-01-13,3.0,1.3
+1628c63e,Everton,Aston Villa,0,0,2024-01-14,1.2,1.1
+904ed2f9,Manchester Utd,Tottenham,2,2,2024-01-14,1.2,0.8
+006fb5b5,Arsenal,Crystal Palace,5,0,2024-01-20,0.3,3.3
+e0a9c631,Brentford,Nott'ham Forest,3,2,2024-01-20,1.2,1.2
+9a03e25c,Bournemouth,Liverpool,0,4,2024-01-21,1.5,1.4
+abd525b4,Sheffield Utd,West Ham,2,2,2024-01-21,2.3,2.5
+35fb5bc2,Brighton,Wolves,0,0,2024-01-22,1.1,1.0
+d8679e54,Aston Villa,Newcastle Utd,1,3,2024-01-30,2.6,1.4
+9f51ce03,Crystal Palace,Sheffield Utd,3,2,2024-01-30,0.8,1.1
+17d24e01,Fulham,Everton,0,0,2024-01-30,1.9,1.6
+381f12be,Luton Town,Brighton,4,0,2024-01-30,0.9,3.1
+20a16b44,Nott'ham Forest,Arsenal,1,2,2024-01-30,1.2,0.5
+1836d9bd,Liverpool,Chelsea,4,1,2024-01-31,0.6,2.9
+d10aaae8,Manchester City,Burnley,3,1,2024-01-31,1.4,1.7
+79ffec97,Tottenham,Brentford,3,2,2024-01-31,1.6,2.9
+16dc9951,West Ham,Bournemouth,1,1,2024-02-01,1.2,1.4
+457203bc,Wolves,Manchester Utd,3,4,2024-02-01,3.3,2.1
+689d15cf,Brighton,Crystal Palace,4,1,2024-02-03,0.3,1.4
+a2436e30,Burnley,Fulham,2,2,2024-02-03,1.5,1.8
+fd68d50e,Everton,Tottenham,2,2,2024-02-03,1.0,2.6
+67cb7a4e,Newcastle Utd,Luton Town,4,4,2024-02-03,2.4,2.3
+b3e195c5,Sheffield Utd,Aston Villa,0,5,2024-02-03,2.2,1.4
+99020abf,Arsenal,Liverpool,3,1,2024-02-04,0.4,3.5
+29948898,Bournemouth,Nott'ham Forest,1,1,2024-02-04,0.5,1.3
+dfde4bd7,Chelsea,Wolves,2,4,2024-02-04,2.0,1.7
+dc1428be,Manchester Utd,West Ham,3,0,2024-02-04,1.4,0.7
+2b3630b6,Brentford,Manchester City,1,3,2024-02-05,2.1,1.0
+bf9e0d20,Fulham,Bournemouth,3,1,2024-02-10,1.8,1.6
+29e4d6ac,Liverpool,Burnley,3,1,2024-02-10,1.3,2.8
+1a4e7d02,Luton Town,Sheffield Utd,1,3,2024-02-10,1.7,1.8
+00ea7906,Manchester City,Everton,2,0,2024-02-10,0.3,1.6
+1c53666a,Nott'ham Forest,Newcastle Utd,2,3,2024-02-10,0.5,1.5
+c0dfccdf,Tottenham,Brighton,2,1,2024-02-10,1.2,1.6
+922cd256,Wolves,Brentford,0,2,2024-02-10,1.9,1.0
+fd36479b,Aston Villa,Manchester Utd,1,2,2024-02-11,1.8,2.4
+a1da23dc,West Ham,Arsenal,0,6,2024-02-11,3.6,0.2
+1206b952,Crystal Palace,Chelsea,1,3,2024-02-12,1.4,0.6
+ca1e26a0,Brentford,Liverpool,1,4,2024-02-17,2.8,1.6
+59631171,Burnley,Arsenal,0,5,2024-02-17,2.3,0.3
+796ff9f0,Fulham,Aston Villa,1,2,2024-02-17,1.5,1.5
+78fb7fc2,Manchester City,Chelsea,1,1,2024-02-17,1.4,2.6
+083c4444,Newcastle Utd,Bournemouth,2,2,2024-02-17,2.2,2.2
+d657db47,Nott'ham Forest,West Ham,2,0,2024-02-17,0.5,2.8
+30193251,Tottenham,Wolves,1,2,2024-02-17,1.8,1.6
+49523b04,Luton Town,Manchester Utd,1,2,2024-02-18,2.9,1.8
+811fa03f,Sheffield Utd,Brighton,0,5,2024-02-18,2.9,0.6
+573f2f77,Everton,Crystal Palace,1,1,2024-02-19,0.7,1.7
+af88a1aa,Manchester City,Brentford,1,0,2024-02-20,0.4,2.3
+58636a1e,Liverpool,Luton Town,4,1,2024-02-21,0.9,3.3
+8f922133,Arsenal,Newcastle Utd,4,1,2024-02-24,0.2,2.8
+f61fbe36,Aston Villa,Nott'ham Forest,4,2,2024-02-24,2.6,3.6
+f6d6a212,Bournemouth,Manchester City,0,1,2024-02-24,1.6,0.9
+eb7c6993,Brighton,Everton,1,1,2024-02-24,0.3,1.4
+89cd2d5e,Crystal Palace,Burnley,3,0,2024-02-24,0.1,2.4
+45f67948,Manchester Utd,Fulham,1,2,2024-02-24,1.2,1.7
+ada09dda,Wolves,Sheffield Utd,1,0,2024-02-25,0.6,1.3
+15a04102,West Ham,Brentford,4,2,2024-02-26,0.9,1.7
+ba1992b0,Brentford,Chelsea,2,2,2024-03-02,1.8,1.8
+e9183936,Everton,West Ham,1,3,2024-03-02,1.9,2.7
+20278247,Fulham,Brighton,3,0,2024-03-02,1.3,1.3
+59f4adc0,Luton Town,Aston Villa,2,3,2024-03-02,1.9,1.8
+bbae8356,Newcastle Utd,Wolves,3,0,2024-03-02,0.8,2.1
+d1a00cf0,Nott'ham Forest,Liverpool,0,1,2024-03-02,2.0,1.0
+8812bfd9,Tottenham,Crystal Palace,3,1,2024-03-02,0.3,1.9
+f7674d8b,Burnley,Bournemouth,0,2,2024-03-03,1.1,1.5
+615eff06,Manchester City,Manchester Utd,3,1,2024-03-03,0.2,3.3
+2eca8900,Sheffield Utd,Arsenal,0,6,2024-03-04,2.3,0.2
+0e9002ec,Arsenal,Brentford,2,1,2024-03-09,1.0,1.3
+81b6715a,Bournemouth,Sheffield Utd,2,2,2024-03-09,1.2,3.3
+fd693c8e,Crystal Palace,Luton Town,1,1,2024-03-09,0.8,2.7
+fede7f6e,Manchester Utd,Everton,2,0,2024-03-09,1.6,2.7
+b606cbde,Wolves,Fulham,2,1,2024-03-09,2.6,0.8
+a32a7069,Aston Villa,Tottenham,0,4,2024-03-10,1.5,0.8
+f17d9ccd,Brighton,Nott'ham Forest,1,0,2024-03-10,0.7,0.4
+96da3e29,Liverpool,Manchester City,1,1,2024-03-10,1.6,2.7
+9ef133d6,West Ham,Burnley,2,2,2024-03-10,0.7,2.1
+d4b4c06f,Chelsea,Newcastle Utd,3,2,2024-03-11,0.7,1.6
+a32a8157,Bournemouth,Luton Town,4,3,2024-03-13,2.0,2.3
+b280b66a,Burnley,Brentford,2,1,2024-03-16,1.1,2.8
+8a009cc4,Fulham,Tottenham,3,0,2024-03-16,2.4,2.6
+76d09384,Luton Town,Nott'ham Forest,1,1,2024-03-16,2.0,0.6
+fc356c59,West Ham,Aston Villa,1,1,2024-03-17,0.7,2.0
+5f218b76,Aston Villa,Wolves,2,0,2024-03-30,1.5,1.0
+0eaaf0ab,Bournemouth,Everton,2,1,2024-03-30,1.0,1.3
+43a07892,Brentford,Manchester Utd,1,1,2024-03-30,0.6,3.2
+e68ec2a9,Chelsea,Burnley,2,2,2024-03-30,1.6,4.2
+10600f89,Newcastle Utd,West Ham,4,3,2024-03-30,1.4,4.1
+791fc95a,Nott'ham Forest,Crystal Palace,1,1,2024-03-30,1.2,0.9
+ad4a1302,Sheffield Utd,Fulham,3,3,2024-03-30,1.3,1.9
+6397e2af,Tottenham,Luton Town,2,1,2024-03-30,0.5,2.9
+b763b73e,Liverpool,Brighton,2,1,2024-03-31,0.5,2.8
+76b4b194,Manchester City,Arsenal,0,0,2024-03-31,0.7,1.0
+1ef36f8d,Bournemouth,Crystal Palace,1,0,2024-04-02,0.2,1.1
+feadec6f,Burnley,Wolves,1,1,2024-04-02,0.9,1.3
+52846bc3,Newcastle Utd,Everton,1,1,2024-04-02,1.4,2.4
+55996670,Nott'ham Forest,Fulham,3,1,2024-04-02,1.5,1.5
+2600ff86,West Ham,Tottenham,1,1,2024-04-02,1.0,1.5
+77d7e2d6,Arsenal,Luton Town,2,0,2024-04-03,0.3,0.7
+8ec55f05,Brentford,Brighton,0,0,2024-04-03,1.1,0.6
+ae3ba8e8,Manchester City,Aston Villa,4,1,2024-04-03,0.8,3.4
+c6079c2f,Chelsea,Manchester Utd,4,3,2024-04-04,1.5,3.0
+1f5973e2,Liverpool,Sheffield Utd,3,1,2024-04-04,0.6,1.8
+e8f307a3,Aston Villa,Brentford,3,3,2024-04-06,1.5,1.5
+2047cc32,Brighton,Arsenal,0,3,2024-04-06,3.4,0.5
+fca82852,Crystal Palace,Manchester City,2,4,2024-04-06,1.9,1.1
+cc7efb48,Everton,Burnley,1,0,2024-04-06,0.5,0.9
+a9d2819f,Fulham,Newcastle Utd,0,1,2024-04-06,1.0,1.2
+08114c35,Luton Town,Bournemouth,2,1,2024-04-06,0.4,1.5
+4f0b227b,Wolves,West Ham,1,2,2024-04-06,1.2,1.5
+d57ffe1a,Manchester Utd,Liverpool,2,2,2024-04-07,3.6,0.7
+d3850c26,Sheffield Utd,Chelsea,2,2,2024-04-07,0.3,1.4
+7598049f,Tottenham,Nott'ham Forest,3,1,2024-04-07,1.5,1.5
+32a8be36,Bournemouth,Manchester Utd,2,2,2024-04-13,1.2,1.6
+4a4d2976,Brentford,Sheffield Utd,2,0,2024-04-13,0.8,1.0
+c9ab1f95,Burnley,Brighton,1,1,2024-04-13,0.9,1.7
+40128bc4,Manchester City,Luton Town,5,1,2024-04-13,0.5,4.2
+50db3243,Newcastle Utd,Tottenham,4,0,2024-04-13,0.8,2.8
+4460b6c5,Nott'ham Forest,Wolves,2,2,2024-04-13,1.0,1.9
+c1739ced,Arsenal,Aston Villa,0,2,2024-04-14,0.9,1.6
+99113ef3,Liverpool,Crystal Palace,0,1,2024-04-14,2.0,2.7
+bd62891f,West Ham,Fulham,0,2,2024-04-14,3.2,0.9
+1a41ac25,Chelsea,Everton,6,0,2024-04-15,1.5,3.1
+c98abeb4,Luton Town,Brentford,1,5,2024-04-20,3.1,0.6
+ee8223ec,Sheffield Utd,Burnley,1,4,2024-04-20,2.2,2.4
+22881ea2,Wolves,Arsenal,0,2,2024-04-20,1.2,0.2
+6236de96,Aston Villa,Bournemouth,3,1,2024-04-21,1.8,2.4
+6ef6966a,Crystal Palace,West Ham,5,2,2024-04-21,1.3,2.4
+3025d010,Everton,Nott'ham Forest,2,0,2024-04-21,0.9,0.3
+9dcb5084,Fulham,Liverpool,1,3,2024-04-21,1.0,0.8
+3435dfcc,Arsenal,Chelsea,5,0,2024-04-23,1.6,3.3
+ee21eba2,Crystal Palace,Newcastle Utd,2,0,2024-04-24,0.4,0.9
+971e0a29,Everton,Liverpool,2,0,2024-04-24,2.1,1.2
+70770e72,Manchester Utd,Sheffield Utd,4,2,2024-04-24,0.8,2.9
+2e209def,Wolves,Bournemouth,0,1,2024-04-24,1.9,0.5
+45bb8cac,Brighton,Manchester City,0,4,2024-04-25,1.4,0.6
+a88dc35f,Aston Villa,Chelsea,2,2,2024-04-27,1.6,1.1
+c813a2ae,Everton,Brentford,1,0,2024-04-27,0.9,0.8
+9fe4ec6e,Fulham,Crystal Palace,1,1,2024-04-27,1.0,1.1
+e8eb637d,Manchester Utd,Burnley,1,1,2024-04-27,2.1,2.7
+e92d40be,Newcastle Utd,Sheffield Utd,5,1,2024-04-27,1.5,3.1
+ba04d7d8,West Ham,Liverpool,2,2,2024-04-27,1.7,0.7
+55d68500,Wolves,Luton Town,2,1,2024-04-27,0.6,1.2
+fa3c7491,Bournemouth,Brighton,3,0,2024-04-28,0.9,1.9
+80bbb25e,Nott'ham Forest,Manchester City,0,2,2024-04-28,0.9,1.9
+d98c9a99,Tottenham,Arsenal,2,3,2024-04-28,1.0,2.3
+6b489131,Chelsea,Tottenham,2,0,2024-05-02,1.6,2.2
+76d10c7d,Luton Town,Everton,1,1,2024-05-03,1.4,0.8
+00bcfc31,Arsenal,Bournemouth,3,0,2024-05-04,0.5,3.3
+a388fc69,Brentford,Fulham,0,0,2024-05-04,1.3,0.6
+070bf86d,Burnley,Newcastle Utd,1,4,2024-05-04,3.4,1.0
+5a9032bf,Manchester City,Wolves,5,1,2024-05-04,0.3,3.7
+91a2da3b,Sheffield Utd,Nott'ham Forest,1,3,2024-05-04,1.4,2.2
+5d5f6155,Brighton,Aston Villa,1,0,2024-05-05,0.1,2.5
+f8a0189a,Chelsea,West Ham,5,0,2024-05-05,0.9,4.1
+08341569,Liverpool,Tottenham,4,2,2024-05-05,1.2,3.3
+8c4bf9e7,Crystal Palace,Manchester Utd,4,0,2024-05-06,0.4,1.7
+e7b6ebb6,Bournemouth,Brentford,1,2,2024-05-11,1.1,0.7
+482e6ce4,Everton,Sheffield Utd,1,0,2024-05-11,0.6,2.3
+4e211d29,Fulham,Manchester City,0,4,2024-05-11,3.2,0.1
+6dbd7d72,Newcastle Utd,Brighton,1,1,2024-05-11,1.4,2.2
+384547b8,Nott'ham Forest,Chelsea,2,3,2024-05-11,1.6,1.5
+45c36efd,Tottenham,Burnley,2,1,2024-05-11,0.7,2.7
+17e9dbbf,West Ham,Luton Town,3,1,2024-05-11,0.3,3.2
+16d5b6aa,Wolves,Crystal Palace,1,3,2024-05-11,2.6,1.6
+ab9827f2,Manchester Utd,Arsenal,0,1,2024-05-12,1.5,0.5
+72c0709d,Aston Villa,Liverpool,3,3,2024-05-13,1.7,3.1
+2ba17e6d,Tottenham,Manchester City,0,2,2024-05-14,2.4,1.7
+b42b7907,Brighton,Chelsea,1,2,2024-05-15,1.5,1.3
+e43e8597,Manchester Utd,Newcastle Utd,3,2,2024-05-15,2.2,1.5
+3e33bd98,Arsenal,Everton,2,1,2024-05-19,0.6,2.9
+546e1a3d,Brentford,Newcastle Utd,2,4,2024-05-19,3.4,1.1
+47ecdc19,Brighton,Manchester Utd,0,2,2024-05-19,1.3,1.7
+dafb05fe,Burnley,Nott'ham Forest,1,2,2024-05-19,1.7,1.2
+7c034003,Chelsea,Bournemouth,2,1,2024-05-19,2.2,1.1
+c975c7a6,Crystal Palace,Aston Villa,5,0,2024-05-19,0.9,2.5
+d4823ed5,Liverpool,Wolves,2,0,2024-05-19,0.5,4.5
+0fde9d70,Luton Town,Fulham,2,4,2024-05-19,1.1,2.0
+29335211,Manchester City,West Ham,3,1,2024-05-19,0.4,1.9
+273a89b4,Sheffield Utd,Tottenham,0,3,2024-05-19,3.1,1.0
+cc5b4244,Manchester Utd,Fulham,1,0,2024-08-16,0.4,2.4
+c0e3342a,Arsenal,Wolves,2,0,2024-08-17,0.5,1.2
+71618ace,Everton,Brighton,0,3,2024-08-17,1.4,0.5
+a1d0d529,Ipswich Town,Liverpool,0,2,2024-08-17,2.6,0.5
+34557647,Newcastle Utd,Southampton,1,0,2024-08-17,1.8,0.3
+4efc72e4,Nott'ham Forest,Bournemouth,1,1,2024-08-17,1.2,1.3
+eac7c00b,West Ham,Aston Villa,1,2,2024-08-17,2.0,2.3
+b63822b9,Brentford,Crystal Palace,2,1,2024-08-18,1.2,1.6
+67a0c715,Chelsea,Manchester City,0,2,2024-08-18,0.8,1.0
+62eea1d6,Leicester City,Tottenham,1,1,2024-08-19,1.2,1.0
+4692171a,Aston Villa,Arsenal,0,2,2024-08-24,0.9,1.2
+fc8ab8b2,Brighton,Manchester Utd,2,1,2024-08-24,1.4,2.1
+540cfb68,Crystal Palace,West Ham,0,2,2024-08-24,1.4,1.3
+4d0079fb,Fulham,Leicester City,2,1,2024-08-24,0.6,1.8
+a24b7a43,Manchester City,Ipswich Town,4,1,2024-08-24,0.3,3.3
+a641f3a0,Southampton,Nott'ham Forest,0,1,2024-08-24,2.2,0.1
+1eef1717,Tottenham,Everton,4,0,2024-08-24,1.0,2.4
+1934f267,Bournemouth,Newcastle Utd,1,1,2024-08-25,1.6,2.2
+09b1742e,Liverpool,Brentford,2,0,2024-08-25,0.5,2.5
+e76c15c9,Wolves,Chelsea,2,6,2024-08-25,1.6,1.9
+a843d023,Arsenal,Brighton,1,1,2024-08-31,1.7,2.1
+fec3438b,Brentford,Southampton,3,1,2024-08-31,1.5,2.8
+58bbe046,Everton,Bournemouth,2,3,2024-08-31,2.4,1.8
+cec85838,Ipswich Town,Fulham,1,1,2024-08-31,0.9,0.4
+5af68b76,Leicester City,Aston Villa,1,2,2024-08-31,1.4,0.4
+837f0304,Nott'ham Forest,Wolves,1,1,2024-08-31,0.7,1.0
+97ce60d4,West Ham,Manchester City,1,3,2024-08-31,3.0,0.7
+3387c2c8,Chelsea,Crystal Palace,1,1,2024-09-01,0.5,2.4
+a7ab7a12,Manchester Utd,Liverpool,0,3,2024-09-01,1.8,1.4
+0c994746,Newcastle Utd,Tottenham,2,1,2024-09-01,1.2,1.8
+cdb4c33b,Aston Villa,Everton,3,2,2024-09-14,0.9,2.1
+456b4762,Bournemouth,Chelsea,0,1,2024-09-14,0.8,1.7
+2ffa4354,Brighton,Ipswich Town,0,0,2024-09-14,0.3,1.6
+430cce12,Crystal Palace,Leicester City,2,2,2024-09-14,1.2,2.5
+fa2b1777,Fulham,West Ham,1,1,2024-09-14,0.8,1.5
+674bfe9e,Liverpool,Nott'ham Forest,0,1,2024-09-14,0.4,0.9
+54405f8a,Manchester City,Brentford,2,1,2024-09-14,1.0,2.1
+b96c3759,Southampton,Manchester Utd,0,3,2024-09-14,2.6,1.1
+17774a57,Tottenham,Arsenal,0,1,2024-09-15,0.7,0.7
+4b01981e,Wolves,Newcastle Utd,1,2,2024-09-15,1.5,1.2
+e2b62260,Aston Villa,Wolves,3,1,2024-09-21,0.5,1.7
+929e225f,Crystal Palace,Manchester Utd,0,0,2024-09-21,1.6,1.0
+de7298df,Fulham,Newcastle Utd,3,1,2024-09-21,1.5,2.2
+4e6e1cc7,Leicester City,Everton,1,1,2024-09-21,1.1,0.7
+32a9539b,Liverpool,Bournemouth,3,0,2024-09-21,1.1,2.0
+948d52cc,Southampton,Ipswich Town,1,1,2024-09-21,1.6,2.4
+9511708f,Tottenham,Brentford,3,1,2024-09-21,0.8,3.5
+ce0fb1f5,West Ham,Chelsea,0,3,2024-09-21,2.2,0.9
+d701a1df,Brighton,Nott'ham Forest,2,2,2024-09-22,1.4,1.0
+d7538020,Manchester City,Arsenal,2,2,2024-09-22,0.7,2.1
+2ee60ac7,Arsenal,Leicester City,4,2,2024-09-28,0.3,4.4
+9c4f2bcd,Brentford,West Ham,1,1,2024-09-28,1.0,0.4
+1714cebe,Chelsea,Brighton,4,2,2024-09-28,1.1,4.2
+d47382cd,Everton,Crystal Palace,2,1,2024-09-28,0.9,0.9
+b4df0bca,Newcastle Utd,Manchester City,1,1,2024-09-28,0.9,1.6
+ee7d3371,Nott'ham Forest,Fulham,0,1,2024-09-28,1.3,0.8
+f2633f1d,Wolves,Liverpool,1,2,2024-09-28,2.5,0.6
+ef742b9c,Ipswich Town,Aston Villa,2,2,2024-09-29,0.8,1.2
+c4b97377,Manchester Utd,Tottenham,0,3,2024-09-29,4.4,1.0
+04d2cc03,Bournemouth,Southampton,3,1,2024-09-30,0.6,1.3
+c6439e5b,Arsenal,Southampton,3,1,2024-10-05,0.6,2.8
+909090f8,Brentford,Wolves,5,3,2024-10-05,1.0,4.2
+49ea224b,Crystal Palace,Liverpool,0,1,2024-10-05,1.4,0.6
+e99a7857,Everton,Newcastle Utd,0,0,2024-10-05,2.1,0.7
+d153872e,Leicester City,Bournemouth,1,0,2024-10-05,2.1,0.8
+61d60f62,Manchester City,Fulham,3,2,2024-10-05,2.6,1.6
+93e19c5e,West Ham,Ipswich Town,4,1,2024-10-05,0.6,3.6
+abef5f2a,Aston Villa,Manchester Utd,0,0,2024-10-06,0.6,0.5
+dac142c7,Brighton,Tottenham,3,2,2024-10-06,1.3,1.8
+b9e00aac,Chelsea,Nott'ham Forest,1,1,2024-10-06,0.9,2.3
+01e63a1f,Bournemouth,Arsenal,2,0,2024-10-19,0.7,1.8
+615d637e,Fulham,Aston Villa,1,3,2024-10-19,1.6,1.8
+2273e126,Ipswich Town,Everton,0,2,2024-10-19,1.7,1.3
+7f2c3291,Manchester Utd,Brentford,2,1,2024-10-19,0.9,1.3
+48081db0,Newcastle Utd,Brighton,0,1,2024-10-19,1.1,2.0
+03d28c48,Southampton,Leicester City,2,3,2024-10-19,3.1,2.1
+923bfab0,Tottenham,West Ham,4,1,2024-10-19,0.8,1.9
+99b4737c,Liverpool,Chelsea,2,1,2024-10-20,1.0,1.9
+90b22cd5,Wolves,Manchester City,1,2,2024-10-20,1.6,0.8
+5ed3894e,Nott'ham Forest,Crystal Palace,1,0,2024-10-21,1.0,1.7
+292d8bc4,Leicester City,Nott'ham Forest,1,3,2024-10-25,1.7,0.8
+bce300b2,Aston Villa,Bournemouth,1,1,2024-10-26,0.3,1.8
+1fb2dcde,Brentford,Ipswich Town,4,3,2024-10-26,1.3,4.0
+9487e056,Brighton,Wolves,2,2,2024-10-26,1.3,1.3
+1e5152bf,Everton,Fulham,1,1,2024-10-26,1.2,0.8
+b66f6389,Manchester City,Southampton,1,0,2024-10-26,0.2,2.9
+68aa1099,Arsenal,Liverpool,2,2,2024-10-27,0.8,0.9
+33571b04,Chelsea,Newcastle Utd,2,1,2024-10-27,1.8,1.6
+e995d937,Crystal Palace,Tottenham,1,0,2024-10-27,0.7,0.8
+38c31a07,West Ham,Manchester Utd,2,1,2024-10-27,2.3,2.8
+ed970fef,Bournemouth,Manchester City,2,1,2024-11-02,1.6,2.0
+ed8f93a0,Ipswich Town,Leicester City,1,1,2024-11-02,1.5,1.0
+7d114c70,Liverpool,Brighton,2,1,2024-11-02,1.0,1.6
+cc960c22,Newcastle Utd,Arsenal,1,0,2024-11-02,1.1,0.5
+c2505640,Nott'ham Forest,West Ham,3,0,2024-11-02,0.1,2.2
+2be42fdb,Southampton,Everton,1,0,2024-11-02,1.6,0.7
+a4251fae,Wolves,Crystal Palace,2,2,2024-11-02,2.4,1.5
+1273ae28,Manchester Utd,Chelsea,1,1,2024-11-03,1.1,2.0
+8fa951f9,Tottenham,Aston Villa,4,1,2024-11-03,1.8,2.4
+e1590847,Fulham,Brentford,2,1,2024-11-04,0.6,1.3
+1c998ef5,Brentford,Bournemouth,3,2,2024-11-09,2.6,1.5
+62aa7905,Brighton,Manchester City,2,1,2024-11-09,2.1,2.3
+d5015ba4,Crystal Palace,Fulham,0,2,2024-11-09,1.8,1.5
+737af5bf,Liverpool,Aston Villa,2,0,2024-11-09,1.2,2.0
+a4cf40b4,West Ham,Everton,0,0,2024-11-09,1.1,0.8
+dbec2d40,Wolves,Southampton,2,0,2024-11-09,0.6,1.3
+2874d56e,Chelsea,Arsenal,1,1,2024-11-10,1.5,1.5
+35888afe,Manchester Utd,Leicester City,3,0,2024-11-10,0.6,0.8
+a41ce5c3,Nott'ham Forest,Newcastle Utd,1,3,2024-11-10,1.6,0.6
+f9b9c3c4,Tottenham,Ipswich Town,1,2,2024-11-10,1.6,1.5
+0cb4129b,Arsenal,Nott'ham Forest,3,0,2024-11-23,0.3,1.2
+bf2e07a1,Aston Villa,Crystal Palace,2,2,2024-11-23,1.3,3.0
+4708a5bf,Bournemouth,Brighton,1,2,2024-11-23,0.9,1.6
+dd7675a7,Everton,Brentford,0,0,2024-11-23,1.1,1.2
+ed24aeb8,Fulham,Wolves,1,4,2024-11-23,1.3,1.0
+bb885467,Leicester City,Chelsea,1,2,2024-11-23,2.7,1.1
+c48b896c,Manchester City,Tottenham,0,4,2024-11-23,2.5,2.1
+db1e4ea5,Ipswich Town,Manchester Utd,1,1,2024-11-24,0.8,1.6
+eb6f8e39,Southampton,Liverpool,2,3,2024-11-24,3.1,1.3
+79f46eec,Newcastle Utd,West Ham,0,2,2024-11-25,0.9,1.6
+d38c4a31,Brighton,Southampton,1,1,2024-11-29,1.0,1.7
+f4f9a64f,Brentford,Leicester City,4,1,2024-11-30,1.1,2.4
+a4f03af0,Crystal Palace,Newcastle Utd,1,1,2024-11-30,0.0,1.7
+ddc8856c,Nott'ham Forest,Ipswich Town,1,0,2024-11-30,0.6,1.6
+f78bee62,West Ham,Arsenal,2,5,2024-11-30,3.5,1.5
+adfb1b89,Wolves,Bournemouth,2,4,2024-11-30,3.3,0.5
+080b797b,Chelsea,Aston Villa,3,0,2024-12-01,1.2,1.6
+0bd6ad44,Liverpool,Manchester City,2,0,2024-12-01,0.8,3.4
+e6eef20f,Manchester Utd,Everton,4,0,2024-12-01,0.6,1.1
+9aaa6ed5,Tottenham,Fulham,1,1,2024-12-01,1.5,0.8
+f7a96e82,Ipswich Town,Crystal Palace,0,1,2024-12-03,1.6,0.5
+355fd8ce,Leicester City,West Ham,3,1,2024-12-03,3.0,1.7
+9938aa27,Arsenal,Manchester Utd,2,0,2024-12-04,0.2,2.1
+c24a734b,Aston Villa,Brentford,3,1,2024-12-04,0.9,2.4
+71f00b04,Everton,Wolves,4,0,2024-12-04,0.8,1.0
+dedb0eee,Manchester City,Nott'ham Forest,3,0,2024-12-04,1.0,2.4
+ca898c29,Newcastle Utd,Liverpool,3,3,2024-12-04,1.9,2.1
+e4480630,Southampton,Chelsea,1,5,2024-12-04,5.2,1.6
+c7e59a0a,Bournemouth,Tottenham,1,0,2024-12-05,0.9,3.5
+32aaf579,Fulham,Brighton,3,1,2024-12-05,1.4,1.1
+92cfde2c,Aston Villa,Southampton,1,0,2024-12-07,0.3,2.3
+1042592d,Brentford,Newcastle Utd,4,2,2024-12-07,1.5,1.2
+6b7fbda1,Crystal Palace,Manchester City,2,2,2024-12-07,1.4,1.3
+08966ea6,Manchester Utd,Nott'ham Forest,2,3,2024-12-07,0.8,1.6
+038dfa98,Fulham,Arsenal,1,1,2024-12-08,1.8,0.2
+392c7b1f,Ipswich Town,Bournemouth,1,2,2024-12-08,3.2,1.3
+7b549f8f,Leicester City,Brighton,2,2,2024-12-08,1.5,1.3
+abff9b73,Tottenham,Chelsea,3,4,2024-12-08,2.8,2.8
+4d72ec87,West Ham,Wolves,2,1,2024-12-09,1.4,1.0
+32aa9e8e,Arsenal,Everton,0,0,2024-12-14,0.1,1.2
+a436996c,Liverpool,Fulham,2,2,2024-12-14,1.2,2.1
+0b6fe43f,Newcastle Utd,Leicester City,4,0,2024-12-14,0.2,3.8
+26926fd3,Nott'ham Forest,Aston Villa,2,1,2024-12-14,0.4,1.7
+46d52e33,Wolves,Ipswich Town,1,2,2024-12-14,1.1,1.3
+c8314a05,Brighton,Crystal Palace,1,3,2024-12-15,2.2,1.0
+5f0803f7,Chelsea,Brentford,2,1,2024-12-15,1.6,2.2
+3d772028,Manchester City,Manchester Utd,1,2,2024-12-15,2.1,0.9
+37afd6da,Southampton,Tottenham,0,5,2024-12-15,2.3,0.8
+49cd674b,Bournemouth,West Ham,1,1,2024-12-16,2.1,1.9
+ce9dc982,Aston Villa,Manchester City,2,1,2024-12-21,1.0,1.6
+1c60d037,Brentford,Nott'ham Forest,0,2,2024-12-21,0.9,0.7
+5e7aa707,Crystal Palace,Arsenal,1,5,2024-12-21,2.5,1.6
+764fc51e,Ipswich Town,Newcastle Utd,0,4,2024-12-21,2.3,0.7
+04be8e87,West Ham,Brighton,1,1,2024-12-21,0.9,1.2
+de72140c,Everton,Chelsea,0,0,2024-12-22,1.2,1.0
+ba3fcb1e,Fulham,Southampton,0,0,2024-12-22,0.3,0.9
+ecd6cb1d,Leicester City,Wolves,0,3,2024-12-22,1.1,0.8
+8381ba53,Manchester Utd,Bournemouth,0,3,2024-12-22,1.6,2.2
+1e1cea4c,Tottenham,Liverpool,3,6,2024-12-22,5.6,1.3
+886ca6b3,Bournemouth,Crystal Palace,0,0,2024-12-26,0.4,1.4
+03d6159c,Chelsea,Fulham,1,2,2024-12-26,1.8,1.1
+1f604fbd,Liverpool,Leicester City,3,1,2024-12-26,0.3,2.0
+87f2d794,Manchester City,Everton,1,1,2024-12-26,0.7,2.1
+9985f304,Newcastle Utd,Aston Villa,3,0,2024-12-26,0.3,2.7
+eb738106,Nott'ham Forest,Tottenham,1,0,2024-12-26,0.9,1.1
+8050686b,Southampton,West Ham,0,1,2024-12-26,1.7,1.4
+77bcad49,Wolves,Manchester Utd,2,0,2024-12-26,0.4,0.9
+668dad03,Arsenal,Ipswich Town,1,0,2024-12-27,0.2,1.8
+15b10b33,Brighton,Brentford,0,0,2024-12-27,1.1,1.3
+6d06b29c,Crystal Palace,Southampton,2,1,2024-12-29,0.9,2.0
+5fa986dc,Everton,Nott'ham Forest,0,2,2024-12-29,1.5,0.9
+4b4023dc,Fulham,Bournemouth,2,2,2024-12-29,2.0,1.1
+8bbb6d95,Leicester City,Manchester City,0,2,2024-12-29,1.3,1.3
+3d2ef5b4,Tottenham,Wolves,2,2,2024-12-29,0.7,2.2
+c1a66ac0,West Ham,Liverpool,0,5,2024-12-29,3.1,0.4
+5e8340e9,Aston Villa,Brighton,2,2,2024-12-30,1.1,1.8
+88073205,Ipswich Town,Chelsea,2,0,2024-12-30,2.0,1.6
+8cff7a63,Manchester Utd,Newcastle Utd,0,2,2024-12-30,1.9,0.8
+7e6892e4,Brentford,Arsenal,1,3,2025-01-01,1.9,0.3
+f5ae8d7d,Aston Villa,Leicester City,2,1,2025-01-04,0.4,1.4
+43f0c302,Bournemouth,Everton,1,0,2025-01-04,0.7,1.8
+52186da4,Brighton,Arsenal,1,1,2025-01-04,0.9,1.5
+cd9861d5,Crystal Palace,Chelsea,1,1,2025-01-04,1.2,1.1
+d7773a4c,Manchester City,West Ham,4,1,2025-01-04,1.4,1.9
+36fc576a,Southampton,Brentford,0,5,2025-01-04,4.4,0.3
+be247ac3,Tottenham,Newcastle Utd,1,2,2025-01-04,2.5,0.9
+8b69ef69,Fulham,Ipswich Town,2,2,2025-01-05,1.5,2.2
+4cef863f,Liverpool,Manchester Utd,2,2,2025-01-05,1.0,2.7
+56c4250a,Wolves,Nott'ham Forest,0,3,2025-01-06,2.1,1.5
+68c2e6b8,Brentford,Manchester City,2,2,2025-01-14,2.2,2.5
+fff671a9,Chelsea,Bournemouth,2,2,2025-01-14,1.2,2.5
+118f8df8,Nott'ham Forest,Liverpool,1,1,2025-01-14,2.0,0.3
+c6168c73,West Ham,Fulham,3,2,2025-01-14,1.7,1.0
+ee9ce5e2,Arsenal,Tottenham,2,1,2025-01-15,0.8,1.4
+3e70b855,Everton,Aston Villa,0,1,2025-01-15,1.2,1.1
+99eb6105,Leicester City,Crystal Palace,0,2,2025-01-15,1.8,1.7
+535d70d7,Newcastle Utd,Wolves,3,0,2025-01-15,1.6,2.1
+ace86fcc,Ipswich Town,Brighton,0,2,2025-01-16,1.0,0.3
+f443a602,Manchester Utd,Southampton,3,1,2025-01-16,1.4,3.4
+1fdaaaba,Arsenal,Aston Villa,2,2,2025-01-18,1.0,1.3
+5e8445c1,Brentford,Liverpool,0,2,2025-01-18,3.4,0.7
+bc3ae18e,Leicester City,Fulham,0,2,2025-01-18,2.0,0.6
+99d11a39,Newcastle Utd,Bournemouth,1,4,2025-01-18,2.0,0.8
+03ac4a9c,West Ham,Crystal Palace,0,2,2025-01-18,1.3,0.3
+e9f61cb0,Everton,Tottenham,3,2,2025-01-19,1.1,1.8
+6c829b8f,Ipswich Town,Manchester City,0,6,2025-01-19,3.0,0.5
+45028d5b,Manchester Utd,Brighton,1,3,2025-01-19,1.9,1.5
+e0f90407,Nott'ham Forest,Southampton,3,2,2025-01-19,0.9,1.8
+e62cfa12,Chelsea,Wolves,3,1,2025-01-20,0.8,3.1
+efa8ddd7,Bournemouth,Nott'ham Forest,5,0,2025-01-25,1.0,1.7
+b54aac79,Brighton,Everton,0,1,2025-01-25,0.8,0.7
+ee59115f,Liverpool,Ipswich Town,4,1,2025-01-25,0.5,2.0
+bfd54040,Manchester City,Chelsea,3,1,2025-01-25,1.8,2.2
+7d05223b,Southampton,Newcastle Utd,1,3,2025-01-25,2.9,0.8
+0b39252e,Wolves,Arsenal,0,1,2025-01-25,1.0,0.7
+bb05246c,Aston Villa,West Ham,1,1,2025-01-26,1.3,0.9
+68d6e8fe,Crystal Palace,Brentford,1,2,2025-01-26,1.3,1.1
+eb14e391,Fulham,Manchester Utd,0,1,2025-01-26,0.3,0.7
+8226bca2,Tottenham,Leicester City,1,2,2025-01-26,1.6,1.0
+886603cd,Bournemouth,Liverpool,0,2,2025-02-01,2.5,1.6
+475670fb,Everton,Leicester City,4,0,2025-02-01,0.3,2.5
+1098cac0,Ipswich Town,Southampton,1,2,2025-02-01,0.9,1.8
+5ec3f48b,Newcastle Utd,Fulham,1,2,2025-02-01,1.6,0.8
+897ab235,Nott'ham Forest,Brighton,7,0,2025-02-01,0.9,3.3
+693ab427,Wolves,Aston Villa,2,0,2025-02-01,0.4,1.6
+2906e921,Arsenal,Manchester City,5,1,2025-02-02,0.8,1.0
+7193a229,Brentford,Tottenham,0,2,2025-02-02,0.8,2.1
+83dba981,Manchester Utd,Crystal Palace,0,2,2025-02-02,2.6,1.1
+ed7df9b1,Chelsea,West Ham,2,1,2025-02-03,1.2,1.6
+92627434,Everton,Liverpool,2,2,2025-02-12,0.6,1.0
+ed780e1d,Brighton,Chelsea,3,0,2025-02-14,0.5,1.4
+06fee8c4,Aston Villa,Ipswich Town,1,1,2025-02-15,0.4,2.4
+35ee3617,Crystal Palace,Everton,1,2,2025-02-15,0.9,1.6
+5968d7ad,Fulham,Nott'ham Forest,2,1,2025-02-15,0.4,2.1
+af8aa0dd,Leicester City,Arsenal,0,2,2025-02-15,1.4,0.2
+8c51fa01,Manchester City,Newcastle Utd,4,0,2025-02-15,0.5,1.9
+ce3da486,Southampton,Bournemouth,1,3,2025-02-15,1.2,0.8
+79406a7e,West Ham,Brentford,0,1,2025-02-15,1.6,0.8
+6a917c79,Liverpool,Wolves,2,1,2025-02-16,1.5,1.7
+09db2a2f,Tottenham,Manchester Utd,1,0,2025-02-16,1.5,2.2
+39c7b656,Aston Villa,Liverpool,2,2,2025-02-19,2.5,0.6
+da5a149a,Leicester City,Brentford,0,4,2025-02-21,1.5,0.5
+e511e91c,Arsenal,West Ham,0,1,2025-02-22,1.1,1.2
+5109d405,Aston Villa,Chelsea,2,1,2025-02-22,2.3,2.3
+ccdda6d3,Bournemouth,Wolves,0,1,2025-02-22,2.0,0.9
+e5b45c4d,Everton,Manchester Utd,2,2,2025-02-22,0.4,1.6
+7289bcdf,Fulham,Crystal Palace,0,2,2025-02-22,1.3,0.2
+7853cd1a,Ipswich Town,Tottenham,1,4,2025-02-22,1.7,1.1
+e757bea1,Southampton,Brighton,0,4,2025-02-22,3.9,0.1
+e51a316b,Manchester City,Liverpool,0,2,2025-02-23,0.7,0.6
+93caf0bc,Newcastle Utd,Nott'ham Forest,4,3,2025-02-23,1.7,2.9
+fade9277,Brighton,Bournemouth,2,1,2025-02-25,1.5,2.4
+21d4a457,Chelsea,Southampton,4,0,2025-02-25,0.7,2.4
+0a97629a,Crystal Palace,Aston Villa,4,1,2025-02-25,0.4,4.3
+7aecfc4c,Wolves,Fulham,1,2,2025-02-25,1.7,1.3
+1218933c,Brentford,Everton,1,1,2025-02-26,1.5,1.4
+a0975f8c,Liverpool,Newcastle Utd,2,0,2025-02-26,0.2,1.7
+bf6aa8ee,Manchester Utd,Ipswich Town,3,2,2025-02-26,1.4,0.7
+d4387bc1,Nott'ham Forest,Arsenal,0,0,2025-02-26,1.0,0.4
+3b8160bd,Tottenham,Manchester City,0,1,2025-02-26,2.1,1.3
+08b1b7de,West Ham,Leicester City,2,0,2025-02-27,0.4,1.3
+fb9126ab,Brentford,Aston Villa,0,1,2025-03-08,1.3,0.8
+fb4bb61d,Brighton,Fulham,2,1,2025-03-08,0.9,1.5
+b1ad79e4,Crystal Palace,Ipswich Town,1,0,2025-03-08,1.5,3.2
+049341ab,Liverpool,Southampton,3,1,2025-03-08,0.4,3.9
+d53c0405,Nott'ham Forest,Manchester City,1,0,2025-03-08,0.9,0.7
+2ac7408b,Wolves,Everton,1,1,2025-03-08,1.2,0.8
+236640be,Chelsea,Leicester City,1,0,2025-03-09,0.1,1.7
+8efec987,Manchester Utd,Arsenal,1,1,2025-03-09,1.6,1.5
+81575514,Tottenham,Bournemouth,2,2,2025-03-09,2.2,1.5
+61ad9d6a,West Ham,Newcastle Utd,0,1,2025-03-10,1.4,0.7
+f3480c01,Bournemouth,Brentford,1,2,2025-03-15,0.8,1.6
+d4bd829f,Everton,West Ham,1,1,2025-03-15,0.8,1.0
+a44e04e9,Ipswich Town,Nott'ham Forest,2,4,2025-03-15,1.5,0.4
+83fc3d29,Manchester City,Brighton,2,2,2025-03-15,2.0,1.7
+eea61e7f,Southampton,Wolves,1,2,2025-03-15,0.4,1.3
+22de525d,Arsenal,Chelsea,1,0,2025-03-16,0.4,0.7
+61428001,Fulham,Tottenham,2,0,2025-03-16,0.9,1.0
+7bab156e,Leicester City,Manchester Utd,0,3,2025-03-16,0.9,1.0
+777d595c,Arsenal,Fulham,2,1,2025-04-01,1.0,2.2
+9f8a856e,Nott'ham Forest,Manchester Utd,1,0,2025-04-01,1.6,0.5
+6e6e9d8b,Wolves,West Ham,1,0,2025-04-01,1.3,1.2
+19c54be2,Bournemouth,Ipswich Town,1,2,2025-04-02,1.2,1.8
+158e64b3,Brighton,Aston Villa,0,3,2025-04-02,1.2,0.9
+7e2a8ebe,Liverpool,Everton,1,0,2025-04-02,0.9,1.5
+464a9c6c,Manchester City,Leicester City,2,0,2025-04-02,0.1,2.2
+e202c3b7,Newcastle Utd,Brentford,2,1,2025-04-02,1.5,1.3
+1c75bcda,Southampton,Crystal Palace,1,1,2025-04-02,0.7,0.7
+33e26065,Chelsea,Tottenham,1,0,2025-04-03,0.9,1.0
+7b024699,Aston Villa,Nott'ham Forest,2,1,2025-04-05,1.5,3.0
+e9cb51b4,Crystal Palace,Brighton,2,1,2025-04-05,1.0,0.6
+8a72e3dc,Everton,Arsenal,1,1,2025-04-05,1.8,1.1
+b6f200da,Ipswich Town,Wolves,1,2,2025-04-05,2.6,0.8
+3812dc28,West Ham,Bournemouth,2,2,2025-04-05,2.1,0.7
+5984e216,Brentford,Chelsea,0,0,2025-04-06,1.2,1.1
+b34400d3,Fulham,Liverpool,3,2,2025-04-06,1.5,0.7
+53e359bb,Manchester Utd,Manchester City,0,0,2025-04-06,0.5,0.9
+f671e515,Tottenham,Southampton,3,1,2025-04-06,1.0,2.1
+d8efb6cc,Leicester City,Newcastle Utd,0,3,2025-04-07,3.2,0.5
+471d2141,Arsenal,Brentford,1,1,2025-04-12,0.2,1.0
+6c4e0e71,Brighton,Leicester City,2,2,2025-04-12,1.5,3.8
+7be33a60,Manchester City,Crystal Palace,5,2,2025-04-12,1.8,3.7
+83138c75,Nott'ham Forest,Everton,0,1,2025-04-12,1.4,0.5
+eb58af0b,Southampton,Aston Villa,0,3,2025-04-12,3.0,0.3
+a45626b5,Chelsea,Ipswich Town,2,2,2025-04-13,1.1,2.2
+4975981b,Liverpool,West Ham,2,1,2025-04-13,1.4,1.8
+4254acea,Newcastle Utd,Manchester Utd,4,1,2025-04-13,0.7,2.2
+5a44bda9,Wolves,Tottenham,4,2,2025-04-13,2.0,2.4
+12ecaa9f,Bournemouth,Fulham,1,0,2025-04-14,1.0,1.4
+6e87f6cf,Newcastle Utd,Crystal Palace,5,0,2025-04-16,2.0,1.5
+45a3960e,Aston Villa,Newcastle Utd,4,1,2025-04-19,1.0,2.2
+36afccb6,Brentford,Brighton,4,2,2025-04-19,1.4,2.1
+9d095ebf,Crystal Palace,Bournemouth,0,0,2025-04-19,0.7,0.4
+a95e25da,Everton,Manchester City,0,2,2025-04-19,2.0,0.9
+8d613b28,West Ham,Southampton,1,1,2025-04-19,0.6,0.9
+aaac9748,Fulham,Chelsea,1,2,2025-04-20,0.9,0.3
+2b599f1a,Ipswich Town,Arsenal,0,4,2025-04-20,2.4,0.2
+0a2030a0,Leicester City,Liverpool,0,1,2025-04-20,2.5,0.3
+e50fd749,Manchester Utd,Wolves,0,1,2025-04-20,0.2,1.3
+708743bf,Tottenham,Nott'ham Forest,1,2,2025-04-21,0.5,2.1
+3de68b91,Manchester City,Aston Villa,2,1,2025-04-22,1.8,1.3
+67651145,Arsenal,Crystal Palace,2,2,2025-04-23,1.7,1.2
+e1669507,Brighton,West Ham,3,2,2025-04-26,1.3,1.3
+06c5f0ab,Chelsea,Everton,1,0,2025-04-26,0.4,0.8
+3402b61b,Newcastle Utd,Ipswich Town,3,0,2025-04-26,0.1,2.4
+9c6532bc,Southampton,Fulham,1,2,2025-04-26,2.4,0.6
+1ced4069,Wolves,Leicester City,3,0,2025-04-26,1.1,2.0
+81b6c6b4,Bournemouth,Manchester Utd,1,1,2025-04-27,2.3,0.5
+64bc833f,Liverpool,Tottenham,5,1,2025-04-27,0.5,2.2
+a896a308,Nott'ham Forest,Brentford,0,2,2025-05-01,1.3,0.9
+6a433468,Manchester City,Wolves,1,0,2025-05-02,0.4,0.7
+ad3827f3,Arsenal,Bournemouth,1,2,2025-05-03,0.9,1.4
+d8e391ab,Aston Villa,Fulham,1,0,2025-05-03,0.9,1.0
+b93c98b0,Everton,Ipswich Town,2,2,2025-05-03,0.8,0.6
+e89fe486,Leicester City,Southampton,2,0,2025-05-03,0.5,1.4
+29dbd7d1,Brentford,Manchester Utd,4,3,2025-05-04,1.5,2.8
+e09b4b94,Brighton,Newcastle Utd,1,1,2025-05-04,1.7,0.7
+157740ee,Chelsea,Liverpool,3,1,2025-05-04,1.0,3.1
+70dcad6e,West Ham,Tottenham,1,1,2025-05-04,0.8,0.8
+89cb2963,Crystal Palace,Nott'ham Forest,1,1,2025-05-05,0.7,2.3
+dd48659a,Bournemouth,Aston Villa,0,1,2025-05-10,1.0,0.8
+a637fb4e,Fulham,Everton,1,3,2025-05-10,1.1,0.8
+ea2685e0,Ipswich Town,Brentford,0,1,2025-05-10,1.4,0.9
+35a46606,Southampton,Manchester City,0,0,2025-05-10,1.7,0.1
+f1bf04cb,Wolves,Brighton,0,2,2025-05-10,1.6,0.9
+0dc9bdd9,Liverpool,Arsenal,2,2,2025-05-11,2.6,2.4
+c4548397,Manchester Utd,West Ham,0,2,2025-05-11,1.7,2.1
+b409de42,Newcastle Utd,Chelsea,2,0,2025-05-11,0.7,1.6
+c3e242fc,Nott'ham Forest,Leicester City,2,2,2025-05-11,1.1,1.3
+a442e11f,Tottenham,Crystal Palace,0,2,2025-05-11,3.4,0.7
+b2651680,Aston Villa,Tottenham,2,0,2025-05-16,0.5,1.4
+c95dd208,Chelsea,Manchester Utd,1,0,2025-05-16,0.3,0.8
+0a51acae,Arsenal,Newcastle Utd,1,0,2025-05-18,1.5,0.6
+064e6a34,Brentford,Fulham,2,3,2025-05-18,1.0,2.5
+9e338dfb,Everton,Southampton,2,0,2025-05-18,1.2,2.7
+20b5a00b,Leicester City,Ipswich Town,2,0,2025-05-18,1.4,0.8
+79180ca6,West Ham,Nott'ham Forest,1,2,2025-05-18,1.9,1.1
+1f3db37a,Brighton,Liverpool,3,2,2025-05-19,2.2,2.2
+f85454d3,Crystal Palace,Wolves,4,2,2025-05-20,1.4,1.7
+e5e516e9,Manchester City,Bournemouth,3,1,2025-05-20,1.1,1.5
+1ff370e8,Bournemouth,Leicester City,2,0,2025-05-25,0.3,1.6
+3d22336e,Fulham,Manchester City,0,2,2025-05-25,3.0,1.3
+15559cff,Ipswich Town,West Ham,1,3,2025-05-25,1.1,0.7
+0958eb7a,Liverpool,Crystal Palace,1,1,2025-05-25,1.8,2.1
+7ea43929,Manchester Utd,Aston Villa,2,0,2025-05-25,0.4,2.9
+36844e73,Newcastle Utd,Everton,0,1,2025-05-25,1.2,1.2
+464cbad6,Nott'ham Forest,Chelsea,0,1,2025-05-25,1.1,1.2
+01d155b4,Southampton,Arsenal,1,2,2025-05-25,2.3,0.6
+e4bb1c35,Tottenham,Brighton,1,4,2025-05-25,2.2,2.0
+812ef8ad,Wolves,Brentford,1,1,2025-05-25,1.4,1.0
+30d3212e,Almería,Rayo Vallecano,0,2,2023-08-11,2.1,1.4
+525758cc,Sevilla,Valencia,1,2,2023-08-11,1.1,0.7
+c31f0a31,Athletic Club,Real Madrid,0,2,2023-08-12,0.9,0.4
+8c6555db,Las Palmas,Mallorca,1,1,2023-08-12,1.6,0.9
+706596c6,Real Sociedad,Girona,1,1,2023-08-12,0.8,1.0
+8689fb39,Celta Vigo,Osasuna,0,2,2023-08-13,1.0,1.0
+b34ff242,Getafe,Barcelona,0,0,2023-08-13,1.4,0.6
+b8258a85,Villarreal,Betis,1,2,2023-08-13,1.1,0.9
+a96e4e26,Atlético Madrid,Granada,3,1,2023-08-14,0.9,2.4
+c36e6859,Cádiz,Alavés,1,0,2023-08-14,0.3,0.7
+d447f323,Mallorca,Villarreal,0,1,2023-08-18,1.8,0.4
+8766ab05,Valencia,Las Palmas,1,0,2023-08-18,0.5,1.5
+33737218,Almería,Real Madrid,1,3,2023-08-19,2.0,1.3
+0df06b3f,Osasuna,Athletic Club,0,2,2023-08-19,1.5,1.3
+406ca8c9,Real Sociedad,Celta Vigo,1,1,2023-08-19,1.0,0.7
+312852e3,Barcelona,Cádiz,2,0,2023-08-20,1.1,3.4
+95634760,Betis,Atlético Madrid,0,0,2023-08-20,0.5,0.7
+e8867e6b,Girona,Getafe,3,0,2023-08-20,0.7,1.4
+8cd38a49,Alavés,Sevilla,4,3,2023-08-21,0.6,1.8
+bc9648bc,Granada,Rayo Vallecano,0,2,2023-08-21,2.1,1.2
+f414405a,Celta Vigo,Real Madrid,0,1,2023-08-25,1.4,1.2
+b2340056,Las Palmas,Real Sociedad,0,0,2023-08-25,1.0,0.9
+6a02cbec,Cádiz,Almería,1,1,2023-08-26,0.3,1.6
+e249c708,Granada,Mallorca,3,2,2023-08-26,2.6,1.4
+3aed0598,Sevilla,Girona,1,2,2023-08-26,1.7,1.7
+d99a5d06,Athletic Club,Betis,4,2,2023-08-27,0.4,2.9
+804cc411,Valencia,Osasuna,1,2,2023-08-27,1.2,1.7
+b10c7abc,Villarreal,Barcelona,3,4,2023-08-27,3.1,1.9
+74b34796,Getafe,Alavés,1,0,2023-08-28,0.7,2.2
+bec04e9b,Rayo Vallecano,Atlético Madrid,0,7,2023-08-28,3.4,0.6
+979e8388,Almería,Celta Vigo,2,3,2023-09-01,1.5,3.0
+eb5232b2,Cádiz,Villarreal,3,1,2023-09-01,0.3,2.1
+3a3b9504,Alavés,Valencia,1,0,2023-09-02,0.8,1.3
+b11051a5,Betis,Rayo Vallecano,1,0,2023-09-02,1.5,1.0
+2b3c0a99,Real Madrid,Getafe,2,1,2023-09-02,0.4,2.8
+e1fd4178,Real Sociedad,Granada,5,3,2023-09-02,0.8,2.3
+8dd16257,Girona,Las Palmas,1,0,2023-09-03,1.1,1.0
+046e92d8,Mallorca,Athletic Club,0,0,2023-09-03,0.6,0.4
+de343043,Osasuna,Barcelona,1,2,2023-09-03,2.0,0.8
+24453748,Rayo Vallecano,Alavés,2,0,2023-09-15,0.7,2.6
+9b96c6da,Athletic Club,Cádiz,3,0,2023-09-16,0.3,2.9
+91deddae,Barcelona,Betis,5,0,2023-09-16,0.8,2.4
+1e04d474,Celta Vigo,Mallorca,0,1,2023-09-16,0.8,1.3
+26f7f1a6,Valencia,Atlético Madrid,3,0,2023-09-16,0.6,1.3
+c12983f1,Getafe,Osasuna,3,2,2023-09-17,1.1,0.5
+c0a04549,Real Madrid,Real Sociedad,2,1,2023-09-17,1.6,2.0
+b1d20065,Sevilla,Las Palmas,1,0,2023-09-17,1.0,1.7
+c16dfe0b,Villarreal,Almería,2,1,2023-09-17,1.5,0.9
+5f245c9f,Granada,Girona,2,4,2023-09-18,2.8,1.6
+b058555b,Alavés,Athletic Club,0,2,2023-09-22,1.7,1.1
+e5d13d76,Almería,Valencia,2,2,2023-09-23,0.8,2.6
+027eed9e,Barcelona,Celta Vigo,3,2,2023-09-23,1.5,1.6
+d6d3de2f,Girona,Mallorca,5,3,2023-09-23,1.8,3.2
+72741505,Osasuna,Sevilla,0,0,2023-09-23,0.8,1.4
+f535ba0a,Atlético Madrid,Real Madrid,3,1,2023-09-24,1.0,1.4
+a41377f4,Betis,Cádiz,1,1,2023-09-24,0.2,1.8
+0cfa1fb6,Las Palmas,Granada,1,0,2023-09-24,0.0,0.6
+3ad7ddfb,Rayo Vallecano,Villarreal,1,1,2023-09-24,1.6,1.2
+3e8c7ee8,Real Sociedad,Getafe,4,3,2023-09-24,1.4,2.0
+c95852d8,Mallorca,Barcelona,2,2,2023-09-26,1.9,0.8
+1a0a12f3,Sevilla,Almería,5,1,2023-09-26,1.8,2.2
+5541c885,Athletic Club,Getafe,2,2,2023-09-27,1.4,0.7
+2d774dd9,Cádiz,Rayo Vallecano,0,0,2023-09-27,0.3,0.6
+73c339f6,Real Madrid,Las Palmas,2,0,2023-09-27,0.7,1.7
+572551e5,Valencia,Real Sociedad,0,1,2023-09-27,0.2,0.4
+7c83c807,Villarreal,Girona,1,2,2023-09-27,2.1,1.8
+4f005fa8,Celta Vigo,Alavés,1,1,2023-09-28,2.6,0.6
+6f6cb00d,Granada,Betis,1,1,2023-09-28,0.9,1.8
+006cb34c,Osasuna,Atlético Madrid,0,2,2023-09-28,1.5,1.0
+c5fbae8a,Barcelona,Sevilla,1,0,2023-09-29,1.1,2.4
+2fbd5e47,Getafe,Villarreal,0,0,2023-09-30,0.1,0.9
+253621ab,Girona,Real Madrid,0,3,2023-09-30,2.3,1.6
+32801dbc,Rayo Vallecano,Mallorca,2,2,2023-09-30,1.5,2.3
+9689cb22,Real Sociedad,Athletic Club,3,0,2023-09-30,1.8,1.4
+3d120d0b,Alavés,Osasuna,0,2,2023-10-01,1.1,1.5
+dd504406,Almería,Granada,3,3,2023-10-01,2.9,2.9
+0f112739,Atlético Madrid,Cádiz,3,2,2023-10-01,0.8,2.7
+5668709c,Betis,Valencia,3,0,2023-10-01,0.7,1.6
+b5b5ee07,Las Palmas,Celta Vigo,2,1,2023-10-02,1.5,1.7
+001383d7,Athletic Club,Almería,3,0,2023-10-06,0.1,1.9
+2459c550,Cádiz,Girona,0,1,2023-10-07,1.2,0.4
+65eed22a,Mallorca,Valencia,1,1,2023-10-07,0.5,0.6
+cf81ed94,Real Madrid,Osasuna,4,0,2023-10-07,0.5,3.2
+faf557c5,Sevilla,Rayo Vallecano,2,2,2023-10-07,1.0,1.0
+68a32c10,Alavés,Betis,1,1,2023-10-08,0.9,1.3
+d0fec34b,Atlético Madrid,Real Sociedad,2,1,2023-10-08,1.2,2.2
+deb9ac58,Celta Vigo,Getafe,2,2,2023-10-08,0.7,3.1
+e2ce9278,Granada,Barcelona,2,2,2023-10-08,3.0,0.8
+539efe2f,Villarreal,Las Palmas,1,2,2023-10-08,1.1,1.0
+43b34260,Osasuna,Granada,2,0,2023-10-20,0.6,2.1
+7e7af068,Celta Vigo,Atlético Madrid,0,3,2023-10-21,1.8,0.9
+0d187cb4,Getafe,Betis,1,1,2023-10-21,1.1,1.5
+a4774fc2,Real Sociedad,Mallorca,1,0,2023-10-21,1.9,1.3
+a1453e00,Sevilla,Real Madrid,1,1,2023-10-21,1.6,1.5
+5be40f3e,Barcelona,Athletic Club,1,0,2023-10-22,0.4,1.3
+eadb4a85,Girona,Almería,5,2,2023-10-22,1.0,1.9
+75aaa3ef,Las Palmas,Rayo Vallecano,0,1,2023-10-22,1.4,1.3
+f86dfb97,Villarreal,Alavés,1,1,2023-10-22,1.7,1.5
+39c4605e,Valencia,Cádiz,2,0,2023-10-23,0.6,1.5
+390bde4a,Girona,Celta Vigo,1,0,2023-10-27,0.2,0.6
+22d80391,Almería,Las Palmas,1,2,2023-10-28,0.9,0.3
+59b0e4f0,Barcelona,Real Madrid,1,2,2023-10-28,1.1,1.5
+11176e0f,Cádiz,Sevilla,2,2,2023-10-28,1.2,1.1
+eda40c8e,Mallorca,Getafe,0,0,2023-10-28,0.2,0.9
+73bdd066,Athletic Club,Valencia,2,2,2023-10-29,1.9,1.9
+a4771eec,Atlético Madrid,Alavés,2,1,2023-10-29,0.5,1.3
+0c248bda,Betis,Osasuna,2,1,2023-10-29,0.4,1.2
+0e7c5910,Rayo Vallecano,Real Sociedad,2,2,2023-10-29,2.0,1.0
+c3aa20c5,Granada,Villarreal,2,3,2023-10-30,1.6,2.1
+52e1b035,Las Palmas,Atlético Madrid,2,1,2023-11-03,1.2,0.4
+0d1db511,Betis,Mallorca,2,0,2023-11-04,0.6,2.2
+133dffca,Celta Vigo,Sevilla,1,1,2023-11-04,0.9,2.1
+2060ad55,Osasuna,Girona,2,4,2023-11-04,2.2,1.4
+a81185c4,Real Sociedad,Barcelona,0,1,2023-11-04,1.2,0.9
+f68f1f5c,Alavés,Almería,1,0,2023-11-05,0.5,2.4
+ff452d69,Real Madrid,Rayo Vallecano,0,0,2023-11-05,0.1,2.2
+6bc552c2,Valencia,Granada,1,0,2023-11-05,0.5,1.2
+d3edf2ae,Villarreal,Athletic Club,2,3,2023-11-05,2.3,2.1
+ed5f02e2,Getafe,Cádiz,1,0,2023-11-06,0.5,1.2
+bdde04ef,Athletic Club,Celta Vigo,4,3,2023-11-10,2.1,4.6
+499da981,Almería,Real Sociedad,1,3,2023-11-11,2.4,0.4
+da4c3931,Granada,Getafe,1,1,2023-11-11,2.3,1.7
+52845bb5,Osasuna,Las Palmas,1,1,2023-11-11,0.4,1.0
+5f383bb2,Rayo Vallecano,Girona,1,2,2023-11-11,4.5,1.7
+1cb4d5cc,Real Madrid,Valencia,5,1,2023-11-11,1.7,1.7
+cadb3e6a,Atlético Madrid,Villarreal,3,1,2023-11-12,0.8,3.9
+3541e819,Barcelona,Alavés,2,1,2023-11-12,1.7,1.6
+f4e8506b,Sevilla,Betis,1,1,2023-11-12,1.8,0.7
+7e1b64b6,Alavés,Granada,3,1,2023-11-24,1.1,0.8
+16b9ac5f,Atlético Madrid,Mallorca,1,0,2023-11-25,1.1,1.7
+db6cf568,Getafe,Almería,2,1,2023-11-25,1.8,1.2
+01f34256,Rayo Vallecano,Barcelona,1,1,2023-11-25,1.0,0.7
+c7b4a2f1,Valencia,Celta Vigo,0,0,2023-11-25,0.8,0.5
+835e91b9,Betis,Las Palmas,1,0,2023-11-26,0.6,1.4
+5d52e4e2,Cádiz,Real Madrid,0,3,2023-11-26,1.6,1.2
+6693ba62,Real Sociedad,Sevilla,2,1,2023-11-26,0.6,0.7
+39aeccb8,Villarreal,Osasuna,3,1,2023-11-26,1.0,2.4
+aef6bb51,Girona,Athletic Club,1,1,2023-11-27,1.5,1.3
+12f1bd76,Mallorca,Cádiz,1,1,2023-11-29,0.3,1.1
+43a9a3f9,Las Palmas,Getafe,2,0,2023-12-01,0.9,1.5
+b88a35df,Athletic Club,Rayo Vallecano,4,0,2023-12-02,0.5,1.3
+3a6cf7d9,Girona,Valencia,2,1,2023-12-02,1.0,1.6
+5d28eb72,Osasuna,Real Sociedad,1,1,2023-12-02,1.7,0.7
+bc316609,Real Madrid,Granada,2,0,2023-12-02,0.1,1.8
+90d64d3b,Almería,Betis,0,0,2023-12-03,0.5,2.4
+0012462a,Barcelona,Atlético Madrid,1,0,2023-12-03,0.6,2.6
+aa2065ac,Mallorca,Alavés,0,0,2023-12-03,0.3,0.8
+98ae1fe6,Sevilla,Villarreal,1,1,2023-12-03,1.2,1.8
+2618d749,Celta Vigo,Cádiz,1,1,2023-12-04,0.3,2.4
+ecf11fd1,Getafe,Valencia,1,0,2023-12-08,0.1,0.7
+06bb7e90,Alavés,Las Palmas,0,1,2023-12-09,0.4,1.9
+872da7fb,Betis,Real Madrid,1,1,2023-12-09,1.0,1.3
+7dacfd9b,Mallorca,Sevilla,1,0,2023-12-09,0.6,0.5
+7c91b9cb,Villarreal,Real Sociedad,0,3,2023-12-09,1.5,2.2
+381f0556,Atlético Madrid,Almería,2,1,2023-12-10,1.3,2.2
+36e35f1b,Barcelona,Girona,2,4,2023-12-10,2.5,3.7
+7c80b72c,Cádiz,Osasuna,1,1,2023-12-10,1.6,0.9
+2e13f78e,Granada,Athletic Club,1,1,2023-12-11,1.1,0.7
+8561242b,Rayo Vallecano,Celta Vigo,0,0,2023-12-11,0.1,1.2
+781d0d19,Osasuna,Rayo Vallecano,1,0,2023-12-15,0.7,1.2
+f21edbdb,Athletic Club,Atlético Madrid,2,0,2023-12-16,0.4,2.4
+57110974,Celta Vigo,Granada,1,0,2023-12-16,0.5,1.4
+4d8d0ba8,Sevilla,Getafe,0,3,2023-12-16,2.4,1.0
+ab58d4c0,Valencia,Barcelona,1,1,2023-12-16,3.2,0.5
+29830e6b,Almería,Mallorca,0,0,2023-12-17,1.9,0.3
+08036869,Las Palmas,Cádiz,1,1,2023-12-17,1.6,0.7
+7cbfb8ee,Real Madrid,Villarreal,4,1,2023-12-17,0.8,2.3
+5c3fe234,Real Sociedad,Betis,0,0,2023-12-17,1.1,1.1
+b26778b7,Girona,Alavés,3,0,2023-12-18,0.7,1.7
+23fb1e35,Atlético Madrid,Getafe,3,3,2023-12-19,2.0,2.0
+9a19af2d,Granada,Sevilla,0,3,2023-12-19,0.5,0.9
+25af4fd3,Rayo Vallecano,Valencia,0,1,2023-12-19,0.3,0.3
+1b8fc92b,Athletic Club,Las Palmas,1,0,2023-12-20,0.3,3.4
+cb6ccdca,Barcelona,Almería,3,2,2023-12-20,1.6,3.4
+9f6ecef6,Villarreal,Celta Vigo,3,2,2023-12-20,1.3,2.4
+4dec0026,Alavés,Real Madrid,0,1,2023-12-21,0.6,0.6
+ce152000,Betis,Girona,1,1,2023-12-21,1.7,1.5
+58612cde,Cádiz,Real Sociedad,0,0,2023-12-21,0.5,1.0
+cc0b697d,Mallorca,Osasuna,3,2,2023-12-21,1.6,1.1
+8797c007,Atlético Madrid,Sevilla,1,0,2023-12-23,0.3,0.9
+be4710dc,Getafe,Rayo Vallecano,0,2,2024-01-02,1.9,0.4
+57a94079,Real Sociedad,Alavés,1,1,2024-01-02,1.0,1.2
+2a5dbe16,Valencia,Villarreal,3,1,2024-01-02,0.5,2.8
+f235cb36,Celta Vigo,Betis,2,1,2024-01-03,1.4,2.7
+1a18f1be,Girona,Atlético Madrid,4,3,2024-01-03,2.3,2.3
+81995a26,Granada,Cádiz,2,0,2024-01-03,0.8,3.0
+a68c4db0,Real Madrid,Mallorca,1,0,2024-01-03,0.6,1.7
+2181388a,Las Palmas,Barcelona,1,2,2024-01-04,2.4,0.7
+2d6bd38e,Osasuna,Almería,1,0,2024-01-04,0.2,1.3
+a599d8e1,Sevilla,Athletic Club,0,2,2024-01-04,1.3,0.7
+dacf8559,Sevilla,Alavés,2,3,2024-01-12,2.0,2.2
+cbde4eb0,Athletic Club,Real Sociedad,2,1,2024-01-13,1.1,1.6
+b889c1e1,Betis,Granada,1,0,2024-01-13,0.5,1.8
+2328243e,Las Palmas,Villarreal,3,0,2024-01-13,2.0,0.8
+62bdac3e,Mallorca,Celta Vigo,1,1,2024-01-13,0.6,1.8
+ac070af0,Almería,Girona,0,0,2024-01-14,0.3,1.7
+191bdef3,Cádiz,Valencia,1,4,2024-01-14,1.9,1.1
+06721bb2,Alavés,Cádiz,1,0,2024-01-19,0.3,2.0
+261b5161,Celta Vigo,Real Sociedad,0,1,2024-01-20,0.8,0.3
+2de52681,Rayo Vallecano,Las Palmas,0,2,2024-01-20,0.7,1.6
+56f618cb,Valencia,Athletic Club,1,0,2024-01-20,0.5,0.9
+bf30b05f,Villarreal,Mallorca,1,1,2024-01-20,0.4,1.9
+cd2367fb,Betis,Barcelona,2,4,2024-01-21,3.0,1.1
+001f02ea,Girona,Sevilla,5,1,2024-01-21,0.7,2.3
+92457ba9,Osasuna,Getafe,3,2,2024-01-21,1.4,1.2
+044f7144,Real Madrid,Almería,3,2,2024-01-21,0.9,2.2
+3cfa176f,Granada,Atlético Madrid,0,1,2024-01-22,1.2,0.6
+851f5d85,Almería,Alavés,0,3,2024-01-26,1.8,1.4
+06120109,Barcelona,Villarreal,3,5,2024-01-27,2.1,2.2
+b61e3e2f,Las Palmas,Real Madrid,1,2,2024-01-27,2.3,0.7
+c9ebb8f9,Mallorca,Betis,0,1,2024-01-27,0.4,1.5
+72e78a1f,Real Sociedad,Rayo Vallecano,0,0,2024-01-27,0.1,0.2
+fb9eb11a,Atlético Madrid,Valencia,2,0,2024-01-28,0.5,2.4
+898ad853,Celta Vigo,Girona,0,1,2024-01-28,0.9,0.6
+01dea01a,Cádiz,Athletic Club,0,0,2024-01-28,0.2,0.4
+661915d5,Sevilla,Osasuna,1,1,2024-01-28,1.2,0.8
+adf50a1d,Getafe,Granada,2,0,2024-01-29,1.9,1.3
+cbaaa323,Atlético Madrid,Rayo Vallecano,2,1,2024-01-31,0.4,1.0
+d6106b99,Barcelona,Osasuna,1,0,2024-01-31,1.0,1.9
+92a1197f,Getafe,Real Madrid,0,2,2024-02-01,2.0,0.8
+5f6e670c,Athletic Club,Mallorca,4,0,2024-02-02,0.4,1.7
+37151033,Alavés,Barcelona,1,3,2024-02-03,1.2,1.0
+92a239f6,Girona,Real Sociedad,0,0,2024-02-03,0.6,0.7
+22e4db63,Granada,Las Palmas,1,1,2024-02-03,1.0,0.1
+149141f2,Valencia,Almería,2,1,2024-02-03,1.9,1.4
+faf7791c,Betis,Getafe,1,1,2024-02-04,1.5,1.6
+b8fec464,Osasuna,Celta Vigo,0,3,2024-02-04,1.1,1.1
+199f13ef,Real Madrid,Atlético Madrid,1,1,2024-02-04,1.1,1.9
+28a20450,Villarreal,Cádiz,0,0,2024-02-04,0.7,1.2
+1c2d13c4,Rayo Vallecano,Sevilla,1,2,2024-02-05,1.3,1.8
+4853d9e5,Cádiz,Betis,0,2,2024-02-09,1.0,0.8
+df1c317c,Alavés,Villarreal,1,1,2024-02-10,1.2,1.8
+8635863c,Las Palmas,Valencia,2,0,2024-02-10,0.5,1.3
+501f00a9,Real Madrid,Girona,4,0,2024-02-10,0.3,3.2
+38ef643d,Real Sociedad,Osasuna,0,1,2024-02-10,0.5,1.5
+02934208,Barcelona,Granada,3,3,2024-02-11,1.4,2.3
+93f25b56,Getafe,Celta Vigo,3,2,2024-02-11,1.2,2.1
+35c12a15,Mallorca,Rayo Vallecano,2,1,2024-02-11,1.6,0.9
+dd0585e1,Sevilla,Atlético Madrid,1,0,2024-02-11,1.5,1.0
+aadff460,Almería,Athletic Club,0,0,2024-02-12,0.7,0.9
+39eb65ce,Villarreal,Getafe,1,1,2024-02-16,0.8,1.2
+d2e1cfdb,Atlético Madrid,Las Palmas,5,0,2024-02-17,0.7,3.5
+16accf14,Celta Vigo,Barcelona,1,2,2024-02-17,1.5,0.8
+acb216f1,Osasuna,Cádiz,2,0,2024-02-17,0.5,2.0
+9beaaafb,Valencia,Sevilla,0,0,2024-02-17,0.0,1.0
+b8a430ca,Betis,Alavés,0,0,2024-02-18,0.5,0.8
+5843757f,Granada,Almería,1,1,2024-02-18,1.4,2.0
+f19651ab,Mallorca,Real Sociedad,1,2,2024-02-18,1.1,0.1
+8f2c26c1,Rayo Vallecano,Real Madrid,1,1,2024-02-18,1.1,1.1
+cab3844e,Athletic Club,Girona,3,2,2024-02-19,2.1,1.8
+4c975b7e,Real Sociedad,Villarreal,1,3,2024-02-23,1.0,1.5
+24435ef9,Alavés,Mallorca,1,1,2024-02-24,2.2,0.5
+998ad495,Almería,Atlético Madrid,2,2,2024-02-24,1.5,0.5
+8f4e2ab7,Barcelona,Getafe,4,0,2024-02-24,0.5,3.1
+05f0bbdc,Betis,Athletic Club,3,1,2024-02-25,0.2,1.2
+81b6bcdb,Cádiz,Celta Vigo,2,2,2024-02-25,0.7,2.2
+cbe1823a,Las Palmas,Osasuna,1,1,2024-02-25,0.7,0.7
+0788c1f1,Real Madrid,Sevilla,1,0,2024-02-25,0.8,1.0
+a07bda86,Girona,Rayo Vallecano,3,0,2024-02-26,0.5,2.2
+7ab6dcd9,Celta Vigo,Almería,1,0,2024-03-01,0.1,1.5
+1f2c17eb,Getafe,Las Palmas,3,3,2024-03-02,1.6,2.3
+f374824a,Rayo Vallecano,Cádiz,1,1,2024-03-02,1.0,0.7
+94990b76,Sevilla,Real Sociedad,3,2,2024-03-02,1.5,2.0
+2e5cdea9,Valencia,Real Madrid,2,2,2024-03-02,2.2,1.1
+8c7d46b8,Athletic Club,Barcelona,0,0,2024-03-03,0.7,0.4
+f887328c,Atlético Madrid,Betis,2,1,2024-03-03,0.6,3.0
+43ea52c2,Mallorca,Girona,1,0,2024-03-03,1.0,1.2
+82279c7a,Villarreal,Granada,5,1,2024-03-03,0.5,2.0
+9bee2dfe,Osasuna,Alavés,1,0,2024-03-04,1.0,1.0
+893d91cd,Barcelona,Mallorca,1,0,2024-03-08,0.6,2.0
+4626c60c,Cádiz,Atlético Madrid,2,0,2024-03-09,0.9,1.1
+0778b3ab,Girona,Osasuna,2,0,2024-03-09,0.2,1.9
+68564a87,Granada,Real Sociedad,2,3,2024-03-09,2.1,1.7
+f3a99bc6,Valencia,Getafe,1,0,2024-03-09,1.3,0.8
+fd381a48,Alavés,Rayo Vallecano,1,0,2024-03-10,0.6,0.6
+a9c711a7,Betis,Villarreal,2,3,2024-03-10,1.4,1.0
+c5876baa,Las Palmas,Athletic Club,0,2,2024-03-10,1.1,1.2
+e829e739,Real Madrid,Celta Vigo,4,0,2024-03-10,0.8,3.4
+b60cb69e,Almería,Sevilla,2,2,2024-03-11,2.4,2.0
+f6be96b2,Real Sociedad,Cádiz,2,0,2024-03-15,0.8,1.9
+353fc7dc,Athletic Club,Alavés,2,0,2024-03-16,1.3,1.7
+a0f615f1,Getafe,Girona,1,0,2024-03-16,1.8,1.2
+62e3bbb2,Mallorca,Granada,1,0,2024-03-16,0.4,1.6
+132fdf9c,Osasuna,Real Madrid,2,4,2024-03-16,2.9,0.7
+bccce279,Atlético Madrid,Barcelona,0,3,2024-03-17,1.5,0.8
+09fcfcbf,Las Palmas,Almería,0,1,2024-03-17,0.8,0.9
+8ace3465,Rayo Vallecano,Betis,2,0,2024-03-17,0.8,0.7
+677dc25e,Sevilla,Celta Vigo,1,2,2024-03-17,1.6,1.7
+d88d960f,Villarreal,Valencia,1,0,2024-03-17,1.1,2.0
+8b40ebf8,Cádiz,Granada,1,0,2024-03-29,0.5,1.6
+2faf48dd,Almería,Osasuna,0,3,2024-03-30,1.0,0.8
+0ba647fb,Barcelona,Las Palmas,1,0,2024-03-30,0.3,1.7
+225535f4,Getafe,Sevilla,0,1,2024-03-30,0.8,1.6
+d9329662,Valencia,Mallorca,0,0,2024-03-30,0.9,1.5
+47e43855,Alavés,Real Sociedad,0,1,2024-03-31,0.9,0.3
+b407fe75,Celta Vigo,Rayo Vallecano,0,0,2024-03-31,0.6,0.8
+43f30f97,Girona,Betis,3,2,2024-03-31,0.5,2.6
+cb8f8470,Real Madrid,Athletic Club,2,0,2024-03-31,0.3,1.1
+ea244c20,Villarreal,Atlético Madrid,1,2,2024-04-01,1.3,0.8
+e8f66280,Granada,Valencia,0,1,2024-04-04,0.4,0.6
+a7ba44ee,Betis,Celta Vigo,2,1,2024-04-12,1.6,1.2
+d1461be3,Atlético Madrid,Girona,3,1,2024-04-13,2.4,2.3
+a4bd2f2a,Cádiz,Barcelona,0,1,2024-04-13,0.9,1.0
+8887cd3f,Mallorca,Real Madrid,0,1,2024-04-13,1.5,0.6
+1ebfb4e4,Rayo Vallecano,Getafe,0,0,2024-04-13,0.3,1.0
+941a4629,Athletic Club,Villarreal,1,1,2024-04-14,2.1,0.7
+f08ebff7,Granada,Alavés,2,0,2024-04-14,0.3,1.3
+5a35c6d1,Las Palmas,Sevilla,0,2,2024-04-14,2.1,0.1
+32b50c2a,Real Sociedad,Almería,2,2,2024-04-14,1.6,1.5
+47963fdb,Osasuna,Valencia,0,1,2024-04-15,0.2,1.9
+77710902,Athletic Club,Granada,1,1,2024-04-19,0.2,1.5
+a3ba5e25,Celta Vigo,Las Palmas,4,1,2024-04-20,1.0,4.0
+6e1ed9b8,Girona,Cádiz,4,1,2024-04-20,1.6,2.1
+cbed4286,Rayo Vallecano,Osasuna,2,1,2024-04-20,0.5,0.5
+746db3ae,Valencia,Betis,1,2,2024-04-20,1.3,1.1
+b40183ad,Alavés,Atlético Madrid,2,0,2024-04-21,0.9,0.4
+635dcbf9,Almería,Villarreal,1,2,2024-04-21,1.6,1.8
+c0cdba0e,Getafe,Real Sociedad,1,1,2024-04-21,1.2,0.5
+9699d0ae,Real Madrid,Barcelona,3,2,2024-04-21,1.4,2.3
+2d5046e6,Sevilla,Mallorca,2,1,2024-04-22,0.7,1.1
+3edf4d41,Real Sociedad,Real Madrid,0,1,2024-04-26,0.4,0.6
+ffe34927,Alavés,Celta Vigo,3,0,2024-04-27,0.2,2.3
+54592e27,Almería,Getafe,1,3,2024-04-27,1.7,2.4
+a0a9d4cf,Atlético Madrid,Athletic Club,3,1,2024-04-27,1.0,0.8
+e996fa16,Las Palmas,Girona,0,2,2024-04-27,1.9,1.6
+94a4da32,Betis,Sevilla,1,1,2024-04-28,1.4,1.8
+05b862fc,Cádiz,Mallorca,1,1,2024-04-28,0.9,0.4
+7e063e40,Granada,Osasuna,3,0,2024-04-28,0.8,2.6
+9db220c0,Villarreal,Rayo Vallecano,3,0,2024-04-28,1.0,1.4
+c5942116,Barcelona,Valencia,4,2,2024-04-29,2.1,2.2
+506b1b2a,Getafe,Athletic Club,0,2,2024-05-03,0.6,4.5
+2857168f,Girona,Barcelona,4,2,2024-05-04,2.6,1.8
+53936afb,Mallorca,Atlético Madrid,0,1,2024-05-04,0.7,0.2
+ac0f607f,Real Madrid,Cádiz,3,0,2024-05-04,0.9,2.3
+386210a4,Real Sociedad,Las Palmas,2,0,2024-05-04,0.5,0.6
+429fcafb,Celta Vigo,Villarreal,3,2,2024-05-05,0.6,3.9
+4c79cbf6,Osasuna,Betis,0,2,2024-05-05,1.1,0.8
+6515a447,Rayo Vallecano,Almería,0,1,2024-05-05,0.4,1.4
+cf65828c,Sevilla,Granada,3,0,2024-05-05,0.4,1.7
+3c4e6a04,Valencia,Alavés,0,1,2024-05-05,0.8,0.9
+8d5472e3,Alavés,Girona,2,2,2024-05-10,1.7,1.7
+da28b0d1,Athletic Club,Osasuna,2,2,2024-05-11,1.0,1.4
+fa49110c,Granada,Real Madrid,0,4,2024-05-11,1.5,1.0
+b4349d20,Mallorca,Las Palmas,1,0,2024-05-11,0.4,0.3
+db2c3f5d,Villarreal,Sevilla,3,2,2024-05-11,1.7,3.1
+b2f7f5e0,Atlético Madrid,Celta Vigo,1,0,2024-05-12,0.4,1.4
+78324d14,Betis,Almería,3,2,2024-05-12,1.2,0.8
+20329c38,Cádiz,Getafe,1,0,2024-05-12,0.5,1.5
+a0fb8424,Valencia,Rayo Vallecano,0,0,2024-05-12,0.6,1.3
+3d94f1a4,Barcelona,Real Sociedad,2,0,2024-05-13,0.7,2.1
+34cead76,Girona,Villarreal,0,1,2024-05-14,0.6,1.6
+e3feee7a,Osasuna,Mallorca,1,1,2024-05-14,1.0,0.4
+33a6634e,Real Madrid,Alavés,5,0,2024-05-14,1.3,2.5
+15d304e7,Celta Vigo,Athletic Club,2,1,2024-05-15,0.2,0.7
+696d137e,Getafe,Atlético Madrid,0,3,2024-05-15,1.3,0.6
+ed81748f,Rayo Vallecano,Granada,2,1,2024-05-15,1.2,2.5
+fe5dae8c,Sevilla,Cádiz,0,1,2024-05-15,2.5,1.3
+78ebb2dd,Almería,Barcelona,0,2,2024-05-16,1.6,0.9
+6927b08f,Las Palmas,Betis,2,2,2024-05-16,1.3,2.3
+e2a89f33,Real Sociedad,Valencia,1,0,2024-05-16,0.8,1.3
+7c178e2f,Alavés,Getafe,1,0,2024-05-18,0.3,1.2
+4691300c,Athletic Club,Sevilla,2,0,2024-05-19,0.9,1.6
+113ce588,Atlético Madrid,Osasuna,1,4,2024-05-19,1.8,1.6
+a07daf85,Barcelona,Rayo Vallecano,3,0,2024-05-19,1.3,1.3
+668bdcc1,Betis,Real Sociedad,0,2,2024-05-19,0.4,1.7
+db3b593e,Cádiz,Las Palmas,0,0,2024-05-19,0.6,0.9
+bcfed537,Granada,Celta Vigo,1,2,2024-05-19,1.7,1.9
+ab933e0a,Mallorca,Almería,2,2,2024-05-19,0.4,3.0
+c66a2814,Valencia,Girona,1,3,2024-05-19,2.6,3.2
+ec275e77,Villarreal,Real Madrid,4,4,2024-05-19,1.0,1.7
+0b569a97,Girona,Granada,7,0,2024-05-24,1.0,4.6
+3deb8202,Almería,Cádiz,6,1,2024-05-25,0.5,2.9
+ecd762d7,Osasuna,Villarreal,1,1,2024-05-25,1.6,0.9
+79f108d8,Rayo Vallecano,Athletic Club,0,1,2024-05-25,0.9,1.1
+b4858ba8,Real Madrid,Betis,0,0,2024-05-25,0.7,1.0
+b4cbdba3,Real Sociedad,Atlético Madrid,0,2,2024-05-25,2.2,0.6
+f43e7cfe,Celta Vigo,Valencia,2,2,2024-05-26,2.0,1.5
+452075d1,Getafe,Mallorca,1,2,2024-05-26,1.4,0.9
+d052dfe0,Las Palmas,Alavés,1,1,2024-05-26,2.5,1.0
+e45b3740,Sevilla,Barcelona,1,2,2024-05-26,1.3,1.5
+32bb9a67,Athletic Club,Getafe,1,1,2024-08-15,0.8,0.3
+f13e982e,Betis,Girona,1,1,2024-08-15,1.6,1.4
+3c487349,Celta Vigo,Alavés,2,1,2024-08-16,1.6,0.8
+82605913,Las Palmas,Sevilla,2,2,2024-08-16,1.8,1.4
+e593cd07,Osasuna,Leganés,1,1,2024-08-17,1.0,1.7
+6f0fac43,Valencia,Barcelona,1,2,2024-08-17,3.2,1.0
+c6b7a6e0,Mallorca,Real Madrid,1,1,2024-08-18,0.6,1.0
+e826cf9e,Real Sociedad,Rayo Vallecano,1,2,2024-08-18,1.1,1.1
+43c02c2b,Valladolid,Espanyol,1,0,2024-08-19,0.7,0.8
+2a59dd47,Villarreal,Atlético Madrid,2,2,2024-08-19,1.1,0.8
+95447cec,Celta Vigo,Valencia,3,1,2024-08-23,0.9,1.3
+0d54805a,Sevilla,Villarreal,1,2,2024-08-23,0.9,1.0
+87bc9bba,Barcelona,Athletic Club,2,1,2024-08-24,1.0,1.8
+3c8fe9de,Espanyol,Real Sociedad,0,1,2024-08-24,0.7,1.6
+e11566fd,Getafe,Rayo Vallecano,0,0,2024-08-24,0.2,0.5
+384225d1,Osasuna,Mallorca,1,0,2024-08-24,0.6,0.6
+b757e16f,Alavés,Betis,0,0,2024-08-25,1.5,0.2
+c6c0a3d3,Atlético Madrid,Girona,3,0,2024-08-25,0.7,1.2
+b1f96209,Leganés,Las Palmas,2,1,2024-08-25,0.9,1.5
+3f2f6c96,Real Madrid,Valladolid,3,0,2024-08-25,0.4,2.1
+050fe7c2,Villarreal,Celta Vigo,4,3,2024-08-26,2.7,3.6
+6049a447,Mallorca,Sevilla,0,0,2024-08-27,0.7,0.9
+f8fc00c7,Rayo Vallecano,Barcelona,1,2,2024-08-27,1.4,0.4
+acc2bc45,Athletic Club,Valencia,1,0,2024-08-28,0.1,1.4
+ef04c85d,Atlético Madrid,Espanyol,0,0,2024-08-28,0.6,2.3
+71669703,Real Sociedad,Alavés,1,2,2024-08-28,1.6,1.0
+843a0b94,Valladolid,Leganés,0,0,2024-08-28,0.2,1.1
+6e8b4c78,Girona,Osasuna,4,0,2024-08-29,0.0,2.4
+173a87bb,Las Palmas,Real Madrid,1,1,2024-08-29,2.5,0.8
+d554e8b9,Athletic Club,Atlético Madrid,0,1,2024-08-31,1.7,0.3
+3ed1b8ff,Barcelona,Valladolid,7,0,2024-08-31,0.5,4.7
+02bfae4e,Espanyol,Rayo Vallecano,2,1,2024-08-31,1.3,1.6
+2053d836,Leganés,Mallorca,0,1,2024-08-31,1.0,0.3
+e79d506b,Valencia,Villarreal,1,1,2024-08-31,0.5,1.1
+572463cb,Alavés,Las Palmas,2,0,2024-09-01,0.7,2.0
+5a140caa,Getafe,Real Sociedad,0,0,2024-09-01,0.0,0.6
+7aa26780,Osasuna,Celta Vigo,3,2,2024-09-01,1.7,0.9
+f8b3c447,Real Madrid,Betis,2,0,2024-09-01,0.6,2.4
+50cdc0c9,Sevilla,Girona,0,2,2024-09-01,1.9,0.9
+3c660029,Betis,Leganés,2,0,2024-09-13,0.1,2.1
+28cd11c2,Espanyol,Alavés,3,2,2024-09-14,1.9,1.6
+4f2bd132,Mallorca,Villarreal,1,2,2024-09-14,1.8,0.3
+50a17164,Real Sociedad,Real Madrid,0,2,2024-09-14,2.3,1.1
+a214487d,Sevilla,Getafe,1,0,2024-09-14,1.0,1.4
+e1e5325c,Atlético Madrid,Valencia,3,0,2024-09-15,0.1,3.1
+72aa5092,Celta Vigo,Valladolid,3,1,2024-09-15,0.5,1.8
+f166ffc9,Girona,Barcelona,1,4,2024-09-15,1.9,1.3
+defd20c7,Las Palmas,Athletic Club,2,3,2024-09-15,1.7,1.4
+b5605cb6,Rayo Vallecano,Osasuna,3,1,2024-09-16,0.3,1.6
+6ced9ec5,Mallorca,Real Sociedad,1,0,2024-09-17,0.6,1.2
+d2722540,Betis,Getafe,2,1,2024-09-18,0.6,2.6
+613f75be,Leganés,Athletic Club,0,2,2024-09-19,1.3,0.9
+f32a65e4,Alavés,Sevilla,2,1,2024-09-20,0.5,1.1
+9c8b0304,Osasuna,Las Palmas,2,1,2024-09-21,0.8,1.9
+a46e38e7,Real Madrid,Espanyol,4,1,2024-09-21,0.3,4.4
+131899cd,Valencia,Girona,2,0,2024-09-21,0.4,0.4
+cddbefd1,Valladolid,Real Sociedad,0,0,2024-09-21,1.4,1.0
+d67421c6,Athletic Club,Celta Vigo,3,1,2024-09-22,1.3,0.7
+f5dbb50d,Getafe,Leganés,1,1,2024-09-22,0.6,1.5
+75fab2fb,Rayo Vallecano,Atlético Madrid,1,1,2024-09-22,0.5,1.7
+79c38937,Villarreal,Barcelona,1,5,2024-09-22,3.9,2.2
+c7505bdc,Betis,Mallorca,1,2,2024-09-23,1.0,1.0
+618988b7,Real Madrid,Alavés,3,2,2024-09-24,0.9,1.3
+3ee384b4,Sevilla,Valladolid,2,1,2024-09-24,0.7,2.1
+b979258f,Valencia,Osasuna,0,0,2024-09-24,0.5,0.7
+231f83bc,Barcelona,Getafe,1,0,2024-09-25,0.7,1.9
+07598e53,Girona,Rayo Vallecano,0,0,2024-09-25,0.5,2.0
+01197df1,Celta Vigo,Atlético Madrid,0,1,2024-09-26,0.6,1.5
+aef7cc8d,Espanyol,Villarreal,1,2,2024-09-26,1.6,0.4
+94fe3705,Las Palmas,Betis,1,1,2024-09-26,1.9,1.0
+d59e698a,Valladolid,Mallorca,1,2,2024-09-27,2.2,1.2
+c745f73f,Getafe,Alavés,2,0,2024-09-28,0.5,2.1
+d5c58cc9,Osasuna,Barcelona,4,2,2024-09-28,0.8,2.2
+edd88e45,Rayo Vallecano,Leganés,1,1,2024-09-28,0.9,0.9
+6dfa7503,Real Sociedad,Valencia,3,0,2024-09-28,0.8,3.4
+9b519ed0,Athletic Club,Sevilla,1,1,2024-09-29,1.1,2.0
+0df1f571,Atlético Madrid,Real Madrid,1,1,2024-09-29,0.8,1.3
+650b3ea7,Betis,Espanyol,1,0,2024-09-29,0.5,2.1
+4c283fa8,Celta Vigo,Girona,1,1,2024-09-29,0.8,0.5
+3ecbf46e,Villarreal,Las Palmas,3,1,2024-09-30,0.9,2.8
+18dc29a4,Leganés,Valencia,0,0,2024-10-04,0.5,0.8
+d2dd62e7,Espanyol,Mallorca,2,1,2024-10-05,1.6,0.9
+fdd30e13,Getafe,Osasuna,1,1,2024-10-05,0.3,0.8
+8f767bea,Las Palmas,Celta Vigo,0,1,2024-10-05,0.8,1.3
+9bf91e35,Real Madrid,Villarreal,2,0,2024-10-05,1.1,0.5
+59703f58,Valladolid,Rayo Vallecano,1,2,2024-10-05,1.5,2.0
+ba5dd68e,Alavés,Barcelona,0,3,2024-10-06,2.7,0.7
+7d98a38f,Girona,Athletic Club,2,1,2024-10-06,3.1,1.9
+069145b6,Real Sociedad,Atlético Madrid,1,1,2024-10-06,0.5,1.0
+c9404de2,Sevilla,Betis,1,0,2024-10-06,0.6,1.4
+a0c7186e,Alavés,Valladolid,2,3,2024-10-18,2.4,0.5
+0425fc2d,Athletic Club,Espanyol,4,1,2024-10-19,0.2,1.3
+50bf3afb,Celta Vigo,Real Madrid,1,2,2024-10-19,0.7,1.8
+ec18b3aa,Girona,Real Sociedad,0,1,2024-10-19,1.7,0.4
+5ea3b789,Osasuna,Betis,1,2,2024-10-19,2.1,2.0
+d32fffe0,Atlético Madrid,Leganés,3,1,2024-10-20,0.3,4.4
+5f73bf47,Barcelona,Sevilla,5,1,2024-10-20,1.0,3.8
+477327f9,Mallorca,Rayo Vallecano,1,0,2024-10-20,0.6,2.0
+bfba2fd7,Villarreal,Getafe,1,1,2024-10-20,1.9,0.9
+9bb16911,Valencia,Las Palmas,2,3,2024-10-21,1.2,1.6
+38d25c90,Espanyol,Sevilla,0,2,2024-10-25,0.8,1.2
+9dbc3e14,Las Palmas,Girona,1,0,2024-10-26,0.6,0.9
+55b7dfaa,Rayo Vallecano,Alavés,1,0,2024-10-26,0.9,1.9
+e6bc2844,Real Madrid,Barcelona,0,4,2024-10-26,2.6,1.5
+591dbf90,Valladolid,Villarreal,1,2,2024-10-26,2.0,0.9
+ffc4972d,Betis,Atlético Madrid,1,0,2024-10-27,0.5,1.9
+f0be0a37,Getafe,Valencia,1,1,2024-10-27,0.7,2.2
+597f83c1,Leganés,Celta Vigo,3,0,2024-10-27,0.9,1.6
+722b1ca2,Real Sociedad,Osasuna,0,2,2024-10-27,1.0,1.6
+46815a4a,Mallorca,Athletic Club,0,0,2024-10-28,0.6,0.5
+454dc8c7,Alavés,Mallorca,1,0,2024-11-01,0.5,1.1
+12ce04dc,Girona,Leganés,4,3,2024-11-02,0.4,2.0
+377a6000,Osasuna,Valladolid,1,0,2024-11-02,0.2,2.2
+ef8bf64a,Athletic Club,Betis,1,1,2024-11-03,0.9,4.0
+60a46aeb,Atlético Madrid,Las Palmas,2,0,2024-11-03,0.0,1.6
+90cf8629,Barcelona,Espanyol,3,1,2024-11-03,0.9,1.8
+81dad4eb,Sevilla,Real Sociedad,0,2,2024-11-03,1.4,1.1
+652b900c,Celta Vigo,Getafe,1,0,2024-11-04,0.5,1.9
+abe69737,Rayo Vallecano,Las Palmas,1,3,2024-11-08,1.1,2.4
+7925ae38,Leganés,Sevilla,1,0,2024-11-09,0.6,1.1
+79bd89e0,Real Madrid,Osasuna,4,0,2024-11-09,0.1,3.1
+570273ee,Villarreal,Alavés,3,0,2024-11-09,0.5,1.5
+2307f9b9,Betis,Celta Vigo,2,2,2024-11-10,1.2,1.6
+26d75d6d,Getafe,Girona,0,1,2024-11-10,0.2,0.6
+f6040fa5,Mallorca,Atlético Madrid,0,1,2024-11-10,0.6,0.6
+5f83ac85,Real Sociedad,Barcelona,1,0,2024-11-10,0.7,2.0
+57eb3b4f,Valladolid,Athletic Club,1,1,2024-11-10,1.2,0.6
+7f56d98f,Getafe,Valladolid,2,0,2024-11-22,1.1,0.6
+27871b65,Atlético Madrid,Alavés,2,1,2024-11-23,0.9,1.6
+ffb1fa1d,Celta Vigo,Barcelona,2,2,2024-11-23,1.8,2.5
+cdb994ab,Girona,Espanyol,4,1,2024-11-23,0.5,3.5
+243cb41c,Las Palmas,Mallorca,2,3,2024-11-23,1.7,1.2
+818dc175,Valencia,Betis,4,2,2024-11-23,1.3,1.5
+fa0d939a,Athletic Club,Real Sociedad,1,0,2024-11-24,0.5,1.3
+e2ee9d3d,Leganés,Real Madrid,0,3,2024-11-24,1.8,0.1
+e5de943f,Osasuna,Villarreal,2,2,2024-11-24,2.5,1.0
+e88639fb,Sevilla,Rayo Vallecano,1,0,2024-11-24,0.8,1.1
+fc79d1e0,Mallorca,Valencia,2,1,2024-11-29,1.3,0.8
+62f87a02,Alavés,Leganés,1,1,2024-11-30,0.9,1.1
+00bca7c4,Barcelona,Las Palmas,1,2,2024-11-30,0.5,2.3
+2f5ca11f,Espanyol,Celta Vigo,3,1,2024-11-30,1.6,0.9
+34a6798a,Valladolid,Atlético Madrid,0,5,2024-11-30,4.0,0.6
+8dcf829f,Rayo Vallecano,Athletic Club,1,2,2024-12-01,0.7,0.2
+6e3da6f1,Real Madrid,Getafe,2,0,2024-12-01,0.5,3.2
+11bcd802,Real Sociedad,Betis,2,0,2024-12-01,0.4,0.8
+0b823038,Villarreal,Girona,2,2,2024-12-01,0.5,2.0
+018fa1b4,Sevilla,Osasuna,1,1,2024-12-02,0.7,1.3
+fce1658d,Mallorca,Barcelona,1,5,2024-12-03,5.0,0.9
+8eba22e2,Athletic Club,Real Madrid,2,1,2024-12-04,1.7,1.8
+b53b2cc8,Celta Vigo,Mallorca,2,0,2024-12-06,0.8,0.9
+fb5d09d6,Betis,Barcelona,2,2,2024-12-07,1.9,3.1
+6ebd56ef,Girona,Real Madrid,0,3,2024-12-07,0.9,0.4
+036a4747,Las Palmas,Valladolid,2,1,2024-12-07,1.3,1.1
+24f9975b,Valencia,Rayo Vallecano,0,1,2024-12-07,0.9,1.3
+8f9e0139,Athletic Club,Villarreal,2,0,2024-12-08,0.8,1.2
+8c459ad5,Atlético Madrid,Sevilla,4,3,2024-12-08,0.4,2.0
+37cd2f6c,Leganés,Real Sociedad,0,3,2024-12-08,1.8,0.7
+ee8fb4af,Osasuna,Alavés,2,2,2024-12-08,1.3,1.8
+8a159d42,Getafe,Espanyol,1,0,2024-12-09,0.7,0.4
+b7bb2f84,Valladolid,Valencia,1,0,2024-12-13,0.8,0.6
+4525bc01,Espanyol,Osasuna,0,0,2024-12-14,0.3,0.3
+5632f505,Mallorca,Girona,2,1,2024-12-14,0.8,1.2
+49cf201f,Rayo Vallecano,Real Madrid,3,3,2024-12-14,0.7,1.6
+6a475fea,Sevilla,Celta Vigo,1,0,2024-12-14,1.2,0.7
+1fe130a9,Alavés,Athletic Club,1,1,2024-12-15,0.7,0.9
+25a5934a,Atlético Madrid,Getafe,1,0,2024-12-15,0.2,1.7
+e7bdcc56,Barcelona,Leganés,0,1,2024-12-15,0.4,2.6
+11192bf0,Real Sociedad,Las Palmas,0,0,2024-12-15,1.0,1.1
+2839ad16,Villarreal,Betis,1,2,2024-12-15,0.8,1.9
+8cc12868,Espanyol,Valencia,1,1,2024-12-18,2.0,2.1
+a11727e1,Villarreal,Rayo Vallecano,1,1,2024-12-18,1.5,1.4
+0c8db441,Girona,Valladolid,3,0,2024-12-20,0.0,2.5
+ac04a5d2,Barcelona,Atlético Madrid,1,2,2024-12-21,0.7,2.7
+e9fe833a,Celta Vigo,Real Sociedad,2,0,2024-12-21,0.3,1.3
+6358b738,Getafe,Mallorca,0,1,2024-12-21,2.3,0.8
+7c1a412b,Osasuna,Athletic Club,1,2,2024-12-21,1.2,0.6
+aff51fb4,Betis,Rayo Vallecano,1,1,2024-12-22,0.9,2.1
+ebe2bfbd,Las Palmas,Espanyol,1,0,2024-12-22,0.7,0.9
+04b6223f,Leganés,Villarreal,2,5,2024-12-22,3.3,1.2
+b839d4ce,Real Madrid,Sevilla,4,2,2024-12-22,1.3,2.0
+45dc71b5,Valencia,Alavés,2,2,2024-12-22,1.6,1.5
+15e84040,Valencia,Real Madrid,1,2,2025-01-03,2.7,1.3
+e55b978c,Rayo Vallecano,Celta Vigo,2,1,2025-01-10,2.1,0.7
+66b19e25,Alavés,Girona,0,1,2025-01-11,0.5,1.3
+4fb3dc98,Espanyol,Leganés,1,1,2025-01-11,2.0,0.7
+7652232d,Sevilla,Valencia,1,1,2025-01-11,0.7,0.5
+e9c90680,Valladolid,Betis,1,0,2025-01-11,0.7,1.2
+2367dade,Atlético Madrid,Osasuna,1,0,2025-01-12,0.3,2.5
+e1cfa735,Las Palmas,Getafe,1,2,2025-01-12,1.1,1.3
+ecd47b8a,Real Sociedad,Villarreal,1,0,2025-01-13,1.2,0.8
+75d8fa7a,Espanyol,Valladolid,2,1,2025-01-17,1.2,1.0
+fe96c24b,Betis,Alavés,1,3,2025-01-18,1.5,0.5
+ac3f8e9a,Getafe,Barcelona,1,1,2025-01-18,2.3,1.3
+5dbf000f,Girona,Sevilla,1,2,2025-01-18,2.6,1.0
+7ba8b655,Leganés,Atlético Madrid,1,0,2025-01-18,2.4,0.5
+a5448163,Celta Vigo,Athletic Club,1,2,2025-01-19,1.8,0.6
+b85ff6cf,Osasuna,Rayo Vallecano,1,1,2025-01-19,0.8,0.8
+c8f36a4b,Real Madrid,Las Palmas,4,1,2025-01-19,1.1,5.9
+b0b640d3,Valencia,Real Sociedad,1,0,2025-01-19,0.8,1.6
+fd632e2f,Villarreal,Mallorca,4,0,2025-01-20,0.5,2.4
+28b22659,Las Palmas,Osasuna,1,1,2025-01-24,2.6,0.8
+6566ae8c,Atlético Madrid,Villarreal,1,1,2025-01-25,2.2,1.7
+2395eb39,Mallorca,Betis,0,1,2025-01-25,0.4,1.0
+10db0915,Sevilla,Espanyol,1,1,2025-01-25,0.7,1.2
+382d5e03,Valladolid,Real Madrid,0,3,2025-01-25,2.0,0.2
+f17ca419,Athletic Club,Leganés,0,0,2025-01-26,1.0,2.1
+77dda45d,Barcelona,Valencia,7,1,2025-01-26,1.5,4.4
+af7b751a,Rayo Vallecano,Girona,2,1,2025-01-26,1.0,2.4
+2450ca46,Real Sociedad,Getafe,0,3,2025-01-26,1.4,0.9
+b418c449,Alavés,Celta Vigo,1,1,2025-01-27,0.1,0.9
+43d7418a,Leganés,Rayo Vallecano,0,1,2025-01-31,2.2,0.9
+15ceb2e9,Atlético Madrid,Mallorca,2,0,2025-02-01,0.5,1.3
+bb8e8b39,Espanyol,Real Madrid,1,0,2025-02-01,1.3,0.3
+b992fee4,Getafe,Sevilla,0,0,2025-02-01,0.9,1.0
+0688f714,Villarreal,Valladolid,5,1,2025-02-01,0.5,3.5
+5dd33e2b,Barcelona,Alavés,1,0,2025-02-02,0.1,1.0
+dc8dc26b,Betis,Athletic Club,2,2,2025-02-02,1.4,1.1
+2b4789d5,Osasuna,Real Sociedad,2,1,2025-02-02,2.0,0.7
+85f339a3,Valencia,Celta Vigo,2,1,2025-02-02,0.4,1.6
+0a6de3d3,Girona,Las Palmas,2,1,2025-02-03,1.5,2.0
+7bfbe87f,Rayo Vallecano,Valladolid,1,0,2025-02-07,0.4,2.3
+87b1fc3e,Athletic Club,Girona,3,0,2025-02-08,0.1,3.6
+7d25dd93,Celta Vigo,Betis,3,2,2025-02-08,1.3,2.2
+117692e2,Las Palmas,Villarreal,1,2,2025-02-08,0.9,1.4
+442c5b57,Real Madrid,Atlético Madrid,1,1,2025-02-08,1.5,1.6
+39db2a13,Alavés,Getafe,0,1,2025-02-09,0.9,1.4
+39cd05e4,Real Sociedad,Espanyol,2,1,2025-02-09,0.9,1.7
+57bc3e19,Sevilla,Barcelona,1,4,2025-02-09,1.9,0.7
+89c7a794,Valencia,Leganés,2,0,2025-02-09,0.5,1.9
+64cac73e,Mallorca,Osasuna,1,1,2025-02-10,1.4,1.3
+2702096e,Girona,Getafe,1,2,2025-02-14,0.6,0.9
+ec6e214e,Atlético Madrid,Celta Vigo,1,1,2025-02-15,1.7,0.6
+5bf2e4ce,Leganés,Alavés,3,3,2025-02-15,1.7,1.8
+c667c7ca,Osasuna,Real Madrid,1,1,2025-02-15,1.4,1.4
+71df1d23,Villarreal,Valencia,1,1,2025-02-15,1.1,1.3
+f7ee4708,Betis,Real Sociedad,3,0,2025-02-16,0.3,2.3
+d0f5d736,Espanyol,Athletic Club,1,1,2025-02-16,1.0,0.8
+041d6702,Mallorca,Las Palmas,3,1,2025-02-16,0.8,1.7
+fbad97f4,Valladolid,Sevilla,0,4,2025-02-16,1.1,0.5
+b299fca9,Barcelona,Rayo Vallecano,1,0,2025-02-17,1.0,2.3
+138c629e,Celta Vigo,Osasuna,1,0,2025-02-21,1.2,1.8
+776298df,Alavés,Espanyol,0,1,2025-02-22,0.4,1.8
+6b455e82,Las Palmas,Barcelona,0,2,2025-02-22,1.4,0.4
+4d0c9845,Rayo Vallecano,Villarreal,0,1,2025-02-22,0.6,0.6
+cc85a3d4,Valencia,Atlético Madrid,0,3,2025-02-22,1.3,0.8
+e42061f0,Athletic Club,Valladolid,7,1,2025-02-23,0.5,3.8
+738f8f85,Getafe,Betis,1,2,2025-02-23,2.0,1.2
+9289e6ed,Real Madrid,Girona,2,0,2025-02-23,0.4,2.2
+1182bc6e,Real Sociedad,Leganés,3,0,2025-02-23,0.3,0.7
+409ec366,Sevilla,Mallorca,1,1,2025-02-24,2.3,1.3
+d3f13884,Valladolid,Las Palmas,1,1,2025-02-28,0.2,1.8
+1971e698,Atlético Madrid,Athletic Club,1,0,2025-03-01,1.1,2.2
+f1e4f58c,Betis,Real Madrid,2,1,2025-03-01,0.9,2.4
+3865f1d2,Girona,Celta Vigo,2,2,2025-03-01,1.8,0.7
+3736c3d4,Rayo Vallecano,Sevilla,1,1,2025-03-01,0.6,2.8
+0b2c987f,Barcelona,Real Sociedad,4,0,2025-03-02,0.0,2.8
+f079fabc,Leganés,Getafe,1,0,2025-03-02,0.3,1.0
+6c84aa28,Mallorca,Alavés,1,1,2025-03-02,1.6,1.1
+0580ab96,Osasuna,Valencia,3,3,2025-03-02,1.7,1.5
+fae6d2fd,Alavés,Villarreal,1,0,2025-03-08,2.8,1.0
+cb080ed5,Celta Vigo,Leganés,2,1,2025-03-08,1.0,0.9
+585ef159,Valencia,Valladolid,2,1,2025-03-08,0.9,1.9
+54fa5083,Athletic Club,Mallorca,1,1,2025-03-09,0.5,0.7
+887132d0,Betis,Las Palmas,1,0,2025-03-09,0.6,2.3
+1e429e52,Getafe,Atlético Madrid,2,1,2025-03-09,0.9,1.2
+d8d672fa,Real Madrid,Rayo Vallecano,2,1,2025-03-09,1.0,1.5
+f1dd2f9a,Real Sociedad,Sevilla,0,1,2025-03-09,0.6,0.7
+4c7eab6f,Espanyol,Girona,1,1,2025-03-10,1.6,0.2
+90b5ee8e,Las Palmas,Alavés,2,2,2025-03-14,1.7,1.8
+c9bdc26a,Girona,Valencia,1,1,2025-03-15,1.0,0.9
+a008668e,Mallorca,Espanyol,2,1,2025-03-15,0.2,2.7
+19ca64ed,Valladolid,Celta Vigo,0,1,2025-03-15,1.5,0.7
+4106e75f,Villarreal,Real Madrid,1,2,2025-03-15,1.1,1.6
+8ddf3820,Atlético Madrid,Barcelona,2,4,2025-03-16,1.3,1.4
+37e0a484,Leganés,Betis,2,3,2025-03-16,2.7,1.3
+bd9c5fd6,Osasuna,Getafe,1,2,2025-03-16,0.5,1.9
+6996fe18,Rayo Vallecano,Real Sociedad,2,2,2025-03-16,0.6,0.6
+b21dd238,Sevilla,Athletic Club,0,1,2025-03-16,1.3,0.5
+af815599,Barcelona,Osasuna,3,0,2025-03-27,0.4,3.7
+de9887c1,Alavés,Rayo Vallecano,0,2,2025-03-29,0.6,1.5
+539f05d4,Espanyol,Atlético Madrid,1,1,2025-03-29,0.8,1.0
+02169120,Real Madrid,Leganés,3,2,2025-03-29,2.4,2.9
+8a068dcb,Real Sociedad,Valladolid,2,1,2025-03-29,0.7,0.7
+7e4ab762,Athletic Club,Osasuna,0,0,2025-03-30,0.4,0.7
+6e84530a,Barcelona,Girona,4,1,2025-03-30,0.5,2.3
+521b1f26,Betis,Sevilla,2,1,2025-03-30,0.7,1.1
+9efb7811,Getafe,Villarreal,1,2,2025-03-30,1.2,1.0
+4223fbb4,Valencia,Mallorca,1,0,2025-03-30,0.6,0.7
+30fa33ba,Celta Vigo,Las Palmas,1,1,2025-03-31,0.3,1.0
+ff92ae47,Rayo Vallecano,Espanyol,0,4,2025-04-04,3.4,0.7
+86447b37,Barcelona,Betis,1,1,2025-04-05,0.3,1.4
+e6b730a8,Girona,Alavés,0,1,2025-04-05,0.8,1.4
+bc459f49,Mallorca,Celta Vigo,1,2,2025-04-05,0.8,0.5
+59db0a32,Real Madrid,Valencia,1,2,2025-04-05,0.8,3.4
+864a0fb8,Las Palmas,Real Sociedad,1,3,2025-04-06,2.4,2.0
+4b093821,Sevilla,Atlético Madrid,1,2,2025-04-06,1.3,0.9
+e33c8281,Valladolid,Getafe,0,4,2025-04-06,1.9,0.6
+65afea5b,Villarreal,Athletic Club,0,0,2025-04-06,0.8,2.1
+62c1d5cc,Leganés,Osasuna,1,1,2025-04-07,2.2,1.7
+160a9af7,Valencia,Sevilla,1,0,2025-04-11,0.8,1.3
+3aa5024f,Celta Vigo,Espanyol,0,2,2025-04-12,1.2,0.9
+606774d3,Getafe,Las Palmas,1,3,2025-04-12,1.3,1.4
+5160bd9d,Leganés,Barcelona,0,1,2025-04-12,1.4,0.7
+a449c18e,Real Sociedad,Mallorca,0,2,2025-04-12,0.7,0.7
+988deece,Alavés,Real Madrid,0,1,2025-04-13,0.9,0.6
+82c58306,Athletic Club,Rayo Vallecano,3,1,2025-04-13,1.6,1.6
+028b10dc,Betis,Villarreal,1,2,2025-04-13,1.3,1.4
+57baf278,Osasuna,Girona,2,1,2025-04-13,0.9,1.7
+b955d331,Atlético Madrid,Valladolid,4,2,2025-04-14,1.2,3.4
+442a63df,Espanyol,Getafe,1,0,2025-04-18,0.4,0.4
+ac6535dc,Barcelona,Celta Vigo,4,3,2025-04-19,2.1,2.9
+84f347ad,Las Palmas,Atlético Madrid,1,0,2025-04-19,0.8,0.6
+36e23ef5,Mallorca,Leganés,0,0,2025-04-19,0.9,0.9
+81da0725,Rayo Vallecano,Valencia,1,1,2025-04-19,2.0,0.5
+b9c25e18,Real Madrid,Athletic Club,1,0,2025-04-20,0.2,1.5
+be12049b,Sevilla,Alavés,1,1,2025-04-20,1.0,1.6
+6b0f1761,Valladolid,Osasuna,2,3,2025-04-20,2.3,1.9
+46e117e0,Villarreal,Real Sociedad,2,2,2025-04-20,1.7,1.9
+0edcec5d,Girona,Betis,1,3,2025-04-21,1.7,1.1
+a71ce7d1,Barcelona,Mallorca,1,0,2025-04-22,0.3,3.3
+17125161,Valencia,Espanyol,1,1,2025-04-22,0.3,0.9
+14a28e57,Alavés,Real Sociedad,1,0,2025-04-23,0.8,0.6
+60c208f0,Athletic Club,Las Palmas,1,0,2025-04-23,1.0,2.1
+291cfd49,Celta Vigo,Villarreal,3,0,2025-04-23,0.4,2.7
+5ae33594,Getafe,Real Madrid,0,1,2025-04-23,1.5,2.3
+a5ffdc50,Atlético Madrid,Rayo Vallecano,3,0,2025-04-24,0.7,2.3
+f880625e,Betis,Valladolid,5,1,2025-04-24,0.9,1.9
+124ad510,Leganés,Girona,1,1,2025-04-24,0.5,0.3
+3438a56b,Osasuna,Sevilla,1,0,2025-04-24,1.1,0.3
+50b976fc,Villarreal,Espanyol,1,0,2025-04-27,1.0,1.4
+1ca7012a,Rayo Vallecano,Getafe,1,0,2025-05-02,0.9,1.2
+7c70cc19,Alavés,Atlético Madrid,0,0,2025-05-03,0.5,0.5
+bc2261f6,Las Palmas,Valencia,2,3,2025-05-03,1.4,1.7
+af94853a,Valladolid,Barcelona,1,2,2025-05-03,1.9,0.6
+6b5549c2,Villarreal,Osasuna,4,2,2025-05-03,1.2,2.2
+be0ab7a4,Espanyol,Betis,1,2,2025-05-04,1.1,1.2
+08e02efc,Real Madrid,Celta Vigo,3,2,2025-05-04,1.8,2.2
+e0d46d97,Real Sociedad,Athletic Club,0,0,2025-05-04,0.2,0.9
+2c94bff7,Sevilla,Leganés,2,2,2025-05-04,0.6,2.7
+45dbbb22,Girona,Mallorca,1,0,2025-05-05,0.5,1.3
+ce67853a,Las Palmas,Rayo Vallecano,0,1,2025-05-09,1.2,0.7
+dfd588e7,Atlético Madrid,Real Sociedad,4,0,2025-05-10,0.6,1.4
+3537bd55,Celta Vigo,Sevilla,3,2,2025-05-10,2.3,0.9
+bf02d20b,Girona,Villarreal,0,1,2025-05-10,2.0,0.2
+e7540b3e,Mallorca,Valladolid,2,1,2025-05-10,1.8,1.0
+ed775615,Valencia,Getafe,3,0,2025-05-10,0.5,2.7
+c89b7f67,Athletic Club,Alavés,1,0,2025-05-11,0.4,1.3
+f1804d9c,Barcelona,Real Madrid,4,3,2025-05-11,2.7,4.2
+05130dc3,Betis,Osasuna,1,1,2025-05-11,2.0,0.4
+f2459bac,Leganés,Espanyol,3,2,2025-05-11,1.2,1.5
+c38bd41c,Real Sociedad,Celta Vigo,0,1,2025-05-13,1.1,1.7
+0bb2b5ef,Sevilla,Las Palmas,1,0,2025-05-13,0.5,1.3
+336bf51e,Valladolid,Girona,0,1,2025-05-13,1.4,0.9
+a0128620,Alavés,Valencia,1,0,2025-05-14,0.8,1.8
+1838bcd7,Real Madrid,Mallorca,2,1,2025-05-14,0.5,2.6
+b14bf95b,Villarreal,Leganés,3,0,2025-05-14,1.1,1.6
+45f486b1,Espanyol,Barcelona,0,2,2025-05-15,0.6,1.4
+535ec951,Getafe,Athletic Club,0,2,2025-05-15,1.2,0.4
+ab452039,Osasuna,Atlético Madrid,2,0,2025-05-15,1.4,0.6
+54538ff7,Rayo Vallecano,Betis,2,2,2025-05-15,1.2,1.2
+07f29baa,Atlético Madrid,Betis,4,1,2025-05-18,0.9,4.8
+db2637b7,Barcelona,Villarreal,2,3,2025-05-18,1.8,1.4
+1716ac24,Celta Vigo,Rayo Vallecano,1,2,2025-05-18,1.2,2.4
+766b10ee,Las Palmas,Leganés,0,1,2025-05-18,1.5,0.6
+05c5e52d,Mallorca,Getafe,1,2,2025-05-18,1.6,0.4
+e176243c,Osasuna,Espanyol,2,0,2025-05-18,0.7,1.2
+1c29483b,Real Sociedad,Girona,3,2,2025-05-18,2.3,2.0
+cde582d4,Sevilla,Real Madrid,0,2,2025-05-18,2.0,0.5
+e69b0060,Valencia,Athletic Club,0,1,2025-05-18,1.1,0.4
+89b88d0b,Valladolid,Alavés,0,1,2025-05-18,1.4,1.6
+a1ad64bb,Betis,Valencia,1,1,2025-05-23,0.7,0.9
+ed820dc1,Alavés,Osasuna,1,1,2025-05-24,1.6,2.0
+858bd9c5,Espanyol,Las Palmas,2,0,2025-05-24,0.5,2.0
+4303125c,Getafe,Celta Vigo,1,2,2025-05-24,1.5,0.4
+12536c9f,Leganés,Valladolid,3,0,2025-05-24,0.4,2.1
+fa808cc1,Rayo Vallecano,Mallorca,0,0,2025-05-24,0.6,2.2
+14179de8,Real Madrid,Real Sociedad,2,0,2025-05-24,0.8,2.6
+20bdd334,Athletic Club,Barcelona,0,3,2025-05-25,3.5,1.2
+cb8011f0,Girona,Atlético Madrid,0,4,2025-05-25,2.7,0.0
+b724ff67,Villarreal,Sevilla,4,2,2025-05-25,1.5,1.1
+ff59d311,Nice,Lille,1,1,2023-08-11,1.3,1.2
+fdbcc9e3,Marseille,Reims,2,1,2023-08-12,0.8,1.0
+2e85b460,Paris S-G,Lorient,0,0,2023-08-12,0.1,1.2
+6e29d5a3,Brest,Lens,3,2,2023-08-13,0.7,2.5
+68752280,Clermont Foot,Monaco,2,4,2023-08-13,2.5,1.8
+ca893ead,Montpellier,Le Havre,2,2,2023-08-13,1.0,1.6
+1e12937d,Nantes,Toulouse,1,2,2023-08-13,1.1,1.1
+e0073aaf,Rennes,Metz,5,1,2023-08-13,0.4,4.0
+9f7c605e,Strasbourg,Lyon,2,1,2023-08-13,1.7,1.3
+02c81085,Metz,Marseille,2,2,2023-08-18,1.9,0.5
+39ad4054,Lyon,Montpellier,1,4,2023-08-19,2.9,0.4
+fad8e14d,Toulouse,Paris S-G,1,1,2023-08-19,2.1,1.2
+680c6c1d,Le Havre,Brest,1,2,2023-08-20,1.1,1.2
+283d8d62,Lens,Rennes,1,1,2023-08-20,1.4,1.0
+31fe99c8,Lille,Nantes,2,0,2023-08-20,1.1,2.2
+f6d67175,Lorient,Nice,1,1,2023-08-20,1.7,0.8
+f06d0bce,Monaco,Strasbourg,3,0,2023-08-20,0.5,0.9
+4b9f0040,Reims,Clermont Foot,2,0,2023-08-20,0.4,2.4
+ea724bc0,Nantes,Monaco,3,3,2023-08-25,3.3,1.0
+b9c29ee4,Marseille,Brest,2,0,2023-08-26,1.5,2.9
+d3db871d,Paris S-G,Lens,3,1,2023-08-26,0.5,1.5
+344b05de,Clermont Foot,Metz,0,1,2023-08-27,1.1,0.7
+eb2c366f,Lorient,Lille,4,1,2023-08-27,1.1,1.6
+4d6e6c68,Montpellier,Reims,1,3,2023-08-27,1.4,0.9
+067a73e7,Nice,Lyon,0,0,2023-08-27,0.2,1.9
+505ba995,Rennes,Le Havre,2,2,2023-08-27,0.4,3.2
+0b508695,Strasbourg,Toulouse,2,0,2023-08-27,0.3,3.4
+6eca98c7,Nantes,Marseille,1,1,2023-09-01,2.6,0.9
+38572486,Brest,Rennes,0,0,2023-09-02,0.3,1.4
+7a2f8122,Monaco,Lens,3,0,2023-09-02,0.6,0.9
+4519a333,Le Havre,Lorient,3,0,2023-09-03,0.7,2.0
+26cacbb5,Lille,Montpellier,1,0,2023-09-03,0.3,1.2
+cd3d8319,Lyon,Paris S-G,1,4,2023-09-03,4.5,2.1
+678bad42,Metz,Reims,2,2,2023-09-03,0.7,1.1
+17e9722e,Nice,Strasbourg,2,0,2023-09-03,0.2,2.2
+12bf8242,Toulouse,Clermont Foot,2,2,2023-09-03,1.8,0.6
+f0478368,Paris S-G,Nice,2,3,2023-09-15,1.3,1.0
+40754c32,Lens,Metz,0,1,2023-09-16,0.3,2.0
+d419c313,Rennes,Lille,2,2,2023-09-16,1.0,0.5
+6a2c2932,Clermont Foot,Nantes,0,1,2023-09-17,0.6,1.3
+2cbf9481,Lorient,Monaco,2,2,2023-09-17,1.7,0.9
+18b82351,Lyon,Le Havre,0,0,2023-09-17,0.8,1.5
+195b7636,Marseille,Toulouse,0,0,2023-09-17,0.7,1.5
+f12c7a9a,Reims,Brest,1,2,2023-09-17,1.5,1.7
+b04003c3,Strasbourg,Montpellier,2,2,2023-09-17,1.1,2.3
+74e4b97c,Monaco,Nice,0,1,2023-09-22,0.9,1.8
+7ae5c7ed,Brest,Lyon,1,0,2023-09-23,0.4,2.4
+4f5c9313,Nantes,Lorient,5,3,2023-09-23,1.7,2.1
+941106cf,Le Havre,Clermont Foot,2,1,2023-09-24,0.9,1.3
+2e47fd82,Lens,Toulouse,2,1,2023-09-24,0.4,2.5
+a5037d9e,Metz,Strasbourg,0,1,2023-09-24,0.4,1.1
+fd6b554c,Montpellier,Rennes,0,0,2023-09-24,0.9,1.5
+405fa974,Paris S-G,Marseille,4,0,2023-09-24,0.7,1.9
+b1ae9dc3,Lille,Reims,1,2,2023-09-26,0.5,1.2
+0730708e,Strasbourg,Lens,0,1,2023-09-29,0.8,0.3
+f443185b,Clermont Foot,Paris S-G,0,0,2023-09-30,3.0,1.0
+680c833b,Monaco,Marseille,3,2,2023-09-30,1.0,1.0
+f2fb61f7,Le Havre,Lille,0,2,2023-10-01,1.2,0.8
+fd60231d,Lorient,Montpellier,0,3,2023-10-01,2.8,1.0
+49bbb3f4,Nice,Brest,0,0,2023-10-01,0.2,1.1
+cfb7f6ea,Reims,Lyon,2,0,2023-10-01,0.7,2.0
+94204a39,Rennes,Nantes,3,1,2023-10-01,1.0,2.7
+9baac3cb,Toulouse,Metz,3,0,2023-10-01,0.7,1.3
+ac3cd65a,Strasbourg,Nantes,1,2,2023-10-06,1.9,0.7
+a77842d5,Metz,Nice,0,1,2023-10-07,1.4,0.4
+8abe55a4,Reims,Monaco,1,3,2023-10-07,1.2,1.5
+f41980c3,Brest,Toulouse,1,1,2023-10-08,1.2,1.5
+b044385d,Lens,Lille,1,1,2023-10-08,1.7,2.0
+43cc2649,Lyon,Lorient,3,3,2023-10-08,1.1,1.4
+4df09039,Marseille,Le Havre,3,0,2023-10-08,0.2,2.8
+484e237a,Rennes,Paris S-G,1,3,2023-10-08,3.5,1.1
+437ba0cb,Le Havre,Lens,0,0,2023-10-20,1.6,1.6
+494deaba,Nice,Marseille,1,0,2023-10-21,1.1,0.6
+28f09198,Paris S-G,Strasbourg,3,0,2023-10-21,0.4,2.0
+de708e26,Lille,Brest,1,0,2023-10-22,0.8,1.6
+08e896d5,Lorient,Rennes,2,1,2023-10-22,0.9,0.6
+847c54fa,Lyon,Clermont Foot,1,2,2023-10-22,1.0,1.7
+b33c484a,Monaco,Metz,2,1,2023-10-22,1.0,2.0
+398e7ed6,Nantes,Montpellier,2,0,2023-10-22,0.5,1.5
+f0a8c67d,Toulouse,Reims,1,1,2023-10-22,1.3,0.8
+1c297781,Clermont Foot,Nice,0,1,2023-10-27,2.2,0.5
+271f272f,Lens,Nantes,4,0,2023-10-28,1.0,3.7
+5c8bc6ef,Reims,Lorient,1,0,2023-10-28,0.4,0.8
+3fc4e3ce,Brest,Paris S-G,2,3,2023-10-29,2.1,1.8
+e4ed3318,Lille,Monaco,2,0,2023-10-29,0.6,0.5
+6d743853,Metz,Le Havre,0,0,2023-10-29,0.7,0.5
+c7788081,Montpellier,Toulouse,3,0,2023-10-29,1.2,3.0
+b35db4c8,Rennes,Strasbourg,1,1,2023-10-29,1.0,1.1
+4f44d7fc,Paris S-G,Montpellier,3,0,2023-11-03,0.5,1.1
+001326cc,Lorient,Lens,0,0,2023-11-04,0.6,0.5
+d8243ab9,Marseille,Lille,0,0,2023-11-04,0.3,0.8
+eadb1375,Lyon,Metz,1,1,2023-11-05,0.7,1.9
+ef59a003,Monaco,Brest,2,0,2023-11-05,0.8,0.8
+96b3374a,Nantes,Reims,0,1,2023-11-05,1.1,1.8
+fad89d7b,Nice,Rennes,2,0,2023-11-05,0.8,1.6
+957c6924,Strasbourg,Clermont Foot,0,0,2023-11-05,0.9,1.0
+f7d3c634,Toulouse,Le Havre,1,2,2023-11-05,1.1,2.6
+5bdc7c32,Montpellier,Nice,0,0,2023-11-10,0.7,0.5
+8bb49483,Le Havre,Monaco,0,0,2023-11-11,0.6,1.4
+61d9e0d0,Reims,Paris S-G,0,3,2023-11-11,2.3,1.3
+e0aea3a9,Clermont Foot,Lorient,1,0,2023-11-12,0.5,1.5
+fe8096da,Lens,Marseille,1,0,2023-11-12,1.0,1.1
+f0f7d5b7,Lille,Toulouse,1,1,2023-11-12,0.1,2.5
+594dba4e,Metz,Nantes,3,1,2023-11-12,1.3,1.1
+16251ab0,Rennes,Lyon,0,1,2023-11-12,1.5,0.9
+6f11a93d,Paris S-G,Monaco,5,2,2023-11-24,1.6,2.6
+4cf8ae40,Clermont Foot,Lens,0,3,2023-11-25,2.2,1.9
+3d1a3c81,Strasbourg,Marseille,1,1,2023-11-25,1.4,1.1
+685f0592,Lorient,Metz,2,3,2023-11-26,1.9,1.2
+3835384c,Lyon,Lille,0,2,2023-11-26,1.5,1.9
+e4cca984,Montpellier,Brest,1,3,2023-11-26,1.7,1.7
+ec8cdc57,Nantes,Le Havre,0,0,2023-11-26,0.2,1.3
+69ee1012,Nice,Toulouse,1,0,2023-11-26,1.3,1.0
+068718ca,Rennes,Reims,3,1,2023-11-26,1.6,1.8
+341877cf,Montpellier,Clermont Foot,1,1,2023-11-29,0.4,2.4
+ad372452,Reims,Strasbourg,2,1,2023-12-01,1.7,1.3
+66f5f256,Lens,Lyon,3,2,2023-12-02,2.5,2.1
+b0ae3622,Nantes,Nice,1,0,2023-12-02,1.3,1.4
+9f17a676,Brest,Clermont Foot,3,0,2023-12-03,0.8,1.4
+b6e6fdfe,Le Havre,Paris S-G,0,2,2023-12-03,1.2,2.0
+1edcab1f,Lille,Metz,2,0,2023-12-03,1.9,2.9
+caadf3f7,Marseille,Rennes,2,0,2023-12-03,0.6,0.9
+0d5e1575,Monaco,Montpellier,2,0,2023-12-03,0.9,2.2
+50bf0584,Toulouse,Lorient,1,1,2023-12-03,0.8,1.0
+dfac144f,Marseille,Lyon,3,0,2023-12-06,0.2,2.2
+52a1fcfd,Brest,Strasbourg,1,1,2023-12-07,1.5,1.1
+ad238285,Montpellier,Lens,0,0,2023-12-08,1.1,1.3
+2582af0c,Paris S-G,Nantes,2,1,2023-12-09,0.5,2.0
+fdd2c923,Rennes,Monaco,1,2,2023-12-09,0.9,1.7
+b6281098,Clermont Foot,Lille,0,0,2023-12-10,1.0,1.3
+5443d1b1,Lorient,Marseille,2,4,2023-12-10,2.3,2.2
+015e7632,Lyon,Toulouse,3,0,2023-12-10,1.5,1.7
+e1a3d53e,Metz,Brest,0,1,2023-12-10,0.3,0.2
+22646ca5,Nice,Reims,2,1,2023-12-10,1.3,0.9
+d15b44c5,Strasbourg,Le Havre,2,1,2023-12-10,1.3,1.6
+f66124b8,Monaco,Lyon,0,1,2023-12-15,0.7,1.3
+8fd0b0fe,Le Havre,Nice,3,1,2023-12-16,1.9,2.1
+331c82fc,Lens,Reims,2,0,2023-12-16,1.1,1.3
+204a77b5,Lille,Paris S-G,1,1,2023-12-17,1.4,1.4
+f3cfe34d,Lorient,Strasbourg,1,2,2023-12-17,0.9,0.8
+a92291bc,Marseille,Clermont Foot,2,1,2023-12-17,0.2,2.4
+eb4084eb,Metz,Montpellier,0,1,2023-12-17,0.5,0.8
+17503b00,Nantes,Brest,0,2,2023-12-17,1.9,1.0
+8197fd69,Toulouse,Rennes,0,0,2023-12-17,0.7,0.9
+0f7c086f,Brest,Lorient,4,0,2023-12-20,0.5,2.0
+16bc4ea4,Clermont Foot,Rennes,1,3,2023-12-20,2.5,0.6
+1b327b86,Lyon,Nantes,1,0,2023-12-20,0.5,1.7
+b8e581d1,Montpellier,Marseille,1,1,2023-12-20,1.3,0.9
+267500aa,Nice,Lens,2,0,2023-12-20,0.5,2.5
+fb56b3c2,Paris S-G,Metz,3,1,2023-12-20,0.1,2.4
+4e667758,Reims,Le Havre,1,0,2023-12-20,0.2,1.2
+df32fbe8,Strasbourg,Lille,2,1,2023-12-20,0.5,0.8
+81c83fe9,Toulouse,Monaco,1,2,2023-12-20,1.9,1.4
+2a8b7749,Marseille,Strasbourg,1,1,2024-01-12,1.2,1.4
+7f2cdeb6,Monaco,Reims,1,3,2024-01-13,1.5,1.2
+6cc45497,Rennes,Nice,2,0,2024-01-13,0.7,2.0
+82c3efb7,Brest,Montpellier,2,0,2024-01-14,0.4,3.4
+a8be717d,Le Havre,Lyon,3,1,2024-01-14,0.8,1.2
+0682fa55,Lens,Paris S-G,0,2,2024-01-14,1.8,2.1
+24f7d86b,Lille,Lorient,3,0,2024-01-14,0.1,2.3
+926b0a14,Metz,Toulouse,0,1,2024-01-14,1.0,0.7
+d2738fb8,Nantes,Clermont Foot,1,2,2024-01-14,1.0,1.9
+952686b7,Lyon,Rennes,2,3,2024-01-26,0.8,0.9
+039fae0f,Marseille,Monaco,2,2,2024-01-27,0.5,2.4
+69267ef1,Nice,Metz,1,0,2024-01-27,0.1,2.2
+21b6f226,Clermont Foot,Strasbourg,1,1,2024-01-28,1.0,1.5
+9bdf343f,Lorient,Le Havre,3,3,2024-01-28,1.7,1.0
+8308b478,Montpellier,Lille,0,0,2024-01-28,0.5,0.7
+8e2d796d,Paris S-G,Brest,2,2,2024-01-28,0.7,2.1
+f3522f33,Reims,Nantes,0,0,2024-01-28,1.2,0.9
+678c2976,Toulouse,Lens,0,2,2024-01-28,0.8,1.7
+c0fbd8fa,Strasbourg,Paris S-G,1,2,2024-02-02,2.0,2.7
+f7e99caf,Nantes,Lens,0,1,2024-02-03,1.6,0.6
+f3ce3488,Rennes,Montpellier,2,1,2024-02-03,1.2,2.0
+19dfaa21,Brest,Nice,0,0,2024-02-04,0.7,1.0
+90c40e1c,Lille,Clermont Foot,4,0,2024-02-04,0.4,2.9
+2e98ccf9,Lyon,Marseille,1,0,2024-02-04,0.3,1.4
+2e802ba3,Metz,Lorient,1,2,2024-02-04,1.4,1.1
+6b4f65e7,Monaco,Le Havre,1,1,2024-02-04,0.1,1.4
+25718ab1,Reims,Toulouse,2,3,2024-02-04,1.5,2.8
+70c7d433,Marseille,Metz,1,1,2024-02-09,0.8,1.8
+9635699e,Lens,Strasbourg,3,1,2024-02-10,1.8,1.6
+fb49d66d,Paris S-G,Lille,3,1,2024-02-10,1.2,2.8
+33d0b78a,Clermont Foot,Brest,1,1,2024-02-11,1.5,1.2
+4472d29d,Le Havre,Rennes,0,1,2024-02-11,0.9,1.1
+99f9cba1,Lorient,Reims,2,0,2024-02-11,1.2,1.9
+014cd5b7,Montpellier,Lyon,1,2,2024-02-11,1.2,1.5
+a2cab916,Nice,Monaco,2,3,2024-02-11,1.7,2.1
+e6caf939,Toulouse,Nantes,1,2,2024-02-11,0.4,1.0
+205468df,Lyon,Nice,1,0,2024-02-16,0.8,1.1
+9e482487,Lille,Le Havre,3,0,2024-02-17,0.6,3.8
+56629c17,Nantes,Paris S-G,0,2,2024-02-17,1.5,1.3
+56d7c531,Brest,Marseille,1,0,2024-02-18,0.6,1.7
+57c599f6,Monaco,Toulouse,1,2,2024-02-18,1.4,1.7
+4e939d4c,Montpellier,Metz,3,0,2024-02-18,1.3,3.0
+825ef1ef,Reims,Lens,1,1,2024-02-18,1.2,1.1
+93f25522,Rennes,Clermont Foot,3,1,2024-02-18,0.8,3.7
+ec531c24,Strasbourg,Lorient,1,3,2024-02-18,2.0,1.6
+f2778def,Metz,Lyon,1,2,2024-02-23,1.6,1.6
+53742b6f,Lorient,Nantes,0,1,2024-02-24,0.4,0.5
+9c2847ab,Strasbourg,Brest,0,3,2024-02-24,1.8,0.2
+f2b72da5,Le Havre,Reims,1,2,2024-02-25,3.2,1.7
+7b54b025,Lens,Monaco,2,3,2024-02-25,2.3,2.9
+7b5136c2,Marseille,Montpellier,4,1,2024-02-25,0.6,2.7
+d4ce6789,Nice,Clermont Foot,0,0,2024-02-25,2.0,1.6
+6b8934e3,Paris S-G,Rennes,1,1,2024-02-25,0.8,1.9
+a07309bd,Toulouse,Lille,3,1,2024-02-25,0.6,2.1
+4be6a76c,Monaco,Paris S-G,0,0,2024-03-01,1.5,1.6
+c2c8e29e,Clermont Foot,Marseille,1,5,2024-03-02,2.4,0.7
+92da3973,Reims,Lille,0,1,2024-03-02,1.1,0.6
+51912b7d,Brest,Le Havre,1,0,2024-03-03,0.6,1.0
+736f94f0,Lyon,Lens,0,3,2024-03-03,3.4,2.0
+e020afbf,Montpellier,Strasbourg,2,2,2024-03-03,1.7,1.7
+9cd454f2,Nantes,Metz,0,2,2024-03-03,2.0,0.9
+a3ae2f49,Rennes,Lorient,1,2,2024-03-03,2.0,1.4
+2269add3,Toulouse,Nice,2,1,2024-03-03,1.4,1.8
+d631a829,Nice,Montpellier,1,2,2024-03-08,1.2,1.1
+54c25242,Lens,Brest,1,0,2024-03-09,0.7,0.9
+5ea578e0,Lorient,Lyon,0,2,2024-03-09,1.9,0.5
+3957eebd,Le Havre,Toulouse,1,0,2024-03-10,0.3,1.0
+67041fa5,Lille,Rennes,2,2,2024-03-10,1.1,2.4
+b696acad,Marseille,Nantes,2,0,2024-03-10,1.0,1.5
+f7db6990,Metz,Clermont Foot,1,0,2024-03-10,0.8,1.7
+d1422003,Paris S-G,Reims,2,2,2024-03-10,1.3,1.2
+9a8c884c,Strasbourg,Monaco,0,1,2024-03-10,1.3,0.4
+863ee181,Toulouse,Lyon,2,3,2024-03-15,1.4,2.4
+7b5edccd,Lens,Nice,1,3,2024-03-16,2.2,1.3
+9e18cf79,Nantes,Strasbourg,1,3,2024-03-16,1.9,1.1
+cdf13a58,Brest,Lille,1,1,2024-03-17,0.8,1.0
+f7f8d2b1,Clermont Foot,Le Havre,2,1,2024-03-17,1.2,1.1
+5494c9d6,Monaco,Lorient,2,2,2024-03-17,0.8,2.5
+f850eea5,Montpellier,Paris S-G,2,6,2024-03-17,1.5,2.3
+d840de58,Reims,Metz,2,1,2024-03-17,0.9,2.2
+8cc36332,Rennes,Marseille,2,0,2024-03-17,0.7,1.4
+1488d812,Lille,Lens,2,1,2024-03-29,0.6,1.6
+6b21872e,Lyon,Reims,1,1,2024-03-30,1.4,1.8
+ec35ab5c,Metz,Monaco,2,5,2024-03-30,2.4,2.1
+bfe740ac,Clermont Foot,Toulouse,0,3,2024-03-31,1.8,0.8
+84ed0867,Le Havre,Montpellier,0,2,2024-03-31,1.6,0.8
+605ef273,Lorient,Brest,0,1,2024-03-31,0.5,1.0
+4b3924f8,Marseille,Paris S-G,0,2,2024-03-31,2.1,1.4
+d3388c96,Nice,Nantes,1,2,2024-03-31,1.7,1.3
+789f3720,Strasbourg,Rennes,2,0,2024-03-31,1.1,2.5
+b0aa88a4,Lille,Marseille,3,1,2024-04-05,1.2,1.8
+a4636c9d,Lens,Le Havre,1,1,2024-04-06,1.9,0.9
+a0e24fef,Paris S-G,Clermont Foot,1,1,2024-04-06,0.3,2.7
+f6f76317,Brest,Metz,4,3,2024-04-07,2.2,3.2
+c0e30df7,Monaco,Rennes,1,0,2024-04-07,1.3,2.0
+95bdd121,Montpellier,Lorient,2,0,2024-04-07,1.4,2.4
+7457568d,Nantes,Lyon,1,3,2024-04-07,2.4,1.2
+4c072743,Reims,Nice,0,0,2024-04-07,1.9,0.5
+919e3eb7,Toulouse,Strasbourg,0,0,2024-04-07,0.5,1.0
+eac47cb2,Metz,Lens,2,1,2024-04-12,1.5,0.8
+6eba535c,Rennes,Toulouse,1,2,2024-04-13,0.5,1.0
+7b92b3c7,Strasbourg,Reims,3,1,2024-04-13,0.5,2.2
+9b9d6335,Clermont Foot,Montpellier,1,1,2024-04-14,1.4,1.5
+2e9cdf18,Le Havre,Nantes,0,1,2024-04-14,0.8,1.4
+c832a039,Lyon,Brest,4,3,2024-04-14,1.7,2.1
+05fcaf04,Nice,Lorient,3,0,2024-04-19,0.5,2.5
+811884b5,Lens,Clermont Foot,1,0,2024-04-20,0.7,1.9
+69006962,Nantes,Rennes,0,3,2024-04-20,2.4,0.2
+8f8b95f8,Brest,Monaco,0,2,2024-04-21,0.9,0.6
+488e12d3,Le Havre,Metz,0,1,2024-04-21,1.3,0.7
+9511f4ab,Lille,Strasbourg,1,0,2024-04-21,1.3,0.8
+33d8918a,Paris S-G,Lyon,4,1,2024-04-21,1.0,2.3
+ec3fcd38,Reims,Montpellier,1,2,2024-04-21,1.6,1.5
+05f7968b,Toulouse,Marseille,2,2,2024-04-21,1.1,0.5
+12fd3a4c,Lorient,Paris S-G,1,4,2024-04-24,1.6,0.9
+0727529c,Marseille,Nice,2,2,2024-04-24,1.4,2.2
+88182e5f,Monaco,Lille,1,0,2024-04-24,1.3,1.6
+b0c1736a,Montpellier,Nantes,1,1,2024-04-26,1.3,0.8
+c28df007,Paris S-G,Le Havre,3,3,2024-04-27,1.0,2.6
+b85a0106,Clermont Foot,Reims,4,1,2024-04-28,0.9,2.9
+666bdb51,Lorient,Toulouse,1,2,2024-04-28,1.8,1.4
+16e39992,Lyon,Monaco,3,2,2024-04-28,1.7,2.2
+13780c18,Marseille,Lens,2,1,2024-04-28,1.2,1.7
+316c5fa3,Metz,Lille,1,2,2024-04-28,0.8,1.1
+1865787f,Rennes,Brest,4,5,2024-04-28,2.0,2.6
+a7951b3a,Strasbourg,Nice,1,3,2024-04-28,1.6,0.6
+e7684537,Lens,Lorient,2,0,2024-05-03,0.6,2.1
+33eeaf12,Toulouse,Montpellier,1,2,2024-05-03,0.5,1.3
+8e6a7aaa,Brest,Nantes,0,0,2024-05-04,1.6,0.5
+024a71c6,Le Havre,Strasbourg,3,1,2024-05-04,1.0,1.8
+a299adab,Metz,Rennes,2,3,2024-05-04,2.1,0.6
+a7f56ab4,Monaco,Clermont Foot,4,1,2024-05-04,1.4,3.6
+9a72e466,Lille,Lyon,3,4,2024-05-06,2.4,0.9
+87d4c432,Brest,Reims,1,1,2024-05-10,0.6,1.3
+73e73f70,Nice,Le Havre,1,0,2024-05-10,0.5,1.8
+e6afe6a2,Clermont Foot,Lyon,0,1,2024-05-12,0.4,1.1
+acbbdff5,Marseille,Lorient,3,1,2024-05-12,1.5,2.5
+9f62b1ef,Montpellier,Monaco,0,2,2024-05-12,2.3,1.1
+8f8532aa,Nantes,Lille,1,2,2024-05-12,1.5,0.7
+e8fcc39b,Paris S-G,Toulouse,1,3,2024-05-12,1.6,2.1
+c55b179e,Rennes,Lens,1,1,2024-05-12,0.6,1.9
+2301c78f,Strasbourg,Metz,2,1,2024-05-12,1.1,1.3
+25e694fc,Nice,Paris S-G,1,2,2024-05-15,1.0,1.4
+5a6454f2,Reims,Marseille,1,0,2024-05-15,1.7,1.1
+3fa1da40,Le Havre,Marseille,1,2,2024-05-19,1.5,1.8
+ac107595,Lens,Montpellier,2,2,2024-05-19,0.8,5.2
+df360311,Lille,Nice,2,2,2024-05-19,0.9,1.2
+aed44d7a,Lorient,Clermont Foot,5,0,2024-05-19,0.8,4.2
+9576a537,Lyon,Strasbourg,2,1,2024-05-19,1.1,2.8
+8dac35ed,Metz,Paris S-G,0,2,2024-05-19,2.0,0.9
+ba001914,Monaco,Nantes,4,0,2024-05-19,1.0,1.5
+94b311ad,Reims,Rennes,2,1,2024-05-19,1.5,1.3
+0c59eeac,Toulouse,Brest,0,3,2024-05-19,1.6,0.9
+a6b98e33,Le Havre,Paris S-G,1,4,2024-08-16,2.9,0.2
+35c1995a,Brest,Marseille,1,5,2024-08-17,2.4,1.3
+f84bb85e,Monaco,Saint-Étienne,1,0,2024-08-17,0.4,2.0
+06aa495e,Reims,Lille,0,2,2024-08-17,2.1,0.1
+cabadc94,Angers,Lens,0,1,2024-08-18,1.2,0.4
+18a24a50,Auxerre,Nice,2,1,2024-08-18,0.7,1.8
+652abd24,Montpellier,Strasbourg,1,1,2024-08-18,0.9,1.3
+bc46a367,Rennes,Lyon,3,0,2024-08-18,2.1,2.0
+67b3b54c,Toulouse,Nantes,0,0,2024-08-18,0.5,1.7
+910be353,Paris S-G,Montpellier,6,0,2024-08-23,0.6,3.8
+70fdbb5a,Lille,Angers,2,0,2024-08-24,0.6,0.9
+1041ac42,Lyon,Monaco,0,2,2024-08-24,2.2,0.0
+fd677aba,Saint-Étienne,Le Havre,0,2,2024-08-24,2.4,1.1
+7fe11a31,Lens,Brest,2,0,2024-08-25,0.9,2.9
+3a93bc8b,Marseille,Reims,2,2,2024-08-25,0.9,3.0
+57fe0d50,Nantes,Auxerre,2,0,2024-08-25,1.1,1.4
+33b61302,Nice,Toulouse,1,1,2024-08-25,1.0,1.3
+efa54e4b,Strasbourg,Rennes,3,1,2024-08-25,1.1,0.7
+2c5ec7aa,Lyon,Strasbourg,4,3,2024-08-30,2.7,2.9
+82c19aa6,Brest,Saint-Étienne,4,0,2024-08-31,0.2,3.1
+5b8c614c,Montpellier,Nantes,1,3,2024-08-31,1.5,0.9
+ebbcbe63,Toulouse,Marseille,1,3,2024-08-31,0.8,1.0
+97e962bb,Angers,Nice,1,4,2024-09-01,2.2,1.4
+3bc2668a,Le Havre,Auxerre,3,1,2024-09-01,0.6,2.8
+49234140,Lille,Paris S-G,1,3,2024-09-01,2.6,1.4
+a93b08ff,Monaco,Lens,1,1,2024-09-01,2.2,1.0
+4abb133c,Reims,Rennes,2,1,2024-09-01,0.8,1.4
+47e23fb5,Saint-Étienne,Lille,1,0,2024-09-13,1.2,1.2
+b4fb60b5,Auxerre,Monaco,0,3,2024-09-14,3.4,0.6
+2034c29c,Marseille,Nice,2,0,2024-09-14,1.9,0.7
+f22a7db0,Paris S-G,Brest,3,1,2024-09-14,1.0,2.8
+6f7e5cde,Lens,Lyon,0,0,2024-09-15,0.6,1.0
+1411fc56,Nantes,Reims,1,2,2024-09-15,0.5,1.5
+984e7243,Rennes,Montpellier,3,0,2024-09-15,0.3,1.3
+06ecf73c,Strasbourg,Angers,1,1,2024-09-15,0.9,2.3
+f4982a54,Toulouse,Le Havre,2,0,2024-09-15,0.2,1.3
+85495c0d,Nice,Saint-Étienne,8,0,2024-09-20,0.3,4.7
+2bff6ebd,Lille,Strasbourg,3,3,2024-09-21,3.2,2.6
+7274e9a5,Reims,Paris S-G,1,1,2024-09-21,1.6,0.3
+73dc5828,Rennes,Lens,1,1,2024-09-21,0.6,1.4
+601ddfc9,Angers,Nantes,1,1,2024-09-22,0.6,0.9
+7cbba12e,Brest,Toulouse,2,0,2024-09-22,2.7,0.5
+35b20e2f,Lyon,Marseille,2,3,2024-09-22,0.8,3.0
+017d7a9d,Monaco,Le Havre,3,1,2024-09-22,0.6,1.9
+ac95cb33,Montpellier,Auxerre,3,2,2024-09-22,1.2,2.0
+8c59509d,Auxerre,Brest,3,0,2024-09-27,0.8,2.5
+ab0643c6,Paris S-G,Rennes,3,1,2024-09-27,1.4,3.0
+e08ccde6,Le Havre,Lille,0,3,2024-09-28,3.1,0.4
+340afccd,Lens,Nice,0,0,2024-09-28,1.1,1.9
+54ce742c,Monaco,Montpellier,2,1,2024-09-28,0.9,3.2
+1ea5cb30,Angers,Reims,1,3,2024-09-29,2.9,1.1
+38a94d90,Nantes,Saint-Étienne,2,2,2024-09-29,1.0,1.8
+ebcd9980,Strasbourg,Marseille,1,0,2024-09-29,0.5,1.3
+a7954dea,Toulouse,Lyon,1,2,2024-09-29,0.4,0.9
+c2dcc859,Marseille,Angers,1,1,2024-10-04,0.8,0.9
+8d700c3d,Lille,Toulouse,2,1,2024-10-05,1.1,1.6
+f7072ea6,Rennes,Monaco,1,2,2024-10-05,0.6,0.7
+752978b2,Saint-Étienne,Auxerre,3,1,2024-10-05,0.8,2.7
+efe178e7,Brest,Le Havre,2,0,2024-10-06,1.0,0.7
+1cefcdb4,Lyon,Nantes,2,0,2024-10-06,0.9,3.2
+474dd950,Nice,Paris S-G,1,1,2024-10-06,1.3,0.5
+843fb71f,Reims,Montpellier,4,2,2024-10-06,0.5,3.0
+219332d8,Strasbourg,Lens,2,2,2024-10-06,1.0,1.2
+18476c11,Monaco,Lille,0,0,2024-10-18,0.2,1.2
+e2a10c83,Brest,Rennes,1,1,2024-10-19,1.2,1.5
+80a16e3b,Paris S-G,Strasbourg,4,2,2024-10-19,1.9,3.5
+0782c73c,Saint-Étienne,Lens,0,2,2024-10-19,1.2,0.8
+5f02a541,Auxerre,Reims,2,1,2024-10-20,1.1,2.8
+b12f8ecd,Le Havre,Lyon,0,4,2024-10-20,2.7,0.4
+0f332030,Montpellier,Marseille,0,5,2024-10-20,3.2,1.3
+706313e8,Nantes,Nice,1,1,2024-10-20,0.8,0.5
+92f559ad,Toulouse,Angers,1,1,2024-10-20,1.4,2.0
+603efa49,Rennes,Le Havre,1,0,2024-10-25,0.4,1.5
+61752f42,Angers,Saint-Étienne,4,2,2024-10-26,1.5,2.9
+ac39189f,Lens,Lille,0,2,2024-10-26,1.8,1.0
+6e7b242b,Reims,Brest,1,2,2024-10-26,1.5,0.7
+bd02e3b4,Lyon,Auxerre,2,2,2024-10-27,1.5,2.0
+c29b0d3a,Marseille,Paris S-G,0,3,2024-10-27,3.1,0.2
+49e6789d,Montpellier,Toulouse,0,3,2024-10-27,1.9,0.2
+4cbaa8c3,Nice,Monaco,2,1,2024-10-27,0.5,1.6
+98168e71,Strasbourg,Nantes,3,1,2024-10-27,0.7,1.7
+d592199c,Lille,Lyon,1,1,2024-11-01,1.2,1.7
+3e5f7440,Monaco,Angers,0,1,2024-11-01,0.5,1.4
+0fab1c2f,Brest,Nice,0,1,2024-11-02,1.4,1.0
+51cd344b,Paris S-G,Lens,1,0,2024-11-02,0.7,2.9
+535bbc15,Saint-Étienne,Strasbourg,2,0,2024-11-02,0.5,2.8
+acc30562,Auxerre,Rennes,4,0,2024-11-03,0.9,2.8
+a537aa6e,Le Havre,Montpellier,1,0,2024-11-03,1.0,2.2
+53893177,Nantes,Marseille,1,2,2024-11-03,1.2,1.4
+f0237d4b,Toulouse,Reims,1,0,2024-11-03,1.1,0.9
+4ab63460,Marseille,Auxerre,1,3,2024-11-08,1.9,2.5
+ddf738c4,Angers,Paris S-G,2,4,2024-11-09,3.4,1.1
+172c33b7,Lens,Nantes,3,2,2024-11-09,1.4,2.9
+cd41b272,Strasbourg,Monaco,1,3,2024-11-09,3.8,0.6
+63390fe7,Le Havre,Reims,0,3,2024-11-10,2.6,1.4
+e552596a,Lyon,Saint-Étienne,1,0,2024-11-10,0.6,1.1
+8ab9a941,Montpellier,Brest,3,1,2024-11-10,0.9,2.5
+e213d881,Nice,Lille,2,2,2024-11-10,1.7,2.1
+a7965d75,Rennes,Toulouse,0,2,2024-11-10,1.4,0.6
+48a28747,Monaco,Brest,3,2,2024-11-22,1.0,2.6
+740dd871,Paris S-G,Toulouse,3,0,2024-11-22,1.4,1.1
+01446885,Lens,Marseille,1,3,2024-11-23,1.2,2.5
+4da20576,Reims,Lyon,1,1,2024-11-23,1.7,1.0
+90c0c091,Saint-Étienne,Montpellier,1,0,2024-11-23,0.9,1.5
+b1dbd309,Auxerre,Angers,1,0,2024-11-24,0.9,0.6
+240126d9,Lille,Rennes,1,0,2024-11-24,0.2,0.4
+a27a021f,Nantes,Le Havre,0,2,2024-11-24,0.9,0.9
+5bfe68c5,Nice,Strasbourg,2,1,2024-11-24,0.4,2.1
+a4c0898c,Reims,Lens,0,2,2024-11-29,1.8,0.8
+197cb3bb,Brest,Strasbourg,3,1,2024-11-30,1.0,2.5
+b898e0fa,Paris S-G,Nantes,1,1,2024-11-30,0.8,2.6
+546b6937,Rennes,Saint-Étienne,5,0,2024-11-30,0.1,3.2
+b9d2f3b2,Le Havre,Angers,0,1,2024-12-01,2.1,0.3
+44194749,Lyon,Nice,4,1,2024-12-01,2.1,2.7
+e90d4817,Marseille,Monaco,2,1,2024-12-01,1.0,1.9
+76b0b7f1,Montpellier,Lille,2,2,2024-12-01,2.2,1.4
+f81de4c6,Toulouse,Auxerre,2,0,2024-12-01,0.2,2.3
+9139adc8,Auxerre,Paris S-G,0,0,2024-12-06,2.5,0.3
+5b3adec0,Lille,Brest,3,1,2024-12-06,0.7,2.5
+8f5cb172,Angers,Lyon,0,3,2024-12-07,2.0,0.6
+63873373,Monaco,Toulouse,2,0,2024-12-07,0.5,3.2
+3a9f8a55,Nice,Le Havre,2,1,2024-12-07,1.1,2.0
+bb9a5ad3,Lens,Montpellier,2,0,2024-12-08,1.0,1.3
+f45bb195,Nantes,Rennes,1,0,2024-12-08,0.4,1.2
+e865637d,Saint-Étienne,Marseille,0,2,2024-12-08,2.5,0.1
+74299224,Strasbourg,Reims,0,0,2024-12-08,1.1,0.8
+737388fc,Toulouse,Saint-Étienne,2,1,2024-12-13,0.5,1.4
+fb7a9227,Auxerre,Lens,2,2,2024-12-14,1.6,0.6
+5cab6dd9,Marseille,Lille,1,1,2024-12-14,1.4,1.2
+f422e8b0,Reims,Monaco,0,0,2024-12-14,1.3,1.5
+59e6278a,Brest,Nantes,4,1,2024-12-15,1.1,2.0
+e1e508ce,Le Havre,Strasbourg,0,3,2024-12-15,0.9,0.9
+479d06f8,Montpellier,Nice,2,2,2024-12-15,1.4,2.0
+90a6f4dd,Paris S-G,Lyon,3,1,2024-12-15,1.5,2.9
+fae57b16,Rennes,Angers,2,0,2024-12-15,0.4,0.6
+b7d32870,Monaco,Paris S-G,2,4,2024-12-18,1.8,2.4
+00eeccd9,Nice,Rennes,3,2,2025-01-03,1.7,1.5
+185f0c34,Lille,Nantes,1,1,2025-01-04,1.3,1.2
+6c34a34e,Lyon,Montpellier,1,0,2025-01-04,1.2,1.4
+09e72954,Saint-Étienne,Reims,3,1,2025-01-04,1.1,2.2
+be2eba6e,Angers,Brest,2,0,2025-01-05,1.0,1.8
+1f09a51a,Lens,Toulouse,0,1,2025-01-05,2.0,1.4
+312fef53,Marseille,Le Havre,5,1,2025-01-05,0.4,3.2
+d37a723b,Strasbourg,Auxerre,3,1,2025-01-05,1.4,2.9
+0c8ab7d6,Auxerre,Lille,0,0,2025-01-10,1.5,0.8
+d6c61854,Nantes,Monaco,2,2,2025-01-10,3.4,0.8
+561e5c4a,Brest,Lyon,2,1,2025-01-11,1.4,1.1
+cdcb7386,Reims,Nice,2,4,2025-01-11,2.5,0.8
+e23cca77,Rennes,Marseille,1,2,2025-01-11,1.7,1.2
+63d7285c,Le Havre,Lens,1,2,2025-01-12,2.7,1.5
+1184c4fd,Montpellier,Angers,1,3,2025-01-12,3.8,1.2
+8d5ca778,Paris S-G,Saint-Étienne,2,1,2025-01-12,0.4,4.1
+eb79cf67,Toulouse,Strasbourg,1,2,2025-01-12,2.3,1.2
+41d92573,Lille,Nice,2,1,2025-01-17,2.8,1.1
+f1e8ac0f,Montpellier,Monaco,2,1,2025-01-17,1.8,2.4
+f1e63652,Lens,Paris S-G,1,2,2025-01-18,1.2,0.7
+58a863f5,Lyon,Toulouse,0,0,2025-01-18,1.1,0.7
+39a945d8,Rennes,Brest,1,2,2025-01-18,1.0,1.5
+7419fbdf,Angers,Auxerre,2,0,2025-01-19,0.7,0.9
+fb5f33dc,Marseille,Strasbourg,1,1,2025-01-19,0.9,2.8
+7e7a280a,Reims,Le Havre,1,1,2025-01-19,0.8,0.8
+c47f8bb5,Saint-Étienne,Nantes,1,1,2025-01-19,1.3,0.8
+7ad35976,Auxerre,Saint-Étienne,1,1,2025-01-24,1.2,0.8
+5cbd8070,Monaco,Rennes,3,2,2025-01-25,1.8,3.5
+c2b062af,Paris S-G,Reims,1,1,2025-01-25,0.9,1.2
+f5d25d48,Strasbourg,Lille,2,1,2025-01-25,1.8,1.1
+6f8dc12d,Le Havre,Brest,0,1,2025-01-26,2.0,1.0
+5026986a,Lens,Angers,1,0,2025-01-26,0.2,1.9
+b90ceb47,Nantes,Lyon,1,1,2025-01-26,1.1,1.2
+ce373826,Nice,Marseille,2,0,2025-01-26,0.8,1.2
+81e5185d,Toulouse,Montpellier,1,2,2025-01-26,0.5,1.0
+3652d822,Montpellier,Lens,0,2,2025-01-31,2.0,0.8
+c84f91ac,Brest,Paris S-G,2,5,2025-02-01,3.6,0.9
+41e764ae,Lille,Saint-Étienne,4,1,2025-02-01,2.0,3.4
+e6c9fba7,Monaco,Auxerre,4,2,2025-02-01,1.2,2.6
+dc2dc241,Angers,Le Havre,1,1,2025-02-02,2.2,1.3
+368d6066,Marseille,Lyon,3,2,2025-02-02,1.7,3.2
+eee9fd86,Reims,Nantes,1,2,2025-02-02,2.0,1.0
+e9da9682,Rennes,Strasbourg,1,0,2025-02-02,1.2,0.9
+af67aa9c,Toulouse,Nice,1,1,2025-02-02,1.7,1.4
+606c7cad,Nantes,Brest,0,2,2025-02-07,2.5,1.1
+c79c5813,Paris S-G,Monaco,4,1,2025-02-07,0.9,3.1
+8c539e02,Lille,Le Havre,1,2,2025-02-08,1.8,1.6
+544b155b,Nice,Lens,2,0,2025-02-08,1.2,2.2
+de805721,Saint-Étienne,Rennes,0,2,2025-02-08,3.6,0.5
+64ab3386,Angers,Marseille,0,2,2025-02-09,2.4,0.5
+0446e883,Auxerre,Toulouse,2,2,2025-02-09,0.9,0.9
+48caa08f,Lyon,Reims,4,0,2025-02-09,0.4,3.3
+0886a1bd,Strasbourg,Montpellier,2,0,2025-02-09,1.8,2.7
+94d1ec50,Brest,Auxerre,2,2,2025-02-14,1.2,2.2
+0a71ff58,Marseille,Saint-Étienne,5,1,2025-02-15,1.0,6.1
+25fd86bc,Monaco,Nantes,7,1,2025-02-15,1.4,4.4
+91e2ebf6,Toulouse,Paris S-G,0,1,2025-02-15,2.4,0.9
+e62361b8,Le Havre,Nice,1,3,2025-02-16,1.4,0.7
+bdcbbf69,Lens,Strasbourg,0,2,2025-02-16,2.4,0.4
+1a0c79f0,Montpellier,Lyon,1,4,2025-02-16,1.0,1.4
+bc4d9e67,Reims,Angers,0,1,2025-02-16,1.5,1.7
+f2bcec96,Rennes,Lille,0,2,2025-02-16,3.0,0.4
+329233bd,Rennes,Reims,1,0,2025-02-21,0.1,2.3
+f26394d7,Auxerre,Marseille,3,0,2025-02-22,0.7,2.0
+a62e412a,Lille,Monaco,2,1,2025-02-22,2.3,1.1
+80854674,Saint-Étienne,Angers,3,3,2025-02-22,2.9,1.5
+8284b7f6,Le Havre,Toulouse,1,4,2025-02-23,2.4,0.8
+3906711b,Lyon,Paris S-G,2,3,2025-02-23,2.3,1.8
+24e266d4,Nantes,Lens,3,1,2025-02-23,1.6,3.9
+920fad0c,Nice,Montpellier,2,0,2025-02-23,0.6,1.8
+585be98f,Strasbourg,Brest,0,0,2025-02-23,0.6,0.6
+f354ea51,Monaco,Reims,3,0,2025-02-28,0.6,3.8
+f0429a72,Lens,Le Havre,3,4,2025-03-01,1.5,1.9
+3432f5cc,Paris S-G,Lille,4,1,2025-03-01,1.1,3.4
+8a209a58,Saint-Étienne,Nice,1,3,2025-03-01,1.8,0.9
+d9b255ac,Angers,Toulouse,0,4,2025-03-02,3.5,0.4
+370220dd,Auxerre,Strasbourg,0,1,2025-03-02,1.4,2.2
+9e7b9e2a,Lyon,Brest,2,1,2025-03-02,2.0,1.3
+ef2b73e7,Marseille,Nantes,2,0,2025-03-02,0.8,2.1
+5739a5ae,Montpellier,Rennes,0,4,2025-03-02,2.4,1.6
+807e72ae,Toulouse,Monaco,1,1,2025-03-07,2.4,0.6
+3de20b0f,Lille,Montpellier,1,0,2025-03-08,0.3,1.5
+e5496a7e,Marseille,Lens,0,1,2025-03-08,0.9,1.0
+24b4e6dd,Rennes,Paris S-G,1,4,2025-03-08,3.8,1.6
+0723e59a,Brest,Angers,2,0,2025-03-09,0.4,3.5
+7055dbbe,Le Havre,Saint-Étienne,1,1,2025-03-09,1.5,2.0
+01d100ee,Nantes,Strasbourg,0,1,2025-03-09,1.0,0.8
+29e9616d,Nice,Lyon,0,2,2025-03-09,1.1,1.4
+5a7ff7ce,Reims,Auxerre,0,2,2025-03-09,2.1,1.4
+e91c00b1,Nice,Auxerre,1,1,2025-03-14,0.7,2.0
+ccd56c5d,Angers,Monaco,0,2,2025-03-15,2.0,0.5
+e042d34f,Lens,Rennes,1,0,2025-03-15,0.6,0.7
+e91d94ec,Nantes,Lille,1,0,2025-03-15,1.6,1.2
+28e7c1e6,Brest,Reims,0,0,2025-03-16,1.3,0.3
+4876084b,Lyon,Le Havre,4,2,2025-03-16,1.7,3.9
+15ee650c,Montpellier,Saint-Étienne,0,2,2025-03-16,,
+ff08b7d1,Paris S-G,Marseille,3,1,2025-03-16,1.2,2.6
+30de0ad9,Strasbourg,Toulouse,2,1,2025-03-16,1.7,1.7
+e4da6424,Strasbourg,Lyon,4,2,2025-03-28,2.0,1.1
+b5952890,Monaco,Nice,2,1,2025-03-29,0.5,2.4
+e3656ea1,Reims,Marseille,3,1,2025-03-29,1.1,1.0
+f44d3b12,Saint-Étienne,Paris S-G,1,6,2025-03-29,3.3,1.1
+ea71bfda,Angers,Rennes,0,3,2025-03-30,1.5,1.0
+dea614ff,Auxerre,Montpellier,1,0,2025-03-30,0.5,2.1
+a48ef3f0,Le Havre,Nantes,3,2,2025-03-30,0.8,4.0
+64b7845b,Lille,Lens,1,0,2025-03-30,0.4,1.9
+b33c5901,Toulouse,Brest,2,4,2025-03-30,1.3,2.0
+3b3118ec,Nice,Nantes,1,2,2025-04-04,0.5,1.9
+3b8a372d,Brest,Monaco,2,1,2025-04-05,1.5,1.0
+4fbb8dea,Lyon,Lille,2,1,2025-04-05,0.9,1.8
+85f4be0a,Paris S-G,Angers,1,0,2025-04-05,0.2,1.9
+859cd779,Lens,Saint-Étienne,1,0,2025-04-06,1.4,2.1
+37a1d2be,Marseille,Toulouse,3,2,2025-04-06,1.3,1.0
+0f9ee6ec,Montpellier,Le Havre,0,2,2025-04-06,1.4,1.0
+44834f60,Reims,Strasbourg,0,1,2025-04-06,2.5,1.3
+cd76c50c,Rennes,Auxerre,0,1,2025-04-06,0.8,1.2
+1fafebba,Lens,Reims,0,2,2025-04-11,1.4,2.9
+b1f79298,Monaco,Marseille,3,0,2025-04-12,1.1,2.6
+55275978,Strasbourg,Nice,2,2,2025-04-12,1.7,0.7
+0a9272f4,Toulouse,Lille,1,2,2025-04-12,0.5,0.9
+47a1a48a,Angers,Montpellier,2,0,2025-04-13,0.5,1.4
+bef8bbc1,Auxerre,Lyon,1,3,2025-04-13,2.9,0.7
+9c967c61,Le Havre,Rennes,1,5,2025-04-13,2.7,0.6
+8a453c4e,Saint-Étienne,Brest,3,3,2025-04-13,1.5,0.7
+6dc7499b,Rennes,Nantes,2,1,2025-04-18,0.7,2.7
+5a01308b,Marseille,Montpellier,5,1,2025-04-19,0.3,3.7
+bdddd15d,Monaco,Strasbourg,0,0,2025-04-19,0.4,0.9
+8e397189,Paris S-G,Le Havre,2,1,2025-04-19,0.5,3.0
+1e5241b4,Brest,Lens,1,3,2025-04-20,2.2,1.0
+dfc19892,Lille,Auxerre,3,1,2025-04-20,0.3,2.0
+44e5cf44,Nice,Angers,2,1,2025-04-20,0.4,2.8
+86146582,Reims,Toulouse,1,0,2025-04-20,1.3,0.7
+19228d4a,Saint-Étienne,Lyon,2,1,2025-04-20,0.8,1.6
+170d66ea,Nantes,Paris S-G,1,1,2025-04-22,1.6,0.5
+ae345c9c,Paris S-G,Nice,1,3,2025-04-25,1.0,3.0
+6ec53da1,Le Havre,Monaco,1,1,2025-04-26,2.9,0.5
+5f2584e1,Lyon,Rennes,4,1,2025-04-26,0.8,1.8
+ca1e1dc1,Strasbourg,Saint-Étienne,3,1,2025-04-26,2.1,2.7
+af631621,Angers,Lille,0,2,2025-04-27,1.4,0.7
+0745c59f,Lens,Auxerre,0,4,2025-04-27,2.6,1.4
+d0c58dd5,Marseille,Brest,4,1,2025-04-27,1.2,0.9
+6ff732c6,Montpellier,Reims,0,0,2025-04-27,0.7,0.6
+94a42dc1,Nantes,Toulouse,0,0,2025-04-27,0.4,1.1
+2e39c335,Nice,Reims,1,0,2025-05-02,1.3,1.5
+4e6718ec,Saint-Étienne,Monaco,1,3,2025-05-03,2.0,0.6
+d9c56744,Strasbourg,Paris S-G,2,1,2025-05-03,1.7,0.8
+ffb99c84,Toulouse,Rennes,2,1,2025-05-03,1.4,0.7
+c08af981,Auxerre,Le Havre,1,2,2025-05-04,1.5,0.2
+14d0b54f,Brest,Montpellier,1,0,2025-05-04,0.5,1.1
+491d68bb,Lille,Marseille,1,1,2025-05-04,1.3,0.5
+60c53e19,Lyon,Lens,1,2,2025-05-04,0.7,1.0
+e467e10c,Nantes,Angers,0,1,2025-05-04,1.1,0.5
+fafe26a4,Angers,Strasbourg,2,1,2025-05-10,1.0,0.7
+2cfd2ba4,Auxerre,Nantes,1,1,2025-05-10,0.7,0.4
+21a8a9a9,Brest,Lille,2,0,2025-05-10,1.9,1.2
+7064d72a,Le Havre,Marseille,1,3,2025-05-10,2.5,0.9
+279e9cba,Monaco,Lyon,2,0,2025-05-10,0.4,1.2
+d083b7fa,Montpellier,Paris S-G,1,4,2025-05-10,1.7,0.6
+e0ae4f10,Reims,Saint-Étienne,0,2,2025-05-10,0.7,1.9
+db5269b6,Rennes,Nice,2,0,2025-05-10,1.1,1.7
+4ef097b0,Toulouse,Lens,1,1,2025-05-10,0.7,1.1
+d2408c01,Lens,Monaco,4,0,2025-05-17,0.5,1.7
+788e598c,Lille,Reims,2,1,2025-05-17,0.1,2.0
+5042cc91,Lyon,Angers,2,0,2025-05-17,0.5,3.9
+36fee283,Marseille,Rennes,4,2,2025-05-17,1.3,3.9
+9b0e5db4,Nantes,Montpellier,3,0,2025-05-17,0.8,2.5
+4ff4d64e,Nice,Brest,6,0,2025-05-17,0.9,4.9
+695f3d84,Paris S-G,Auxerre,3,1,2025-05-17,0.6,3.1
+2eb36838,Saint-Étienne,Toulouse,2,3,2025-05-17,3.2,1.3
+51aaa97c,Strasbourg,Le Havre,2,3,2025-05-17,2.5,1.6
+111651be,Metz,Reims,1,1,2025-05-21,,
+97218e9f,Werder Bremen,Bayern Munich,0,4,2023-08-18,2.8,0.6
+aac55b7f,Augsburg,Gladbach,4,4,2023-08-19,1.7,2.3
+c05c14ef,Dortmund,Köln,1,0,2023-08-19,1.2,1.8
+d1a443e5,Hoffenheim,Freiburg,1,2,2023-08-19,2.6,1.4
+063d7b6b,Leverkusen,RB Leipzig,3,2,2023-08-19,1.6,1.4
+8fe3b615,Stuttgart,Bochum,5,0,2023-08-19,0.8,3.0
+3b6337dc,Wolfsburg,Heidenheim,2,0,2023-08-19,1.2,2.2
+60fc3feb,Eint Frankfurt,Darmstadt 98,1,0,2023-08-20,0.5,1.5
+d6f1201f,Union Berlin,Mainz 05,4,1,2023-08-20,2.3,1.9
+195113d1,RB Leipzig,Stuttgart,5,1,2023-08-25,1.1,1.8
+02deea82,Bochum,Dortmund,1,1,2023-08-26,1.3,1.0
+0fb64fd7,Darmstadt 98,Union Berlin,1,4,2023-08-26,1.7,2.3
+4ffd6c40,Freiburg,Werder Bremen,1,0,2023-08-26,1.0,2.4
+3f7b87b9,Gladbach,Leverkusen,0,3,2023-08-26,2.7,0.9
+95224afe,Heidenheim,Hoffenheim,2,3,2023-08-26,3.0,2.4
+6ce17247,Köln,Wolfsburg,1,2,2023-08-26,1.7,0.9
+f32bb54f,Bayern Munich,Augsburg,3,1,2023-08-27,0.7,2.8
+53e372dd,Mainz 05,Eint Frankfurt,1,1,2023-08-27,1.1,1.2
+6533d274,Dortmund,Heidenheim,2,2,2023-09-01,2.1,3.4
+c8ab18c8,Augsburg,Bochum,2,2,2023-09-02,1.6,1.9
+ffd6fa2f,Gladbach,Bayern Munich,1,2,2023-09-02,2.4,0.3
+10204eb8,Hoffenheim,Wolfsburg,3,1,2023-09-02,1.2,2.0
+949b0917,Leverkusen,Darmstadt 98,5,1,2023-09-02,0.4,2.8
+fdd85186,Stuttgart,Freiburg,5,0,2023-09-02,1.0,1.7
+0f06a162,Werder Bremen,Mainz 05,4,0,2023-09-02,0.5,2.7
+3a3dcb35,Eint Frankfurt,Köln,1,1,2023-09-03,0.9,1.1
+7df62594,Union Berlin,RB Leipzig,0,3,2023-09-03,1.2,0.3
+d6d922d0,Bayern Munich,Leverkusen,2,2,2023-09-15,2.1,2.1
+fffdfc41,Bochum,Eint Frankfurt,1,1,2023-09-16,0.6,2.0
+363f8d87,Freiburg,Dortmund,2,4,2023-09-16,2.3,1.0
+d121d2fe,Köln,Hoffenheim,1,3,2023-09-16,1.0,1.0
+1f4fdb5f,Mainz 05,Stuttgart,1,3,2023-09-16,1.6,0.9
+f3b2aa39,RB Leipzig,Augsburg,3,0,2023-09-16,1.7,1.1
+140f5fb4,Wolfsburg,Union Berlin,2,1,2023-09-16,1.1,0.4
+d58f8b35,Darmstadt 98,Gladbach,3,3,2023-09-17,3.9,1.2
+2185c7f5,Heidenheim,Werder Bremen,4,2,2023-09-17,3.0,2.2
+9cc13e55,Stuttgart,Darmstadt 98,3,1,2023-09-22,0.2,2.3
+6ac8a673,Augsburg,Mainz 05,2,1,2023-09-23,0.6,0.8
+047ad2d7,Bayern Munich,Bochum,7,0,2023-09-23,0.1,4.8
+ba296db6,Dortmund,Wolfsburg,1,0,2023-09-23,0.5,1.7
+e0aca9dc,Gladbach,RB Leipzig,0,1,2023-09-23,0.7,0.8
+3c776110,Union Berlin,Hoffenheim,0,2,2023-09-23,2.0,1.6
+b15270e1,Werder Bremen,Köln,2,1,2023-09-23,1.3,2.1
+04b49830,Eint Frankfurt,Freiburg,0,0,2023-09-24,0.5,0.6
+68a63295,Leverkusen,Heidenheim,4,1,2023-09-24,0.5,3.4
+651b8bdf,Hoffenheim,Dortmund,1,3,2023-09-29,1.6,1.9
+b07cca46,Bochum,Gladbach,1,3,2023-09-30,2.9,1.7
+23d84166,Heidenheim,Union Berlin,1,0,2023-09-30,2.2,0.8
+0c06c0c9,Köln,Stuttgart,0,2,2023-09-30,2.5,0.7
+d16559ab,Mainz 05,Leverkusen,0,3,2023-09-30,1.1,0.5
+e30a07e3,RB Leipzig,Bayern Munich,2,2,2023-09-30,2.3,0.7
+330b9850,Wolfsburg,Eint Frankfurt,2,0,2023-09-30,1.3,3.2
+5ebc00f1,Darmstadt 98,Werder Bremen,4,2,2023-10-01,1.5,2.4
+367e0516,Freiburg,Augsburg,2,0,2023-10-01,0.8,1.0
+a2a3e181,Gladbach,Mainz 05,2,2,2023-10-06,0.8,2.3
+7d0fed76,Augsburg,Darmstadt 98,1,2,2023-10-07,1.8,0.9
+4661d112,Dortmund,Union Berlin,4,2,2023-10-07,1.4,1.6
+15bd2f93,RB Leipzig,Bochum,0,0,2023-10-07,0.4,2.5
+7eb884e7,Stuttgart,Wolfsburg,3,1,2023-10-07,1.2,2.7
+0cff2d10,Werder Bremen,Hoffenheim,2,3,2023-10-07,1.9,0.8
+8a7f496b,Bayern Munich,Freiburg,3,0,2023-10-08,0.1,2.4
+72335e6e,Eint Frankfurt,Heidenheim,2,0,2023-10-08,1.2,1.9
+f1268661,Leverkusen,Köln,3,0,2023-10-08,1.3,3.2
+be058dce,Dortmund,Werder Bremen,1,0,2023-10-20,0.4,2.6
+48110abe,Darmstadt 98,RB Leipzig,1,3,2023-10-21,1.9,2.4
+0014bad7,Freiburg,Bochum,2,1,2023-10-21,1.5,2.3
+e689158b,Hoffenheim,Eint Frankfurt,1,3,2023-10-21,2.4,1.4
+a7af08ab,Mainz 05,Bayern Munich,1,3,2023-10-21,1.8,1.1
+9ab68fca,Union Berlin,Stuttgart,0,3,2023-10-21,1.4,0.6
+9a4291a3,Wolfsburg,Leverkusen,1,2,2023-10-21,1.9,1.4
+41fd7764,Heidenheim,Augsburg,2,5,2023-10-22,2.5,1.5
+5224d2f5,Köln,Gladbach,3,1,2023-10-22,0.3,2.7
+cfe3b5c3,Bochum,Mainz 05,2,2,2023-10-27,0.4,1.4
+b08c06e8,Augsburg,Wolfsburg,3,2,2023-10-28,1.4,1.4
+bc7df752,Bayern Munich,Darmstadt 98,8,0,2023-10-28,0.7,5.8
+029be8be,Gladbach,Heidenheim,2,1,2023-10-28,0.4,1.0
+c9cde5e8,RB Leipzig,Köln,6,0,2023-10-28,0.9,4.2
+bbecea98,Stuttgart,Hoffenheim,2,3,2023-10-28,1.7,3.6
+aed937f1,Werder Bremen,Union Berlin,2,0,2023-10-28,0.6,0.8
+d332b8cc,Eint Frankfurt,Dortmund,3,3,2023-10-29,2.2,2.2
+9cc63f4d,Leverkusen,Freiburg,2,1,2023-10-29,0.9,1.4
+44974e1b,Darmstadt 98,Bochum,1,2,2023-11-03,1.2,0.7
+0e6a1a60,Dortmund,Bayern Munich,0,4,2023-11-04,3.2,1.0
+663aa0ea,Freiburg,Gladbach,3,3,2023-11-04,2.2,3.3
+c0894ab7,Hoffenheim,Leverkusen,2,3,2023-11-04,1.0,1.7
+ab499def,Köln,Augsburg,1,1,2023-11-04,2.6,2.0
+1161dad0,Mainz 05,RB Leipzig,2,0,2023-11-04,0.5,0.9
+d81fbe7f,Union Berlin,Eint Frankfurt,0,3,2023-11-04,1.6,0.7
+305a9b51,Heidenheim,Stuttgart,2,0,2023-11-05,2.6,1.2
+98d8fe64,Wolfsburg,Werder Bremen,2,2,2023-11-05,1.2,1.6
+3037667d,Gladbach,Wolfsburg,4,0,2023-11-10,0.5,1.5
+3970535a,Augsburg,Hoffenheim,1,1,2023-11-11,0.8,1.0
+684040d1,Bayern Munich,Heidenheim,4,2,2023-11-11,0.9,2.0
+b7bef81f,Bochum,Köln,1,1,2023-11-11,0.9,3.7
+f98e467c,Darmstadt 98,Mainz 05,0,0,2023-11-11,0.7,0.5
+5e8f7e88,Stuttgart,Dortmund,2,1,2023-11-11,1.0,4.2
+bece4395,Leverkusen,Union Berlin,4,0,2023-11-12,0.0,2.4
+fcbc3a03,RB Leipzig,Freiburg,3,1,2023-11-12,0.5,1.9
+5c3bedb6,Werder Bremen,Eint Frankfurt,2,2,2023-11-12,2.0,1.5
+5ffb46dc,Köln,Bayern Munich,0,1,2023-11-24,3.5,0.2
+f681bb3c,Dortmund,Gladbach,4,2,2023-11-25,1.0,3.2
+681f0b6f,Eint Frankfurt,Stuttgart,1,2,2023-11-25,2.3,0.9
+057a9eb7,Freiburg,Darmstadt 98,1,1,2023-11-25,0.4,1.6
+e30bd7d2,Union Berlin,Augsburg,1,1,2023-11-25,1.7,2.1
+30b8a712,Werder Bremen,Leverkusen,0,3,2023-11-25,1.0,0.2
+a98967a4,Wolfsburg,RB Leipzig,2,1,2023-11-25,2.7,0.9
+d913616c,Heidenheim,Bochum,0,0,2023-11-26,0.4,0.8
+bc0e7fa8,Hoffenheim,Mainz 05,1,1,2023-11-26,1.8,1.2
+88486a76,Darmstadt 98,Köln,0,1,2023-12-01,1.5,0.7
+a700767e,Bochum,Wolfsburg,3,1,2023-12-02,1.3,1.5
+fa6e2a54,Gladbach,Hoffenheim,2,1,2023-12-02,1.4,1.6
+1277604b,RB Leipzig,Heidenheim,2,1,2023-12-02,1.0,4.0
+5ea2a1ee,Stuttgart,Werder Bremen,2,0,2023-12-02,0.8,3.5
+4bea1c30,Augsburg,Eint Frankfurt,2,1,2023-12-03,1.0,1.4
+a235a3b6,Leverkusen,Dortmund,1,1,2023-12-03,0.7,2.1
+3f2986cd,Mainz 05,Freiburg,0,1,2023-12-03,0.9,2.3
+dfcff3ef,Hoffenheim,Bochum,3,1,2023-12-08,1.5,1.5
+f73593b4,Dortmund,RB Leipzig,2,3,2023-12-09,2.8,1.5
+251c1dd6,Eint Frankfurt,Bayern Munich,5,1,2023-12-09,2.1,1.3
+1a98eda2,Heidenheim,Darmstadt 98,3,2,2023-12-09,0.9,1.4
+31e39f60,Union Berlin,Gladbach,3,1,2023-12-09,1.1,2.1
+e6729107,Werder Bremen,Augsburg,2,0,2023-12-09,0.7,1.5
+9c21532b,Wolfsburg,Freiburg,0,1,2023-12-09,1.1,1.2
+c88aecd7,Köln,Mainz 05,0,0,2023-12-10,1.4,0.3
+a24d6ae4,Stuttgart,Leverkusen,1,1,2023-12-10,1.3,2.6
+6789ead0,Gladbach,Werder Bremen,2,2,2023-12-15,1.6,1.4
+c6900058,Augsburg,Dortmund,1,1,2023-12-16,2.6,1.8
+a08896e6,Bochum,Union Berlin,3,0,2023-12-16,0.7,2.8
+6863e2f2,Darmstadt 98,Wolfsburg,0,1,2023-12-16,0.6,0.6
+cafc9381,Mainz 05,Heidenheim,0,1,2023-12-16,0.5,1.6
+71872824,RB Leipzig,Hoffenheim,3,1,2023-12-16,0.8,2.8
+c46446dd,Bayern Munich,Stuttgart,3,0,2023-12-17,0.4,2.8
+bf792334,Freiburg,Köln,2,0,2023-12-17,1.2,3.0
+a0cd5a82,Leverkusen,Eint Frankfurt,3,0,2023-12-17,0.2,2.5
+ac181d3a,Dortmund,Mainz 05,1,1,2023-12-19,0.9,1.2
+067ebd6d,Hoffenheim,Darmstadt 98,3,3,2023-12-19,0.8,3.5
+be7a1a96,Werder Bremen,RB Leipzig,1,1,2023-12-19,1.7,1.5
+ece3d924,Eint Frankfurt,Gladbach,2,1,2023-12-20,0.3,1.4
+1d712cc9,Heidenheim,Freiburg,3,2,2023-12-20,1.8,1.9
+693808a8,Leverkusen,Bochum,4,0,2023-12-20,0.4,3.3
+479c1c3c,Stuttgart,Augsburg,3,0,2023-12-20,0.2,2.6
+4ca1cef3,Union Berlin,Köln,2,0,2023-12-20,0.8,1.5
+5ccedacd,Wolfsburg,Bayern Munich,1,2,2023-12-20,2.5,0.3
+91371afd,Bayern Munich,Hoffenheim,3,0,2024-01-12,1.2,2.8
+66fc4faa,Augsburg,Leverkusen,0,1,2024-01-13,2.0,0.4
+4ec40540,Darmstadt 98,Dortmund,0,3,2024-01-13,3.1,1.0
+1b4e7c2f,Freiburg,Union Berlin,0,0,2024-01-13,0.5,1.8
+9bf98d14,Köln,Heidenheim,1,1,2024-01-13,0.9,0.9
+f78fccc2,Mainz 05,Wolfsburg,1,1,2024-01-13,0.6,0.4
+1646b377,RB Leipzig,Eint Frankfurt,0,1,2024-01-13,1.1,3.5
+48d916da,Bochum,Werder Bremen,1,1,2024-01-14,0.8,0.7
+20f7e860,Gladbach,Stuttgart,3,1,2024-01-14,0.9,1.9
+853d1bc7,Bochum,Stuttgart,1,0,2024-01-20,1.4,0.9
+262bec03,Darmstadt 98,Eint Frankfurt,2,2,2024-01-20,1.2,1.1
+81e30c5a,Freiburg,Hoffenheim,3,2,2024-01-20,1.4,2.7
+49675ada,Heidenheim,Wolfsburg,1,1,2024-01-20,1.1,1.1
+7aed9153,Köln,Dortmund,0,4,2024-01-20,3.4,1.3
+a56df31c,RB Leipzig,Leverkusen,2,3,2024-01-20,2.0,1.6
+c6332d80,Bayern Munich,Werder Bremen,0,1,2024-01-21,0.4,1.9
+fa79d782,Gladbach,Augsburg,1,2,2024-01-21,1.3,1.7
+549b837b,Bayern Munich,Union Berlin,1,0,2024-01-24,0.2,2.1
+5b7e9cd3,Eint Frankfurt,Mainz 05,1,0,2024-01-26,0.8,1.3
+40038184,Augsburg,Bayern Munich,2,3,2024-01-27,2.3,2.6
+c5e04de2,Hoffenheim,Heidenheim,1,1,2024-01-27,1.1,2.8
+c7a2c8f1,Leverkusen,Gladbach,0,0,2024-01-27,0.3,2.9
+e0307b8a,Stuttgart,RB Leipzig,5,2,2024-01-27,0.4,2.2
+3490a176,Werder Bremen,Freiburg,3,1,2024-01-27,1.2,2.5
+8d9dabda,Wolfsburg,Köln,1,1,2024-01-27,0.6,1.5
+d5fb6e78,Dortmund,Bochum,3,1,2024-01-28,0.5,2.9
+94831b74,Union Berlin,Darmstadt 98,1,0,2024-01-28,1.1,2.5
+6c075db6,Heidenheim,Dortmund,0,0,2024-02-02,0.6,1.2
+8638e930,Bayern Munich,Gladbach,3,1,2024-02-03,1.0,2.1
+ed400d12,Bochum,Augsburg,1,1,2024-02-03,1.6,0.9
+e290014d,Darmstadt 98,Leverkusen,0,2,2024-02-03,1.9,0.6
+1caf6190,Freiburg,Stuttgart,1,3,2024-02-03,1.7,0.7
+ffa57b10,Köln,Eint Frankfurt,2,0,2024-02-03,0.8,1.3
+aac29d85,Mainz 05,Werder Bremen,0,1,2024-02-03,0.6,0.8
+ef553212,RB Leipzig,Union Berlin,2,0,2024-02-04,0.5,1.1
+5832b0ba,Wolfsburg,Hoffenheim,2,2,2024-02-04,1.7,1.7
+b020c917,Mainz 05,Union Berlin,1,1,2024-02-07,1.0,1.3
+d8ec709e,Dortmund,Freiburg,3,0,2024-02-09,0.3,1.9
+f1d93f2a,Augsburg,RB Leipzig,2,2,2024-02-10,1.3,0.7
+cad8b5cb,Eint Frankfurt,Bochum,1,1,2024-02-10,1.5,2.4
+ca8e752c,Gladbach,Darmstadt 98,0,0,2024-02-10,0.7,1.5
+cb3e9794,Leverkusen,Bayern Munich,3,0,2024-02-10,0.6,1.3
+55c0668e,Union Berlin,Wolfsburg,1,0,2024-02-10,1.3,0.5
+0e7196f4,Werder Bremen,Heidenheim,1,2,2024-02-10,1.8,1.7
+c5cb718a,Hoffenheim,Köln,1,1,2024-02-11,0.1,1.2
+8a942999,Stuttgart,Mainz 05,3,1,2024-02-11,1.4,1.9
+23e6e69b,Köln,Werder Bremen,0,1,2024-02-16,1.8,0.8
+495996b3,Darmstadt 98,Stuttgart,1,2,2024-02-17,1.6,1.7
+dc9bd3f1,Heidenheim,Leverkusen,1,2,2024-02-17,1.9,0.4
+1087676d,Hoffenheim,Union Berlin,0,1,2024-02-17,1.4,1.0
+09ef0419,Mainz 05,Augsburg,1,0,2024-02-17,1.0,2.1
+2562b3f2,RB Leipzig,Gladbach,2,0,2024-02-17,0.7,1.7
+8834fb75,Wolfsburg,Dortmund,1,1,2024-02-17,1.4,1.8
+3729d74c,Bochum,Bayern Munich,3,2,2024-02-18,3.3,1.7
+61bcf887,Freiburg,Eint Frankfurt,3,3,2024-02-18,1.0,2.2
+f1ee2f4d,Leverkusen,Mainz 05,2,1,2024-02-23,1.1,1.1
+2b197304,Bayern Munich,RB Leipzig,2,1,2024-02-24,0.9,1.5
+41a1026d,Gladbach,Bochum,5,2,2024-02-24,1.6,3.5
+5c9a36d8,Stuttgart,Köln,1,1,2024-02-24,0.7,2.2
+05492802,Union Berlin,Heidenheim,2,2,2024-02-24,1.1,1.1
+307bb1fe,Werder Bremen,Darmstadt 98,1,1,2024-02-24,1.0,1.8
+7619c72c,Augsburg,Freiburg,2,1,2024-02-25,1.6,1.6
+9da49b22,Dortmund,Hoffenheim,2,3,2024-02-25,1.3,1.9
+41a055f9,Eint Frankfurt,Wolfsburg,2,2,2024-02-25,1.0,0.9
+fd3df072,Freiburg,Bayern Munich,2,2,2024-03-01,1.8,1.5
+3d96e277,Bochum,RB Leipzig,1,4,2024-03-02,2.1,0.8
+fb8f1eb7,Darmstadt 98,Augsburg,0,6,2024-03-02,2.9,0.8
+451ca624,Heidenheim,Eint Frankfurt,1,2,2024-03-02,1.2,1.0
+7e9375f7,Mainz 05,Gladbach,1,1,2024-03-02,1.0,1.0
+a5477209,Union Berlin,Dortmund,0,2,2024-03-02,1.6,1.2
+3a645dc5,Wolfsburg,Stuttgart,2,3,2024-03-02,1.1,0.8
+1e6c5f41,Hoffenheim,Werder Bremen,2,1,2024-03-03,1.3,1.7
+45ef7b37,Köln,Leverkusen,0,2,2024-03-03,1.5,1.0
+cf9a3f12,Stuttgart,Union Berlin,2,0,2024-03-08,0.9,1.0
+f5e3c688,Augsburg,Heidenheim,1,0,2024-03-09,0.4,0.5
+13642200,Bayern Munich,Mainz 05,8,1,2024-03-09,0.8,6.2
+d2df2d6e,Gladbach,Köln,3,3,2024-03-09,0.6,1.8
+c7a7fa1e,RB Leipzig,Darmstadt 98,2,0,2024-03-09,0.5,3.2
+93f65055,Werder Bremen,Dortmund,1,2,2024-03-09,1.2,1.8
+a3e71105,Bochum,Freiburg,1,2,2024-03-10,1.4,1.2
+e64845a2,Eint Frankfurt,Hoffenheim,3,1,2024-03-10,0.6,2.4
+e496288a,Leverkusen,Wolfsburg,2,0,2024-03-10,0.2,2.1
+e1fbd27a,Köln,RB Leipzig,1,5,2024-03-15,3.3,1.2
+fbdd5729,Darmstadt 98,Bayern Munich,2,5,2024-03-16,3.6,1.2
+960bc764,Heidenheim,Gladbach,1,1,2024-03-16,0.5,1.1
+4ec68df2,Hoffenheim,Stuttgart,0,3,2024-03-16,3.7,0.5
+df59d301,Mainz 05,Bochum,2,0,2024-03-16,0.7,2.5
+bdb8f06f,Union Berlin,Werder Bremen,2,1,2024-03-16,1.1,1.1
+20a7ebf0,Wolfsburg,Augsburg,1,3,2024-03-16,0.7,1.3
+fc260c9c,Dortmund,Eint Frankfurt,3,1,2024-03-17,0.9,2.3
+5b15a938,Freiburg,Leverkusen,2,3,2024-03-17,2.3,0.9
+2214f825,Bayern Munich,Dortmund,0,2,2024-03-30,0.9,1.5
+2c607fee,Eint Frankfurt,Union Berlin,0,0,2024-03-30,1.5,1.0
+ec7eb5c4,Gladbach,Freiburg,0,3,2024-03-30,1.7,1.5
+c6837308,Leverkusen,Hoffenheim,2,1,2024-03-30,0.8,3.1
+bd8a352b,RB Leipzig,Mainz 05,0,0,2024-03-30,0.9,2.5
+14145f04,Werder Bremen,Wolfsburg,0,2,2024-03-30,2.3,0.5
+01fc81d2,Augsburg,Köln,1,1,2024-03-31,1.3,2.2
+9a5b5b37,Bochum,Darmstadt 98,2,2,2024-03-31,0.9,1.8
+c2bf703c,Stuttgart,Heidenheim,3,3,2024-03-31,1.3,3.0
+d488395d,Eint Frankfurt,Werder Bremen,1,1,2024-04-05,1.6,2.1
+7f40218d,Dortmund,Stuttgart,0,1,2024-04-06,1.6,2.5
+007c65cc,Freiburg,RB Leipzig,1,4,2024-04-06,2.3,1.6
+f162ca67,Heidenheim,Bayern Munich,3,2,2024-04-06,1.9,1.4
+d8652581,Köln,Bochum,2,1,2024-04-06,0.6,1.0
+d905f8cf,Mainz 05,Darmstadt 98,4,0,2024-04-06,0.5,3.6
+8d50a0dc,Union Berlin,Leverkusen,0,1,2024-04-06,2.8,0.3
+55760d88,Hoffenheim,Augsburg,3,1,2024-04-07,1.2,1.8
+48bbbaa4,Wolfsburg,Gladbach,1,3,2024-04-07,1.1,1.2
+77277650,Augsburg,Union Berlin,2,0,2024-04-12,1.6,1.6
+40ea8291,Bayern Munich,Köln,2,0,2024-04-13,0.9,2.2
+402ab1ff,Bochum,Heidenheim,1,1,2024-04-13,1.1,1.2
+37ed39d6,Gladbach,Dortmund,1,2,2024-04-13,1.3,1.1
+395983e2,Mainz 05,Hoffenheim,4,1,2024-04-13,0.5,2.1
+dc48a914,RB Leipzig,Wolfsburg,3,0,2024-04-13,0.4,1.3
+50a48ffc,Stuttgart,Eint Frankfurt,3,0,2024-04-13,0.6,1.2
+4cb378dd,Darmstadt 98,Freiburg,0,1,2024-04-14,0.9,1.1
+995e3537,Leverkusen,Werder Bremen,5,0,2024-04-14,0.7,3.2
+7e121aaa,Eint Frankfurt,Augsburg,3,1,2024-04-19,0.5,1.8
+421566c1,Heidenheim,RB Leipzig,1,2,2024-04-20,1.8,1.0
+b0db8bc6,Hoffenheim,Gladbach,4,3,2024-04-20,1.0,2.3
+c2a328c8,Köln,Darmstadt 98,0,2,2024-04-20,1.8,1.0
+35d42e43,Union Berlin,Bayern Munich,1,5,2024-04-20,1.4,1.4
+12980c2d,Wolfsburg,Bochum,1,0,2024-04-20,1.3,0.8
+24b5202b,Dortmund,Leverkusen,1,1,2024-04-21,1.1,0.5
+f477f432,Freiburg,Mainz 05,1,1,2024-04-21,1.0,1.1
+c8030035,Werder Bremen,Stuttgart,2,1,2024-04-21,2.2,1.5
+f6908cfc,Bochum,Hoffenheim,3,2,2024-04-26,1.0,3.2
+308f90b7,Augsburg,Werder Bremen,0,3,2024-04-27,2.0,0.6
+33de3608,Bayern Munich,Eint Frankfurt,2,1,2024-04-27,0.5,3.3
+73187673,Freiburg,Wolfsburg,1,2,2024-04-27,0.5,2.2
+275b46ad,Leverkusen,Stuttgart,2,2,2024-04-27,1.7,1.4
+9813cba6,RB Leipzig,Dortmund,4,1,2024-04-27,1.6,2.6
+3534834b,Darmstadt 98,Heidenheim,0,1,2024-04-28,1.6,0.7
+186f2bd2,Gladbach,Union Berlin,0,0,2024-04-28,1.0,0.9
+294cb583,Mainz 05,Köln,1,1,2024-04-28,2.5,1.6
+0c04e055,Hoffenheim,RB Leipzig,1,1,2024-05-03,0.8,1.6
+973a53e2,Dortmund,Augsburg,5,1,2024-05-04,2.5,4.0
+90f8e14b,Köln,Freiburg,0,0,2024-05-04,0.8,0.9
+38c2e1c6,Stuttgart,Bayern Munich,3,1,2024-05-04,1.7,1.8
+4e276e61,Werder Bremen,Gladbach,2,2,2024-05-04,1.9,1.4
+d460a027,Wolfsburg,Darmstadt 98,3,0,2024-05-04,0.4,2.2
+20542574,Eint Frankfurt,Leverkusen,1,5,2024-05-05,2.7,1.9
+61a6652f,Heidenheim,Mainz 05,1,1,2024-05-05,1.4,0.9
+1956c53e,Union Berlin,Bochum,3,4,2024-05-05,1.4,0.9
+479d1417,Augsburg,Stuttgart,0,1,2024-05-10,1.9,0.6
+9fe2f393,Freiburg,Heidenheim,1,1,2024-05-11,0.7,1.5
+f60ad969,Gladbach,Eint Frankfurt,1,1,2024-05-11,1.5,0.4
+1d97656d,Köln,Union Berlin,3,2,2024-05-11,1.6,3.1
+23d95a33,Mainz 05,Dortmund,3,0,2024-05-11,0.4,2.1
+fbb2b015,RB Leipzig,Werder Bremen,1,1,2024-05-11,1.1,1.4
+22e38eb5,Bayern Munich,Wolfsburg,2,0,2024-05-12,0.2,0.3
+722f0a3e,Bochum,Leverkusen,0,5,2024-05-12,4.2,0.3
+27a15c2e,Darmstadt 98,Hoffenheim,0,6,2024-05-12,3.3,0.6
+14f21084,Dortmund,Darmstadt 98,4,0,2024-05-18,0.3,2.6
+f7159f33,Eint Frankfurt,RB Leipzig,2,2,2024-05-18,1.6,2.1
+f0787a6c,Heidenheim,Köln,4,1,2024-05-18,2.3,1.0
+250e8184,Hoffenheim,Bayern Munich,4,2,2024-05-18,1.5,1.8
+8b525565,Leverkusen,Augsburg,2,1,2024-05-18,1.2,2.4
+229aab5e,Stuttgart,Gladbach,4,0,2024-05-18,1.3,1.6
+0a7a794b,Union Berlin,Freiburg,2,1,2024-05-18,1.0,2.3
+0c2b0305,Werder Bremen,Bochum,4,1,2024-05-18,2.1,3.0
+31be20b7,Wolfsburg,Mainz 05,1,3,2024-05-18,1.8,0.8
+d42e53df,Gladbach,Leverkusen,2,3,2024-08-23,2.7,1.6
+967de8db,Augsburg,Werder Bremen,2,2,2024-08-24,1.4,1.0
+3750f4ea,Dortmund,Eint Frankfurt,2,0,2024-08-24,1.4,1.7
+a64e4ea4,Freiburg,Stuttgart,3,1,2024-08-24,0.4,2.1
+b549a198,Hoffenheim,Holstein Kiel,3,2,2024-08-24,1.7,3.5
+02dc2f7e,Mainz 05,Union Berlin,1,1,2024-08-24,0.6,1.2
+cd173a0a,RB Leipzig,Bochum,1,0,2024-08-24,1.0,1.3
+26a137cc,St. Pauli,Heidenheim,0,2,2024-08-25,1.1,1.2
+48886f11,Wolfsburg,Bayern Munich,2,3,2024-08-25,2.4,1.9
+ce5d1374,Union Berlin,St. Pauli,1,0,2024-08-30,0.5,1.1
+d31a8f27,Bochum,Gladbach,0,2,2024-08-31,2.9,0.7
+20afc3a6,Eint Frankfurt,Hoffenheim,3,1,2024-08-31,1.0,2.4
+7e2bdec0,Holstein Kiel,Wolfsburg,0,2,2024-08-31,1.3,1.1
+20df1da5,Leverkusen,RB Leipzig,2,3,2024-08-31,1.1,2.2
+378509f5,Stuttgart,Mainz 05,3,3,2024-08-31,2.3,3.8
+0f6a93b4,Werder Bremen,Dortmund,0,0,2024-08-31,0.6,0.3
+c11acc1b,Bayern Munich,Freiburg,2,0,2024-09-01,1.0,1.5
+19bab96c,Heidenheim,Augsburg,4,0,2024-09-01,0.7,3.1
+c19c18dc,Dortmund,Heidenheim,4,2,2024-09-13,1.8,2.6
+5ad7fdc3,Freiburg,Bochum,2,1,2024-09-14,0.9,3.7
+571e17c9,Gladbach,Stuttgart,1,3,2024-09-14,2.2,1.6
+e7b9f373,Hoffenheim,Leverkusen,1,4,2024-09-14,3.5,0.9
+728afee1,Holstein Kiel,Bayern Munich,1,6,2024-09-14,3.2,0.3
+5496aa43,RB Leipzig,Union Berlin,0,0,2024-09-14,0.6,1.3
+c0bc9354,Wolfsburg,Eint Frankfurt,1,2,2024-09-14,2.5,1.5
+d0ee2c59,Augsburg,St. Pauli,3,1,2024-09-15,0.5,2.7
+253ece9e,Mainz 05,Werder Bremen,1,2,2024-09-15,1.6,1.1
+72461171,Augsburg,Mainz 05,2,3,2024-09-20,1.0,2.4
+b8e02820,Bochum,Holstein Kiel,2,2,2024-09-21,1.9,0.8
+71024b44,Eint Frankfurt,Gladbach,2,0,2024-09-21,1.7,2.7
+157d560f,Heidenheim,Freiburg,0,3,2024-09-21,1.4,0.7
+204b5cf0,Union Berlin,Hoffenheim,2,1,2024-09-21,0.4,1.2
+f4a4421c,Werder Bremen,Bayern Munich,0,5,2024-09-21,3.0,0.0
+f247334b,Leverkusen,Wolfsburg,4,3,2024-09-22,0.7,1.9
+4e23f1b6,St. Pauli,RB Leipzig,0,0,2024-09-22,0.7,1.4
+ddfcf507,Stuttgart,Dortmund,5,1,2024-09-22,0.7,3.4
+bf284236,Dortmund,Bochum,4,2,2024-09-27,1.3,3.2
+ea3571c5,Bayern Munich,Leverkusen,1,1,2024-09-28,0.1,1.4
+c2910931,Freiburg,St. Pauli,0,3,2024-09-28,1.1,1.2
+a1a2f716,Gladbach,Union Berlin,1,0,2024-09-28,0.7,0.9
+fc9efe43,Mainz 05,Heidenheim,0,2,2024-09-28,1.2,0.6
+98d6a4cb,RB Leipzig,Augsburg,4,0,2024-09-28,1.1,3.0
+d72309cf,Wolfsburg,Stuttgart,2,2,2024-09-28,1.8,1.1
+a0e9bb68,Hoffenheim,Werder Bremen,3,4,2024-09-29,2.9,1.2
+791f7734,Holstein Kiel,Eint Frankfurt,2,4,2024-09-29,2.1,1.1
+dd751497,Augsburg,Gladbach,2,1,2024-10-04,0.5,1.3
+ecd2d8d1,Bochum,Wolfsburg,1,3,2024-10-05,2.4,1.7
+cb256282,Leverkusen,Holstein Kiel,2,2,2024-10-05,1.6,2.1
+48a230e5,St. Pauli,Mainz 05,0,3,2024-10-05,1.1,1.0
+5716e53f,Union Berlin,Dortmund,2,1,2024-10-05,0.7,1.5
+b6ae6f08,Werder Bremen,Freiburg,0,1,2024-10-05,1.0,1.0
+47b6b5b9,Eint Frankfurt,Bayern Munich,3,3,2024-10-06,2.2,1.2
+8f593aee,Heidenheim,RB Leipzig,0,1,2024-10-06,1.4,1.0
+122852eb,Stuttgart,Hoffenheim,1,1,2024-10-06,0.9,1.9
+3a6031d4,Dortmund,St. Pauli,2,1,2024-10-18,0.6,2.6
+7562a0c2,Bayern Munich,Stuttgart,4,0,2024-10-19,0.5,3.2
+19da909f,Freiburg,Augsburg,3,1,2024-10-19,0.6,0.8
+e0c0a8fe,Gladbach,Heidenheim,3,2,2024-10-19,2.0,3.6
+70f3717a,Hoffenheim,Bochum,3,1,2024-10-19,2.7,2.5
+1766e653,Leverkusen,Eint Frankfurt,2,1,2024-10-19,1.9,3.8
+11e680f6,Mainz 05,RB Leipzig,0,2,2024-10-19,1.9,0.6
+49aa197e,Holstein Kiel,Union Berlin,0,2,2024-10-20,1.1,1.3
+afaee823,Wolfsburg,Werder Bremen,2,4,2024-10-20,2.0,1.8
+ad43a11c,Mainz 05,Gladbach,1,1,2024-10-25,0.7,1.7
+5c672984,Augsburg,Dortmund,2,1,2024-10-26,1.0,0.6
+e12d2336,RB Leipzig,Freiburg,3,1,2024-10-26,1.7,1.8
+75894bbc,St. Pauli,Wolfsburg,0,0,2024-10-26,1.1,0.8
+1cd904a3,Stuttgart,Holstein Kiel,2,1,2024-10-26,0.5,1.6
+7c95858c,Werder Bremen,Leverkusen,2,2,2024-10-26,1.3,1.6
+47698a8f,Bochum,Bayern Munich,0,5,2024-10-27,2.2,0.6
+fc665c18,Heidenheim,Hoffenheim,0,0,2024-10-27,0.7,1.5
+90526971,Union Berlin,Eint Frankfurt,1,1,2024-10-27,1.5,1.4
+c803a5eb,Leverkusen,Stuttgart,0,0,2024-11-01,0.3,2.2
+61af44e4,Bayern Munich,Union Berlin,3,0,2024-11-02,0.5,2.5
+7756d7d5,Dortmund,RB Leipzig,2,1,2024-11-02,0.5,2.0
+f5fc1b23,Eint Frankfurt,Bochum,7,2,2024-11-02,1.8,3.5
+2e0fc0d2,Hoffenheim,St. Pauli,0,2,2024-11-02,0.9,0.7
+a51846c1,Holstein Kiel,Heidenheim,1,0,2024-11-02,1.2,1.1
+41c73b44,Wolfsburg,Augsburg,1,1,2024-11-02,0.5,1.2
+86485b52,Freiburg,Mainz 05,0,0,2024-11-03,0.5,0.8
+b9ce1157,Gladbach,Werder Bremen,4,1,2024-11-03,1.4,2.5
+05b458bf,Union Berlin,Freiburg,0,0,2024-11-08,1.7,0.7
+50ab5485,Bochum,Leverkusen,1,1,2024-11-09,1.2,0.7
+ff7bcb61,Mainz 05,Dortmund,3,1,2024-11-09,0.9,2.0
+639bf27f,RB Leipzig,Gladbach,0,0,2024-11-09,0.9,1.0
+213e9aea,St. Pauli,Bayern Munich,0,1,2024-11-09,0.8,0.1
+58ac698f,Werder Bremen,Holstein Kiel,2,1,2024-11-09,0.7,1.7
+67fa64af,Augsburg,Hoffenheim,0,0,2024-11-10,0.5,0.9
+27da1c68,Heidenheim,Wolfsburg,1,3,2024-11-10,1.5,2.4
+2155226b,Stuttgart,Eint Frankfurt,2,3,2024-11-10,1.3,2.5
+797e3d3e,Bayern Munich,Augsburg,3,0,2024-11-22,0.1,3.7
+72699490,Dortmund,Freiburg,4,0,2024-11-23,0.8,1.3
+b410a6e3,Eint Frankfurt,Werder Bremen,1,0,2024-11-23,0.4,1.1
+b5f40472,Hoffenheim,RB Leipzig,4,3,2024-11-23,1.6,2.0
+573e0883,Leverkusen,Heidenheim,5,2,2024-11-23,1.1,2.2
+9552b88a,Stuttgart,Bochum,2,0,2024-11-23,0.7,1.7
+16895d71,Wolfsburg,Union Berlin,1,0,2024-11-23,0.5,0.6
+b0221e69,Gladbach,St. Pauli,2,0,2024-11-24,1.1,2.3
+eb577d48,Holstein Kiel,Mainz 05,0,3,2024-11-24,2.2,0.4
+5c8b9990,St. Pauli,Holstein Kiel,3,1,2024-11-29,1.2,1.3
+b1e5b315,Augsburg,Bochum,1,0,2024-11-30,0.3,1.9
+77d36005,Dortmund,Bayern Munich,1,1,2024-11-30,1.5,0.6
+358ea55d,Freiburg,Gladbach,3,1,2024-11-30,1.5,1.6
+b0c93fa3,RB Leipzig,Wolfsburg,1,5,2024-11-30,2.2,1.0
+19910993,Union Berlin,Leverkusen,1,2,2024-11-30,0.9,0.7
+61c993b3,Werder Bremen,Stuttgart,2,2,2024-11-30,1.8,1.6
+055831dc,Heidenheim,Eint Frankfurt,0,4,2024-12-01,2.6,0.7
+16d2485c,Mainz 05,Hoffenheim,2,0,2024-12-01,0.4,2.2
+41b2c9a7,Stuttgart,Union Berlin,3,2,2024-12-06,1.4,2.1
+aff85c23,Bayern Munich,Heidenheim,4,2,2024-12-07,1.3,2.4
+73bf4f3e,Bochum,Werder Bremen,0,1,2024-12-07,0.8,1.2
+4442b38e,Eint Frankfurt,Augsburg,2,2,2024-12-07,0.6,1.7
+975c1d76,Gladbach,Dortmund,1,1,2024-12-07,1.5,1.1
+5b484005,Holstein Kiel,RB Leipzig,0,2,2024-12-07,1.6,1.2
+326bf78c,Leverkusen,St. Pauli,2,1,2024-12-07,1.8,0.9
+3b2c1622,Hoffenheim,Freiburg,1,1,2024-12-08,1.0,1.4
+4c76fa51,Wolfsburg,Mainz 05,4,3,2024-12-08,2.6,1.2
+3142b1ac,Freiburg,Wolfsburg,3,2,2024-12-13,1.8,2.1
+b2439369,Augsburg,Leverkusen,0,2,2024-12-14,0.8,0.6
+9082168d,Gladbach,Holstein Kiel,4,1,2024-12-14,0.6,2.4
+dc3aa7be,Mainz 05,Bayern Munich,2,1,2024-12-14,1.4,1.0
+f9c6643f,St. Pauli,Werder Bremen,0,2,2024-12-14,1.0,0.6
+171e1d37,Union Berlin,Bochum,0,2,2024-12-14,1.0,2.5
+cf85934f,Dortmund,Hoffenheim,1,1,2024-12-15,1.0,0.5
+406ac14d,Heidenheim,Stuttgart,1,3,2024-12-15,2.3,1.0
+7f0b7508,RB Leipzig,Eint Frankfurt,2,1,2024-12-15,0.9,1.9
+b1590970,Bayern Munich,RB Leipzig,5,1,2024-12-20,0.4,3.3
+1b681fd7,Eint Frankfurt,Mainz 05,1,3,2024-12-21,0.6,2.4
+0e787c0f,Hoffenheim,Gladbach,1,2,2024-12-21,0.7,3.5
+8d956d1f,Holstein Kiel,Augsburg,5,1,2024-12-21,1.5,1.7
+9d56a702,Leverkusen,Freiburg,5,1,2024-12-21,0.7,2.8
+446a9815,Stuttgart,St. Pauli,0,1,2024-12-21,2.2,2.1
+3a05d86e,Werder Bremen,Union Berlin,4,1,2024-12-21,1.3,2.3
+adeb37a5,Bochum,Heidenheim,2,0,2024-12-22,0.6,1.6
+6948e2d4,Wolfsburg,Dortmund,1,3,2024-12-22,2.7,1.5
+54ce0559,Dortmund,Leverkusen,2,3,2025-01-10,1.6,1.3
+3e4b6950,Freiburg,Holstein Kiel,3,2,2025-01-11,1.8,0.7
+95b5760f,Gladbach,Bayern Munich,0,1,2025-01-11,4.3,0.4
+f3b5b40c,Heidenheim,Union Berlin,2,0,2025-01-11,1.1,1.4
+606b4f3d,Hoffenheim,Wolfsburg,0,1,2025-01-11,0.7,0.9
+319e48db,Mainz 05,Bochum,2,0,2025-01-11,0.6,1.9
+7ff87749,St. Pauli,Eint Frankfurt,0,1,2025-01-11,1.5,2.2
+e99a4554,Augsburg,Stuttgart,0,1,2025-01-12,2.4,0.3
+ca3024b8,RB Leipzig,Werder Bremen,4,2,2025-01-12,1.5,2.1
+826e71bd,Eint Frankfurt,Freiburg,4,1,2025-01-14,0.5,2.4
+0967d02c,Holstein Kiel,Dortmund,4,2,2025-01-14,1.0,1.6
+bffe5cc0,Leverkusen,Mainz 05,1,0,2025-01-14,0.7,1.8
+1f4078fa,Wolfsburg,Gladbach,5,1,2025-01-14,1.1,3.9
+31d47dd3,Bayern Munich,Hoffenheim,5,0,2025-01-15,0.2,3.4
+0ed57a99,Bochum,St. Pauli,1,0,2025-01-15,0.7,1.4
+081e6d08,Stuttgart,RB Leipzig,2,1,2025-01-15,1.0,2.5
+dbe65fff,Union Berlin,Augsburg,0,2,2025-01-15,1.2,0.8
+44a88ae4,Werder Bremen,Heidenheim,3,3,2025-01-15,1.4,1.5
+005a65f4,Eint Frankfurt,Dortmund,2,0,2025-01-17,0.8,1.7
+05f318cc,Bayern Munich,Wolfsburg,3,2,2025-01-18,0.5,3.0
+f702b3ab,Bochum,RB Leipzig,3,3,2025-01-18,2.2,2.7
+14522bc5,Heidenheim,St. Pauli,0,2,2025-01-18,1.9,0.7
+fac01a25,Holstein Kiel,Hoffenheim,1,3,2025-01-18,0.8,1.0
+3bf36d69,Leverkusen,Gladbach,3,1,2025-01-18,0.6,2.1
+e057d531,Stuttgart,Freiburg,4,0,2025-01-18,0.2,1.9
+abafaba1,Union Berlin,Mainz 05,2,1,2025-01-19,1.7,2.1
+10062a04,Werder Bremen,Augsburg,0,2,2025-01-19,1.2,1.3
+fd026179,Wolfsburg,Holstein Kiel,2,2,2025-01-24,0.2,2.0
+be9e8dad,Augsburg,Heidenheim,2,1,2025-01-25,1.2,1.1
+11d1c71c,Dortmund,Werder Bremen,2,2,2025-01-25,1.3,1.0
+f4b1b7e1,Freiburg,Bayern Munich,1,2,2025-01-25,1.0,0.3
+e1972a42,Gladbach,Bochum,3,0,2025-01-25,0.5,2.3
+15fd87e3,Mainz 05,Stuttgart,2,0,2025-01-25,1.1,1.9
+cfcc6770,RB Leipzig,Leverkusen,2,2,2025-01-25,2.4,0.7
+3b329c8a,Hoffenheim,Eint Frankfurt,2,2,2025-01-26,2.4,2.4
+77f7b50a,St. Pauli,Union Berlin,3,0,2025-01-26,1.1,1.2
+5d31cfeb,Werder Bremen,Mainz 05,1,0,2025-01-31,1.2,2.5
+5b710b34,Bayern Munich,Holstein Kiel,4,3,2025-02-01,1.8,3.4
+db02399e,Bochum,Freiburg,0,1,2025-02-01,1.7,1.0
+54a09715,Heidenheim,Dortmund,1,2,2025-02-01,2.2,0.6
+b18bceea,St. Pauli,Augsburg,1,1,2025-02-01,0.3,0.8
+138b9d28,Stuttgart,Gladbach,1,2,2025-02-01,2.1,1.2
+616b4ea5,Union Berlin,RB Leipzig,0,0,2025-02-01,0.3,1.3
+2861d451,Eint Frankfurt,Wolfsburg,1,1,2025-02-02,1.2,1.2
+be216889,Leverkusen,Hoffenheim,3,1,2025-02-02,1.9,1.4
+dede20b2,Bayern Munich,Werder Bremen,3,0,2025-02-07,0.1,4.1
+3a6ba600,Dortmund,Stuttgart,1,2,2025-02-08,0.3,1.4
+02b849f8,Freiburg,Heidenheim,1,0,2025-02-08,0.5,1.0
+a3887d2e,Gladbach,Eint Frankfurt,1,1,2025-02-08,2.2,0.4
+cf6b4de4,Hoffenheim,Union Berlin,0,4,2025-02-08,2.8,1.1
+cff7de63,Mainz 05,Augsburg,0,0,2025-02-08,0.3,1.3
+853e68b5,Wolfsburg,Leverkusen,0,0,2025-02-08,1.4,0.7
+521f766a,Holstein Kiel,Bochum,2,2,2025-02-09,2.3,1.9
+827c2291,RB Leipzig,St. Pauli,2,0,2025-02-09,0.6,1.5
+594320d9,Augsburg,RB Leipzig,0,0,2025-02-14,1.2,1.0
+451156e0,Bochum,Dortmund,2,0,2025-02-15,2.6,2.7
+5da24f91,Leverkusen,Bayern Munich,0,0,2025-02-15,0.0,2.0
+75d89be3,St. Pauli,Freiburg,0,1,2025-02-15,1.3,0.2
+de63fff0,Stuttgart,Wolfsburg,1,2,2025-02-15,1.6,0.8
+6ed0551d,Union Berlin,Gladbach,1,2,2025-02-15,2.1,2.0
+a7eaacdb,Eint Frankfurt,Holstein Kiel,3,1,2025-02-16,1.4,2.5
+ee260489,Heidenheim,Mainz 05,0,2,2025-02-16,2.0,0.6
+e8d6223f,Werder Bremen,Hoffenheim,1,3,2025-02-16,1.4,1.1
+47e68da4,Freiburg,Werder Bremen,5,0,2025-02-21,1.2,1.8
+937a7c71,Dortmund,Union Berlin,6,0,2025-02-22,0.3,4.8
+93560e55,Gladbach,Augsburg,0,3,2025-02-22,1.5,1.0
+9f784f25,Holstein Kiel,Leverkusen,0,2,2025-02-22,1.8,0.3
+c6fc28ec,Mainz 05,St. Pauli,2,0,2025-02-22,0.8,1.2
+cec14305,Wolfsburg,Bochum,1,1,2025-02-22,0.8,1.6
+a994aa80,Bayern Munich,Eint Frankfurt,4,0,2025-02-23,0.5,3.8
+26c7700f,Hoffenheim,Stuttgart,1,1,2025-02-23,2.1,1.0
+9420a8fb,RB Leipzig,Heidenheim,2,2,2025-02-23,0.8,1.9
+2359b29d,Stuttgart,Bayern Munich,1,3,2025-02-28,2.2,0.9
+4b05dd9f,Bochum,Hoffenheim,0,1,2025-03-01,0.6,0.9
+3771f9a8,Eint Frankfurt,Leverkusen,1,4,2025-03-01,2.0,1.1
+b63f6c52,Heidenheim,Gladbach,0,3,2025-03-01,1.8,1.6
+e49b66ef,RB Leipzig,Mainz 05,1,2,2025-03-01,1.5,1.4
+e96a9875,St. Pauli,Dortmund,0,2,2025-03-01,1.5,0.4
+445a72d7,Werder Bremen,Wolfsburg,1,2,2025-03-01,0.9,1.9
+a928bf8e,Augsburg,Freiburg,0,0,2025-03-02,0.8,1.5
+f7cc643f,Union Berlin,Holstein Kiel,0,1,2025-03-02,1.0,1.2
+d430e70c,Gladbach,Mainz 05,1,3,2025-03-07,1.5,1.4
+dfa28f9b,Bayern Munich,Bochum,2,3,2025-03-08,1.1,2.4
+52386e22,Dortmund,Augsburg,0,1,2025-03-08,0.2,1.2
+2a1c7c5d,Freiburg,RB Leipzig,0,0,2025-03-08,1.5,0.5
+55cb7968,Holstein Kiel,Stuttgart,2,2,2025-03-08,0.8,1.4
+ce8580f0,Leverkusen,Werder Bremen,0,2,2025-03-08,1.1,1.6
+51b3b077,Wolfsburg,St. Pauli,1,1,2025-03-08,1.5,2.0
+da418224,Eint Frankfurt,Union Berlin,1,2,2025-03-09,0.9,1.8
+ee204929,Hoffenheim,Heidenheim,1,1,2025-03-09,1.2,1.3
+4be7cdcb,St. Pauli,Hoffenheim,1,0,2025-03-14,0.2,2.0
+33e651f0,Augsburg,Wolfsburg,1,0,2025-03-15,0.8,0.7
+b1beeafe,Mainz 05,Freiburg,2,2,2025-03-15,3.1,1.3
+abc689ba,RB Leipzig,Dortmund,2,0,2025-03-15,3.0,1.8
+aaf55506,Union Berlin,Bayern Munich,1,1,2025-03-15,1.6,0.7
+ed2f2d83,Werder Bremen,Gladbach,2,4,2025-03-15,2.4,2.5
+c34cbccf,Bochum,Eint Frankfurt,1,3,2025-03-16,2.5,1.4
+df0b5d3c,Heidenheim,Holstein Kiel,3,1,2025-03-16,1.5,1.5
+fb471c62,Stuttgart,Leverkusen,3,4,2025-03-16,1.7,2.3
+b2dc2e55,Leverkusen,Bochum,3,1,2025-03-28,0.5,2.0
+1ab0ff43,Bayern Munich,St. Pauli,3,2,2025-03-29,1.0,3.5
+f17b1ac5,Eint Frankfurt,Stuttgart,1,0,2025-03-29,1.2,3.7
+bc35ebf6,Gladbach,RB Leipzig,1,0,2025-03-29,1.3,1.8
+ac5e7e15,Hoffenheim,Augsburg,1,1,2025-03-29,0.6,1.4
+9cc7f833,Holstein Kiel,Werder Bremen,0,3,2025-03-29,1.8,0.5
+45215cba,Wolfsburg,Heidenheim,0,1,2025-03-29,1.3,1.3
+170ac3bc,Dortmund,Mainz 05,3,1,2025-03-30,0.8,2.8
+f1ea8b17,Freiburg,Union Berlin,1,2,2025-03-30,1.0,1.4
+6420938b,Augsburg,Bayern Munich,1,3,2025-04-04,2.4,0.4
+b223187e,Bochum,Stuttgart,0,4,2025-04-05,2.8,0.8
+5bb8bb3d,Freiburg,Dortmund,1,4,2025-04-05,3.3,1.8
+0cae3543,Heidenheim,Leverkusen,0,1,2025-04-05,0.4,1.0
+dbdc6ab0,Mainz 05,Holstein Kiel,1,1,2025-04-05,0.9,1.8
+541c3057,RB Leipzig,Hoffenheim,3,1,2025-04-05,0.9,1.6
+109281c0,Werder Bremen,Eint Frankfurt,2,0,2025-04-05,0.5,1.0
+567410c5,St. Pauli,Gladbach,1,1,2025-04-06,0.6,1.9
+4d106cd0,Union Berlin,Wolfsburg,1,0,2025-04-06,1.9,1.2
+279f61ea,Wolfsburg,RB Leipzig,2,3,2025-04-11,1.3,1.6
+448aadc2,Bayern Munich,Dortmund,2,2,2025-04-12,1.6,2.3
+90ff09ad,Bochum,Augsburg,1,2,2025-04-12,1.1,2.8
+7909fa1f,Gladbach,Freiburg,1,2,2025-04-12,1.6,0.7
+3ffde43a,Hoffenheim,Mainz 05,2,0,2025-04-12,1.2,1.7
+caf45775,Holstein Kiel,St. Pauli,1,2,2025-04-12,1.2,0.5
+05cfe672,Leverkusen,Union Berlin,0,0,2025-04-12,0.5,0.8
+734c51b1,Eint Frankfurt,Heidenheim,3,0,2025-04-13,1.7,3.7
+fa069898,Stuttgart,Werder Bremen,1,2,2025-04-13,1.5,1.7
+20ecf347,Freiburg,Hoffenheim,3,2,2025-04-19,1.5,1.3
+16677768,Heidenheim,Bayern Munich,0,4,2025-04-19,3.2,0.6
+e6a0bf3c,Mainz 05,Wolfsburg,2,2,2025-04-19,1.6,2.7
+000fb8fc,RB Leipzig,Holstein Kiel,1,1,2025-04-19,0.8,1.9
+2730ce86,Union Berlin,Stuttgart,4,4,2025-04-19,0.9,1.3
+8fc6caf7,Werder Bremen,Bochum,1,0,2025-04-19,0.7,1.8
+d894af02,Augsburg,Eint Frankfurt,0,0,2025-04-20,1.1,0.9
+96810141,Dortmund,Gladbach,3,2,2025-04-20,1.4,1.4
+44f5146c,St. Pauli,Leverkusen,1,1,2025-04-20,0.8,1.1
+7aff3a58,Stuttgart,Heidenheim,0,1,2025-04-25,0.3,1.8
+c8ec6e9b,Bayern Munich,Mainz 05,3,0,2025-04-26,0.7,1.1
+b7fb0f38,Eint Frankfurt,RB Leipzig,4,0,2025-04-26,0.4,2.1
+c27495e8,Hoffenheim,Dortmund,2,3,2025-04-26,2.6,1.1
+8c788caa,Holstein Kiel,Gladbach,4,3,2025-04-26,1.6,3.5
+eda7cf54,Leverkusen,Augsburg,2,0,2025-04-26,0.7,0.9
+d8e56aa9,Wolfsburg,Freiburg,0,1,2025-04-26,1.6,0.3
+7b2f198b,Bochum,Union Berlin,1,1,2025-04-27,0.3,1.5
+58168f30,Werder Bremen,St. Pauli,0,0,2025-04-27,0.6,1.1
+99708bc3,Heidenheim,Bochum,0,0,2025-05-02,1.3,0.7
+f7ead844,Dortmund,Wolfsburg,4,0,2025-05-03,0.7,2.4
+66ab948b,Gladbach,Hoffenheim,4,4,2025-05-03,1.8,1.4
+332c0ad2,RB Leipzig,Bayern Munich,3,3,2025-05-03,1.6,1.2
+922a1743,St. Pauli,Stuttgart,0,1,2025-05-03,2.7,0.4
+0ae221aa,Union Berlin,Werder Bremen,2,2,2025-05-03,1.6,1.5
+c306cc96,Augsburg,Holstein Kiel,1,3,2025-05-04,1.7,3.2
+96a2ca0c,Freiburg,Leverkusen,2,2,2025-05-04,0.3,0.9
+52b3b191,Mainz 05,Eint Frankfurt,1,1,2025-05-04,1.3,1.4
+8848ad08,Wolfsburg,Hoffenheim,2,2,2025-05-09,1.4,1.0
+ec9d955b,Bayern Munich,Gladbach,2,0,2025-05-10,1.6,2.5
+77e2bfdb,Bochum,Mainz 05,1,4,2025-05-10,1.5,0.9
+54765c32,Holstein Kiel,Freiburg,1,2,2025-05-10,1.4,1.0
+93fc8379,Union Berlin,Heidenheim,0,3,2025-05-10,1.1,0.5
+d240d0af,Werder Bremen,RB Leipzig,0,0,2025-05-10,1.7,2.0
+1d23b7b3,Eint Frankfurt,St. Pauli,2,2,2025-05-11,0.8,1.7
+fe0fd091,Leverkusen,Dortmund,2,4,2025-05-11,1.2,2.2
+fe881f9c,Stuttgart,Augsburg,4,0,2025-05-11,0.5,3.9
+3201dcb5,Augsburg,Union Berlin,1,2,2025-05-17,0.8,1.7
+1bb6490a,Dortmund,Holstein Kiel,3,0,2025-05-17,0.8,2.4
+b4e069ab,Freiburg,Eint Frankfurt,1,3,2025-05-17,2.0,0.7
+8600012e,Gladbach,Wolfsburg,0,1,2025-05-17,1.7,1.0
+6509021f,Heidenheim,Werder Bremen,1,4,2025-05-17,2.2,1.6
+0d8a2ebf,Hoffenheim,Bayern Munich,0,4,2025-05-17,1.4,0.4
+1e213908,Mainz 05,Leverkusen,2,2,2025-05-17,1.2,3.1
+e457ba22,RB Leipzig,Stuttgart,2,3,2025-05-17,2.6,1.1
+f8aa5a5b,St. Pauli,Bochum,0,2,2025-05-17,1.3,0.8
+ea16299e,Heidenheim,Elversberg,2,2,2025-05-22,,
+933eae7f,Elversberg,Heidenheim,1,2,2025-05-26,,
+bd775264,Germany,Scotland,5,1,2024-06-14,0.0,2.1
+c15ec4e7,Hungary,Switzerland,1,3,2024-06-15,2.3,1.3
+4891e62c,Italy,Albania,2,1,2024-06-15,0.5,1.5
+b996c4de,Spain,Croatia,3,0,2024-06-15,2.1,2.0
+923de563,Poland,Netherlands,1,2,2024-06-16,1.4,1.3
+94c752b7,Serbia,England,0,1,2024-06-16,0.5,0.2
+e58cc259,Slovenia,Denmark,1,1,2024-06-16,1.7,1.1
+3d8961eb,Austria,France,0,1,2024-06-17,2.0,0.8
+5bda83ea,Belgium,Slovakia,0,1,2024-06-17,0.6,1.6
+67c17ad9,Romania,Ukraine,3,0,2024-06-17,0.7,1.1
+5e8192b8,Portugal,Czechia,2,1,2024-06-18,0.4,1.9
+36e9e40e,Türkiye,Georgia,3,1,2024-06-18,1.4,3.0
+30406358,Croatia,Albania,2,2,2024-06-19,1.5,2.6
+248233a8,Germany,Hungary,2,0,2024-06-19,1.2,1.4
+5ef87a15,Scotland,Switzerland,1,1,2024-06-19,1.1,0.7
+6cfeccb2,Denmark,England,1,1,2024-06-20,0.9,0.8
+874a95ef,Slovenia,Serbia,1,1,2024-06-20,1.6,1.4
+3f7c6e94,Spain,Italy,1,0,2024-06-20,0.2,2.0
+ad8d106c,Netherlands,France,0,0,2024-06-21,1.4,0.5
+298d4d8f,Poland,Austria,1,3,2024-06-21,2.1,1.6
+73849328,Slovakia,Ukraine,1,2,2024-06-21,1.5,0.8
+e0d67eb9,Belgium,Romania,2,0,2024-06-22,0.9,1.7
+aab219f9,Georgia,Czechia,1,1,2024-06-22,3.0,1.1
+5448c54c,Türkiye,Portugal,0,3,2024-06-22,1.9,0.7
+2351343a,Scotland,Hungary,0,1,2024-06-23,1.2,0.2
+14e2c55d,Switzerland,Germany,1,1,2024-06-23,1.6,0.6
+fde83534,Albania,Spain,0,1,2024-06-24,1.5,0.5
+015e81b4,Croatia,Italy,1,1,2024-06-24,0.9,1.0
+5c5484a4,Denmark,Serbia,0,0,2024-06-25,0.3,0.7
+7f111a22,England,Slovenia,0,0,2024-06-25,0.2,0.8
+c410511b,France,Poland,1,1,2024-06-25,1.2,2.3
+031f8ef3,Netherlands,Austria,2,3,2024-06-25,0.9,1.7
+8824c255,Czechia,Türkiye,1,2,2024-06-26,1.4,1.6
+24322b1d,Georgia,Portugal,2,0,2024-06-26,2.0,1.6
+00199be7,Slovakia,Romania,1,1,2024-06-26,1.2,0.9
+2f0d1c11,Ukraine,Belgium,0,0,2024-06-26,0.9,0.8
+c7429dd6,Germany,Denmark,2,0,2024-06-29,1.2,2.6
+9b4d5970,Switzerland,Italy,2,0,2024-06-29,0.7,1.2
+2b26dc4f,England,Slovakia,2,1,2024-06-30,2.2,1.5
+87e35d10,Spain,Georgia,4,1,2024-06-30,0.2,3.3
+ffae1046,France,Belgium,1,0,2024-07-01,0.2,1.1
+fd6c3c0d,Portugal,Slovenia,0,0,2024-07-01,0.6,2.0
+f575ef3e,Austria,Türkiye,1,2,2024-07-02,0.9,3.1
+82b4d2f5,Romania,Netherlands,0,3,2024-07-02,2.8,0.3
+8e55d3ab,Portugal,France,0,0,2024-07-05,1.1,1.8
+0baf4cfa,Spain,Germany,2,1,2024-07-05,2.1,1.4
+54e21415,England,Switzerland,1,1,2024-07-06,1.5,0.6
+e8c79df4,Netherlands,Türkiye,2,1,2024-07-06,1.3,1.0
+34d4d9d2,Spain,France,2,1,2024-07-09,1.1,0.7
+dbff0752,Netherlands,England,1,2,2024-07-10,1.2,0.5
+e307ecc0,Spain,England,2,1,2024-07-14,0.5,1.9
+b787871d,Empoli,Hellas Verona,0,1,2023-08-19,0.5,0.7
+305afcf5,Frosinone,Napoli,1,3,2023-08-19,1.5,0.9
+8260e428,Genoa,Fiorentina,1,4,2023-08-19,1.0,0.2
+254420f7,Inter,Monza,2,0,2023-08-19,0.8,2.7
+3e38d727,Lecce,Lazio,2,1,2023-08-20,1.6,1.4
+9191f715,Roma,Salernitana,2,2,2023-08-20,0.1,1.9
+32dc37db,Sassuolo,Atalanta,0,2,2023-08-20,1.3,0.4
+8b6e8a62,Udinese,Juventus,0,3,2023-08-20,1.8,1.0
+93dccf6e,Bologna,Milan,0,2,2023-08-21,0.9,1.0
+fdc03e7f,Torino,Cagliari,0,0,2023-08-21,0.4,1.0
+0b355cdd,Frosinone,Atalanta,2,1,2023-08-26,1.6,0.7
+3c6a9d3d,Hellas Verona,Roma,2,1,2023-08-26,1.5,0.7
+4cc2731e,Milan,Torino,4,1,2023-08-26,0.5,3.0
+3d880bc3,Monza,Empoli,2,0,2023-08-26,1.0,2.0
+d179c57a,Fiorentina,Lecce,2,2,2023-08-27,0.3,1.3
+6992283e,Juventus,Bologna,1,1,2023-08-27,0.5,0.8
+e7878318,Lazio,Genoa,0,1,2023-08-27,0.6,1.4
+4401df22,Napoli,Sassuolo,2,0,2023-08-27,0.2,3.5
+631e94b3,Cagliari,Inter,0,2,2023-08-28,0.9,0.6
+767c80b3,Salernitana,Udinese,1,1,2023-08-28,0.8,0.5
+03e9b7f3,Roma,Milan,1,2,2023-09-01,1.5,0.7
+ebe46174,Sassuolo,Hellas Verona,3,1,2023-09-01,0.6,1.7
+6e72c38b,Atalanta,Monza,3,0,2023-09-02,0.4,1.3
+1b8aeae3,Bologna,Cagliari,2,1,2023-09-02,0.5,2.3
+2c2145a0,Napoli,Lazio,1,2,2023-09-02,0.6,1.3
+6a639449,Udinese,Frosinone,0,0,2023-09-02,1.8,1.5
+b14694a6,Empoli,Juventus,0,2,2023-09-03,2.7,0.3
+c59bb445,Inter,Fiorentina,4,0,2023-09-03,0.4,3.7
+79dc2417,Lecce,Salernitana,2,0,2023-09-03,1.1,1.7
+83d4ffcd,Torino,Genoa,1,0,2023-09-03,0.2,0.4
+528f1128,Genoa,Napoli,2,2,2023-09-16,0.9,1.2
+10a39d69,Inter,Milan,5,1,2023-09-16,1.1,2.6
+b3226234,Juventus,Lazio,3,1,2023-09-16,0.6,2.2
+3ac89aa7,Cagliari,Udinese,0,0,2023-09-17,0.7,1.6
+2a18afe9,Fiorentina,Atalanta,3,2,2023-09-17,0.7,1.1
+f3fd4b8a,Frosinone,Sassuolo,4,2,2023-09-17,1.3,2.8
+3cf257a0,Monza,Lecce,1,1,2023-09-17,0.9,2.2
+f164bc78,Roma,Empoli,7,0,2023-09-17,0.2,2.4
+2e114c4b,Hellas Verona,Bologna,0,0,2023-09-18,0.6,0.4
+a9334418,Salernitana,Torino,0,3,2023-09-18,1.8,0.7
+c66e200a,Lecce,Genoa,1,0,2023-09-22,0.3,0.9
+da7586b5,Salernitana,Frosinone,1,1,2023-09-22,0.7,1.1
+5778b5c6,Lazio,Monza,1,1,2023-09-23,1.2,1.0
+bbc5eb68,Milan,Hellas Verona,1,0,2023-09-23,0.6,0.9
+14cf8fd1,Sassuolo,Juventus,4,2,2023-09-23,1.2,1.6
+915c6bb6,Atalanta,Cagliari,2,0,2023-09-24,0.8,1.7
+17137b70,Bologna,Napoli,0,0,2023-09-24,2.1,0.2
+8d6212de,Empoli,Inter,0,1,2023-09-24,1.6,0.3
+fdd625ef,Torino,Roma,1,1,2023-09-24,1.4,0.9
+a7ffc8e0,Udinese,Fiorentina,0,2,2023-09-24,0.5,2.2
+eb1af48a,Juventus,Lecce,1,0,2023-09-26,0.1,1.4
+520c6833,Cagliari,Milan,1,3,2023-09-27,2.1,0.9
+46a8983c,Empoli,Salernitana,1,0,2023-09-27,0.6,3.2
+3e492e66,Hellas Verona,Atalanta,0,1,2023-09-27,1.2,0.5
+e70ac4b1,Inter,Sassuolo,1,2,2023-09-27,1.0,0.9
+69d105e3,Lazio,Torino,2,0,2023-09-27,0.3,0.9
+464aa9ae,Napoli,Udinese,4,1,2023-09-27,0.7,3.3
+c8e4b03a,Frosinone,Fiorentina,1,1,2023-09-28,1.4,0.7
+44c33847,Genoa,Roma,4,1,2023-09-28,1.4,1.1
+9a8e6c44,Monza,Bologna,0,0,2023-09-28,0.7,0.7
+4c10f199,Lecce,Napoli,0,4,2023-09-30,2.5,0.5
+a315e1cc,Milan,Lazio,2,0,2023-09-30,0.5,2.2
+276d542d,Salernitana,Inter,0,4,2023-09-30,2.3,0.6
+13a50e02,Atalanta,Juventus,0,0,2023-10-01,0.2,1.2
+8f129029,Bologna,Empoli,3,0,2023-10-01,0.9,2.4
+0133f321,Roma,Frosinone,2,0,2023-10-01,0.9,0.6
+507d7e86,Udinese,Genoa,2,2,2023-10-01,0.8,1.3
+7dd8d98a,Fiorentina,Cagliari,3,0,2023-10-02,0.8,1.2
+13b84a7a,Sassuolo,Monza,0,1,2023-10-02,1.5,1.4
+ea8ff4b0,Torino,Hellas Verona,0,0,2023-10-02,0.3,0.6
+2397e099,Empoli,Udinese,0,0,2023-10-06,0.7,1.3
+26509ebd,Lecce,Sassuolo,1,1,2023-10-06,1.5,1.7
+3bd415eb,Genoa,Milan,0,1,2023-10-07,0.6,0.5
+b46d0026,Inter,Bologna,2,2,2023-10-07,1.3,0.7
+1d1f902c,Juventus,Torino,2,0,2023-10-07,0.6,1.9
+604ceaa0,Cagliari,Roma,1,4,2023-10-08,2.6,1.7
+ea945c75,Frosinone,Hellas Verona,2,1,2023-10-08,0.8,1.8
+c0603b97,Lazio,Atalanta,3,2,2023-10-08,1.0,1.6
+d0fdea52,Monza,Salernitana,3,0,2023-10-08,0.6,2.8
+2cc7a7ed,Napoli,Fiorentina,1,3,2023-10-08,2.1,1.8
+a4d889b8,Hellas Verona,Napoli,1,3,2023-10-21,2.3,1.3
+b756439f,Sassuolo,Lazio,0,2,2023-10-21,2.3,0.5
+e8141133,Torino,Inter,0,3,2023-10-21,2.5,0.4
+045aca2a,Atalanta,Genoa,2,0,2023-10-22,1.0,1.2
+04811e11,Bologna,Frosinone,2,1,2023-10-22,1.5,1.5
+bea57463,Milan,Juventus,0,1,2023-10-22,1.4,0.3
+87563b45,Roma,Monza,1,0,2023-10-22,0.4,1.7
+6635e569,Salernitana,Cagliari,2,2,2023-10-22,1.7,1.5
+e961a763,Fiorentina,Empoli,0,2,2023-10-23,1.5,1.0
+cd802be7,Udinese,Lecce,1,1,2023-10-23,0.8,2.1
+7f1d09c9,Genoa,Salernitana,1,0,2023-10-27,0.6,0.5
+0c01fc2f,Juventus,Hellas Verona,1,0,2023-10-28,0.3,3.3
+8fe12227,Lecce,Torino,0,1,2023-10-28,0.8,0.5
+4f7ed7cb,Sassuolo,Bologna,1,1,2023-10-28,1.0,0.9
+0272be62,Cagliari,Frosinone,4,3,2023-10-29,1.5,3.4
+027a1ba2,Inter,Roma,1,0,2023-10-29,0.1,2.2
+70a51fa4,Monza,Udinese,1,1,2023-10-29,1.1,0.5
+ede9d5b8,Napoli,Milan,2,2,2023-10-29,2.0,1.7
+6e46ce92,Empoli,Atalanta,0,3,2023-10-30,1.6,0.3
+624e865d,Lazio,Fiorentina,1,0,2023-10-30,0.4,1.9
+f1f6882a,Bologna,Lazio,1,0,2023-11-03,0.5,0.6
+c8fcbfaf,Atalanta,Inter,1,2,2023-11-04,1.3,1.0
+8a7a42ac,Milan,Udinese,0,1,2023-11-04,1.4,0.9
+ab7a7fcd,Salernitana,Napoli,0,2,2023-11-04,1.4,0.3
+56068b2c,Cagliari,Genoa,2,1,2023-11-05,1.0,0.9
+8603814f,Fiorentina,Juventus,0,1,2023-11-05,0.7,0.7
+128aed93,Hellas Verona,Monza,1,3,2023-11-05,0.9,1.0
+4c1693f0,Roma,Lecce,2,1,2023-11-05,0.8,2.0
+5dfc2507,Frosinone,Empoli,2,1,2023-11-06,1.5,0.8
+d9d399b5,Torino,Sassuolo,2,1,2023-11-06,0.5,3.5
+1aa2417e,Genoa,Hellas Verona,1,0,2023-11-10,0.2,1.6
+3de0d6e2,Sassuolo,Salernitana,2,2,2023-11-10,0.8,2.9
+30bc4996,Juventus,Cagliari,2,1,2023-11-11,0.6,2.3
+26587ad3,Lecce,Milan,2,2,2023-11-11,1.1,1.4
+2f8d44e3,Monza,Torino,1,1,2023-11-11,1.0,0.9
+0bdc5ea4,Fiorentina,Bologna,2,1,2023-11-12,1.8,1.4
+93b6cf24,Inter,Frosinone,2,0,2023-11-12,0.7,3.1
+1c159031,Lazio,Roma,0,0,2023-11-12,0.4,0.4
+c54b9d5c,Napoli,Empoli,0,1,2023-11-12,0.5,0.9
+df8d2100,Udinese,Atalanta,1,1,2023-11-12,0.7,1.5
+67af3925,Atalanta,Napoli,1,2,2023-11-25,2.0,1.0
+875da0ea,Milan,Fiorentina,1,0,2023-11-25,1.8,1.8
+0084ffeb,Salernitana,Lazio,2,1,2023-11-25,2.0,1.7
+47ec2cb2,Cagliari,Monza,1,1,2023-11-26,0.7,1.6
+ff49299b,Empoli,Sassuolo,3,4,2023-11-26,2.3,1.4
+1860d133,Frosinone,Genoa,2,1,2023-11-26,1.3,0.6
+5d1039da,Juventus,Inter,1,1,2023-11-26,0.9,0.4
+2b8b1d61,Roma,Udinese,3,1,2023-11-26,0.5,1.4
+a564e4e1,Bologna,Torino,2,0,2023-11-27,0.4,1.5
+d50d93be,Hellas Verona,Lecce,2,2,2023-11-27,1.0,1.7
+54baa72c,Monza,Juventus,1,2,2023-12-01,2.5,0.7
+0780d7e3,Genoa,Empoli,1,1,2023-12-02,0.8,1.0
+e8ae600f,Lazio,Cagliari,1,0,2023-12-02,0.6,2.0
+c2a7440f,Milan,Frosinone,3,1,2023-12-02,0.7,1.2
+d152da0e,Fiorentina,Salernitana,3,0,2023-12-03,0.8,2.5
+5e47db9d,Lecce,Bologna,1,1,2023-12-03,1.2,1.5
+60106a8e,Napoli,Inter,0,3,2023-12-03,2.7,0.6
+78393dd6,Sassuolo,Roma,1,2,2023-12-03,2.3,0.8
+18868f08,Udinese,Hellas Verona,3,3,2023-12-03,1.3,1.9
+426a05d8,Torino,Atalanta,3,0,2023-12-04,0.5,1.7
+f2ffde12,Juventus,Napoli,1,0,2023-12-08,1.2,0.9
+0c234040,Atalanta,Milan,3,2,2023-12-09,1.5,3.3
+5325a9b6,Hellas Verona,Lazio,1,1,2023-12-09,1.0,1.0
+26772f25,Inter,Udinese,4,0,2023-12-09,0.8,3.5
+5f74c6e7,Frosinone,Torino,0,0,2023-12-10,1.2,0.8
+c46b68ad,Monza,Genoa,1,0,2023-12-10,1.4,0.4
+ebfc4b5d,Roma,Fiorentina,1,1,2023-12-10,1.5,0.7
+1935ee01,Salernitana,Bologna,1,2,2023-12-10,2.1,0.5
+9d5df4d8,Cagliari,Sassuolo,2,1,2023-12-11,0.8,1.1
+a83df9d0,Empoli,Lecce,1,1,2023-12-11,0.8,1.4
+c95a31e6,Genoa,Juventus,1,1,2023-12-15,1.7,0.8
+9ca90d35,Lecce,Frosinone,2,1,2023-12-16,1.7,0.7
+1b1b2ce1,Napoli,Cagliari,2,1,2023-12-16,1.1,1.8
+d64c7b97,Torino,Empoli,1,0,2023-12-16,0.3,1.1
+0562758e,Bologna,Roma,2,0,2023-12-17,0.6,0.5
+182d1f9b,Fiorentina,Hellas Verona,1,0,2023-12-17,2.5,0.5
+ebcc474c,Lazio,Inter,0,2,2023-12-17,1.6,1.5
+5c1fc7a4,Milan,Monza,3,0,2023-12-17,1.5,2.0
+2e9fcf23,Udinese,Sassuolo,2,2,2023-12-17,3.0,0.8
+09971293,Atalanta,Salernitana,4,1,2023-12-18,1.3,1.9
+ff7b7785,Empoli,Lazio,0,2,2023-12-22,2.3,0.8
+9c0fc917,Monza,Fiorentina,0,1,2023-12-22,2.0,0.7
+bdb5f23c,Salernitana,Milan,2,2,2023-12-22,2.2,1.4
+fc3e6bb7,Sassuolo,Genoa,1,2,2023-12-22,1.6,1.4
+bf3695d0,Bologna,Atalanta,1,0,2023-12-23,1.2,0.7
+44fc849f,Frosinone,Juventus,1,2,2023-12-23,1.1,0.5
+bd8f8dc3,Hellas Verona,Cagliari,2,0,2023-12-23,0.8,0.9
+a4100b39,Inter,Lecce,2,0,2023-12-23,1.3,2.9
+b532dc3c,Roma,Napoli,2,0,2023-12-23,0.7,1.9
+325f62dc,Torino,Udinese,1,1,2023-12-23,0.9,1.0
+af10add0,Fiorentina,Torino,1,0,2023-12-29,0.3,0.5
+ce6440ec,Genoa,Inter,1,1,2023-12-29,1.8,0.5
+0127e76f,Lazio,Frosinone,3,1,2023-12-29,1.1,1.5
+247f8cd7,Napoli,Monza,0,0,2023-12-29,1.1,2.0
+65cf973f,Atalanta,Lecce,1,0,2023-12-30,1.2,1.1
+9baa497e,Cagliari,Empoli,0,0,2023-12-30,0.3,1.8
+c3c1ffd2,Hellas Verona,Salernitana,0,1,2023-12-30,0.5,0.8
+d034386f,Juventus,Roma,1,0,2023-12-30,0.5,1.1
+2441721c,Milan,Sassuolo,1,0,2023-12-30,0.5,1.5
+9577ee17,Udinese,Bologna,3,0,2023-12-30,0.9,1.1
+430b16c5,Bologna,Genoa,1,1,2024-01-05,0.1,1.3
+79f61c8a,Frosinone,Monza,2,3,2024-01-06,1.3,1.2
+d238abdd,Inter,Hellas Verona,2,1,2024-01-06,1.3,1.9
+77d540ef,Lecce,Cagliari,1,1,2024-01-06,1.0,1.5
+729b1cb3,Sassuolo,Fiorentina,1,0,2024-01-06,1.2,0.9
+84fd252a,Empoli,Milan,0,3,2024-01-07,1.7,0.9
+6d865e81,Roma,Atalanta,1,1,2024-01-07,0.7,2.1
+e74d3589,Salernitana,Juventus,1,2,2024-01-07,2.0,0.8
+6dd86ed1,Torino,Napoli,3,0,2024-01-07,1.0,2.1
+65d51821,Udinese,Lazio,1,2,2024-01-07,0.5,0.7
+6b9bc82f,Genoa,Torino,0,0,2024-01-13,0.4,0.5
+1e1a6ee6,Hellas Verona,Empoli,2,1,2024-01-13,0.8,0.8
+f42d4375,Monza,Inter,1,5,2024-01-13,4.3,1.0
+4481a44c,Napoli,Salernitana,2,1,2024-01-13,0.1,2.2
+91852b28,Cagliari,Bologna,2,1,2024-01-14,0.6,0.7
+b52c1e88,Fiorentina,Udinese,2,2,2024-01-14,1.2,1.3
+945c196b,Lazio,Lecce,1,0,2024-01-14,1.1,0.9
+3877f7ac,Milan,Roma,3,1,2024-01-14,1.4,1.5
+fb9c9cdb,Atalanta,Frosinone,5,0,2024-01-15,0.4,3.7
+a5520dc8,Juventus,Sassuolo,3,0,2024-01-16,0.3,1.2
+4979e519,Roma,Hellas Verona,2,1,2024-01-20,1.1,0.9
+5bfc3571,Udinese,Milan,2,3,2024-01-20,2.6,0.6
+57d1e07a,Empoli,Monza,3,0,2024-01-21,0.8,1.3
+b6ac3781,Frosinone,Cagliari,3,1,2024-01-21,0.6,2.8
+5faf15cc,Lecce,Juventus,0,3,2024-01-21,2.1,0.6
+9513979f,Salernitana,Genoa,1,2,2024-01-21,1.1,0.8
+94279bcd,Cagliari,Torino,1,2,2024-01-26,1.6,2.2
+8d8d45e1,Atalanta,Udinese,2,0,2024-01-27,0.6,1.1
+ae33c4fb,Juventus,Empoli,1,1,2024-01-27,0.8,0.8
+0956366b,Milan,Bologna,2,2,2024-01-27,1.8,3.3
+102c1e1a,Fiorentina,Inter,0,1,2024-01-28,0.5,1.8
+73b5dbc0,Genoa,Lecce,2,1,2024-01-28,1.8,1.7
+4d9bfc36,Hellas Verona,Frosinone,1,1,2024-01-28,1.2,2.2
+5f2e86f8,Lazio,Napoli,0,0,2024-01-28,0.2,0.5
+16c39caa,Monza,Sassuolo,1,0,2024-01-28,0.8,0.4
+d0918b41,Salernitana,Roma,1,2,2024-01-29,1.6,1.2
+28d15df1,Lecce,Fiorentina,3,2,2024-02-02,1.1,2.6
+6b5e4d06,Bologna,Sassuolo,4,2,2024-02-03,0.8,1.1
+fdc54c79,Empoli,Genoa,0,0,2024-02-03,0.6,0.6
+14c72d2c,Frosinone,Milan,2,3,2024-02-03,1.4,1.0
+31094073,Udinese,Monza,0,0,2024-02-03,0.1,0.9
+839bed1a,Atalanta,Lazio,3,1,2024-02-04,1.2,2.3
+df2030e2,Inter,Juventus,1,0,2024-02-04,0.6,1.7
+9333828d,Napoli,Hellas Verona,2,1,2024-02-04,0.9,1.2
+0aa345fd,Torino,Salernitana,0,0,2024-02-04,0.1,0.8
+798802e2,Roma,Cagliari,4,0,2024-02-05,0.6,2.5
+41f47040,Salernitana,Empoli,1,3,2024-02-09,2.2,0.9
+c058cdf4,Cagliari,Lazio,1,3,2024-02-10,1.3,0.8
+7d4cb549,Roma,Inter,2,4,2024-02-10,0.9,0.7
+44120e9d,Sassuolo,Torino,1,1,2024-02-10,1.0,0.4
+50fb8ad3,Bologna,Lecce,4,0,2024-02-11,1.2,1.5
+6d37f665,Fiorentina,Frosinone,5,1,2024-02-11,1.1,2.2
+af2e9e84,Genoa,Atalanta,1,4,2024-02-11,2.1,0.8
+07524327,Milan,Napoli,1,0,2024-02-11,0.7,0.9
+5cba7c58,Monza,Hellas Verona,0,0,2024-02-11,0.7,0.7
+70d80153,Juventus,Udinese,0,1,2024-02-12,0.7,1.7
+218232ce,Bologna,Fiorentina,2,0,2024-02-14,0.9,2.1
+19a73f2f,Inter,Salernitana,4,0,2024-02-16,0.0,3.9
+adbef025,Torino,Lecce,2,0,2024-02-16,0.5,1.2
+1e203a3e,Atalanta,Sassuolo,3,0,2024-02-17,1.6,4.2
+b690885f,Hellas Verona,Juventus,2,2,2024-02-17,1.8,0.6
+bf05bb55,Napoli,Genoa,1,1,2024-02-17,0.3,1.4
+802e40b2,Empoli,Fiorentina,1,1,2024-02-18,0.7,1.0
+ea07d8c6,Frosinone,Roma,0,3,2024-02-18,1.8,1.4
+c79de8a0,Lazio,Bologna,1,2,2024-02-18,1.4,1.1
+c735ea6b,Monza,Milan,4,2,2024-02-18,1.3,1.8
+8b73e145,Udinese,Cagliari,1,1,2024-02-18,0.2,1.0
+e7598003,Torino,Lazio,0,2,2024-02-22,0.5,1.5
+35d4984a,Bologna,Hellas Verona,2,0,2024-02-23,0.6,1.6
+e0b0bdc5,Genoa,Udinese,2,0,2024-02-24,0.3,1.3
+9eb1114c,Salernitana,Monza,0,2,2024-02-24,2.4,0.9
+fd1c0d24,Sassuolo,Empoli,2,3,2024-02-24,2.0,1.7
+9809e688,Cagliari,Napoli,1,1,2024-02-25,1.3,0.7
+21134622,Juventus,Frosinone,3,2,2024-02-25,0.4,2.0
+e65f6ac6,Lecce,Inter,0,4,2024-02-25,2.9,1.0
+030a751b,Milan,Atalanta,1,1,2024-02-25,1.1,1.3
+76d3d638,Fiorentina,Lazio,2,1,2024-02-26,0.3,2.5
+60c4d8af,Roma,Torino,3,2,2024-02-26,0.6,1.4
+70446f62,Inter,Atalanta,4,0,2024-02-28,0.3,2.0
+3019b840,Sassuolo,Napoli,1,6,2024-02-28,2.7,0.3
+2c7b2e0f,Lazio,Milan,0,1,2024-03-01,1.0,1.3
+d4ae6c82,Monza,Roma,1,4,2024-03-02,1.8,0.9
+576d1e86,Torino,Fiorentina,0,0,2024-03-02,0.6,0.6
+9b628018,Udinese,Salernitana,1,1,2024-03-02,1.1,1.8
+27aab55a,Atalanta,Bologna,1,2,2024-03-03,1.3,1.4
+af92650d,Empoli,Cagliari,0,1,2024-03-03,0.6,1.4
+0960e2c8,Frosinone,Lecce,1,1,2024-03-03,1.2,1.3
+90141069,Hellas Verona,Sassuolo,1,0,2024-03-03,0.5,0.4
+51db492f,Napoli,Juventus,2,1,2024-03-03,1.6,2.1
+c4577218,Inter,Genoa,2,1,2024-03-04,0.8,1.8
+9d189799,Napoli,Torino,1,1,2024-03-08,0.9,1.6
+de22618d,Bologna,Inter,0,1,2024-03-09,0.9,0.6
+446ec5e0,Cagliari,Salernitana,4,2,2024-03-09,0.9,3.3
+f8dba673,Genoa,Monza,2,3,2024-03-09,1.7,2.1
+def050b8,Sassuolo,Frosinone,1,0,2024-03-09,1.3,0.6
+363812cb,Fiorentina,Roma,2,2,2024-03-10,0.6,2.1
+b18f50f9,Juventus,Atalanta,2,2,2024-03-10,0.5,1.3
+d48f5312,Lecce,Hellas Verona,0,1,2024-03-10,0.6,1.0
+11b229fa,Milan,Empoli,1,0,2024-03-10,0.2,0.8
+b33bb354,Lazio,Udinese,1,2,2024-03-11,1.2,2.2
+241bbdd3,Empoli,Bologna,0,1,2024-03-15,2.3,1.0
+8ec58037,Frosinone,Lazio,2,3,2024-03-16,2.9,2.1
+d2087228,Monza,Cagliari,1,0,2024-03-16,0.4,1.0
+4a8236bd,Salernitana,Lecce,0,1,2024-03-16,1.2,1.2
+6309f668,Udinese,Torino,0,2,2024-03-16,1.0,0.4
+73d4a95b,Hellas Verona,Milan,1,3,2024-03-17,2.7,0.5
+3ea9e35f,Inter,Napoli,1,1,2024-03-17,1.4,1.6
+4406f8bc,Juventus,Genoa,0,0,2024-03-17,0.2,1.0
+a59ffc20,Roma,Sassuolo,1,0,2024-03-17,0.5,0.7
+a9ac1dd4,Fiorentina,Milan,1,2,2024-03-30,3.1,1.4
+949865c6,Genoa,Frosinone,1,1,2024-03-30,0.8,1.5
+2b4a58d1,Lazio,Juventus,1,0,2024-03-30,0.5,1.1
+45e6d215,Napoli,Atalanta,0,3,2024-03-30,0.9,1.6
+a797c77d,Torino,Monza,1,0,2024-03-30,0.8,1.6
+b2dfb23d,Bologna,Salernitana,3,0,2024-04-01,0.6,1.6
+f7d8a40e,Cagliari,Hellas Verona,1,1,2024-04-01,1.4,0.6
+58bfb9d7,Inter,Empoli,2,0,2024-04-01,0.5,2.1
+e48fdc60,Lecce,Roma,0,0,2024-04-01,1.3,1.8
+f6e582c5,Sassuolo,Udinese,1,1,2024-04-01,1.5,1.2
+093991c7,Salernitana,Sassuolo,2,2,2024-04-05,2.3,1.2
+4b35fb0d,Empoli,Torino,3,2,2024-04-06,2.1,0.5
+43765d2c,Milan,Lecce,3,0,2024-04-06,0.5,1.5
+c6904d7c,Roma,Lazio,1,0,2024-04-06,0.4,0.7
+3a4f86ae,Cagliari,Atalanta,2,1,2024-04-07,0.5,0.7
+9e8b48ec,Frosinone,Bologna,0,0,2024-04-07,2.0,0.4
+b266d1c5,Hellas Verona,Genoa,1,2,2024-04-07,2.2,1.3
+186d535c,Juventus,Fiorentina,1,0,2024-04-07,0.5,1.9
+9bd21fb8,Monza,Napoli,2,4,2024-04-07,2.2,0.4
+13a593d3,Udinese,Inter,1,2,2024-04-08,3.3,0.1
+500cf804,Lazio,Salernitana,4,1,2024-04-12,0.6,1.9
+7ae9f1cb,Bologna,Monza,0,0,2024-04-13,0.4,2.1
+e1660e90,Lecce,Empoli,1,0,2024-04-13,0.1,2.6
+df4af29b,Torino,Juventus,0,0,2024-04-13,1.2,0.6
+6fa3136b,Inter,Cagliari,2,2,2024-04-14,1.1,2.0
+4cd52f7a,Napoli,Frosinone,2,2,2024-04-14,2.4,2.2
+55d35708,Sassuolo,Milan,3,3,2024-04-14,2.8,1.2
+6a69ffd2,Atalanta,Hellas Verona,2,2,2024-04-15,1.5,1.5
+f4f2aa58,Fiorentina,Genoa,1,1,2024-04-15,1.3,1.5
+9886fa0c,Cagliari,Juventus,2,2,2024-04-19,0.7,2.2
+a83ed0d9,Genoa,Lazio,0,1,2024-04-19,1.0,0.5
+08b10a76,Empoli,Napoli,1,0,2024-04-20,0.6,0.9
+e1ddfae8,Hellas Verona,Udinese,1,0,2024-04-20,1.7,0.8
+8959e7b1,Monza,Atalanta,1,2,2024-04-21,1.5,1.1
+fcfc5c95,Salernitana,Fiorentina,0,2,2024-04-21,2.0,0.2
+d1e0f970,Sassuolo,Lecce,0,3,2024-04-21,2.3,0.6
+ee365788,Torino,Frosinone,0,0,2024-04-21,0.6,0.6
+f8a1cbc3,Milan,Inter,1,2,2024-04-22,2.0,2.2
+483d3341,Roma,Bologna,1,3,2024-04-22,1.1,2.0
+bca64d25,Udinese,Roma,1,2,2024-04-25,1.4,0.6
+4fefb5fb,Frosinone,Salernitana,3,0,2024-04-26,1.4,1.7
+023acbca,Juventus,Milan,0,0,2024-04-27,0.3,1.4
+730f4d2a,Lazio,Hellas Verona,1,0,2024-04-27,0.6,1.1
+04472974,Lecce,Monza,1,1,2024-04-27,1.1,0.9
+526fed3e,Atalanta,Empoli,2,0,2024-04-28,0.4,1.9
+e7aba6c2,Bologna,Udinese,1,1,2024-04-28,0.7,0.7
+a325ac75,Fiorentina,Sassuolo,5,1,2024-04-28,0.3,3.2
+dbd84631,Inter,Torino,2,0,2024-04-28,0.5,1.7
+5820452a,Napoli,Roma,2,2,2024-04-28,1.6,3.0
+29911872,Genoa,Cagliari,3,0,2024-04-29,1.1,1.2
+b1ee8734,Torino,Bologna,0,0,2024-05-03,0.2,0.7
+4a66cc9f,Monza,Lazio,2,2,2024-05-04,1.4,1.7
+ed10c7dd,Sassuolo,Inter,1,0,2024-05-04,1.1,0.3
+37175126,Cagliari,Lecce,1,1,2024-05-05,1.8,1.0
+8e717098,Empoli,Frosinone,0,0,2024-05-05,1.2,0.3
+f7dadfce,Hellas Verona,Fiorentina,2,1,2024-05-05,0.9,1.9
+a1381aec,Milan,Genoa,3,3,2024-05-05,1.0,2.8
+f1a8a603,Roma,Juventus,1,1,2024-05-05,1.2,1.7
+4d799b02,Salernitana,Atalanta,1,2,2024-05-06,1.9,0.5
+03676818,Udinese,Napoli,1,1,2024-05-06,0.8,0.7
+74782a23,Frosinone,Inter,0,5,2024-05-10,1.8,1.3
+dec7c7ae,Milan,Cagliari,5,1,2024-05-11,1.5,3.3
+faae1fb0,Napoli,Bologna,0,2,2024-05-11,1.4,1.5
+9eba4ff1,Atalanta,Roma,2,1,2024-05-12,1.2,2.7
+4e7774b9,Genoa,Sassuolo,2,1,2024-05-12,1.7,0.9
+cee937fb,Hellas Verona,Torino,1,2,2024-05-12,0.5,1.2
+8724a3c4,Juventus,Salernitana,1,1,2024-05-12,0.8,2.3
+f6279636,Lazio,Empoli,2,0,2024-05-12,1.2,1.7
+10f0c822,Fiorentina,Monza,2,1,2024-05-13,0.7,2.5
+515646b5,Lecce,Udinese,0,2,2024-05-13,1.4,0.4
+b2fbe157,Fiorentina,Napoli,2,2,2024-05-17,1.2,0.6
+d63c561d,Lecce,Atalanta,0,2,2024-05-18,1.6,1.3
+a6891295,Torino,Milan,3,1,2024-05-18,1.9,0.9
+d6135ea2,Inter,Lazio,1,1,2024-05-19,0.6,1.4
+ab8f65b4,Monza,Frosinone,0,1,2024-05-19,2.0,1.0
+44d3d4bd,Roma,Genoa,1,0,2024-05-19,0.5,0.8
+fdf3012f,Sassuolo,Cagliari,0,2,2024-05-19,1.5,0.3
+bcf20196,Udinese,Empoli,1,1,2024-05-19,0.8,1.2
+f98081f6,Bologna,Juventus,3,3,2024-05-20,0.7,1.4
+59f4da77,Salernitana,Hellas Verona,1,2,2024-05-20,2.1,0.6
+833bac38,Cagliari,Fiorentina,2,3,2024-05-23,2.0,1.9
+0411cef1,Genoa,Bologna,2,0,2024-05-24,1.0,1.5
+b0036fc8,Juventus,Monza,2,0,2024-05-25,0.6,0.9
+9492fa68,Milan,Salernitana,3,3,2024-05-25,1.7,3.0
+a2652733,Atalanta,Torino,3,0,2024-05-26,1.1,2.6
+2ee9be16,Empoli,Roma,2,1,2024-05-26,1.3,2.6
+65f327b4,Frosinone,Udinese,0,1,2024-05-26,0.7,0.8
+d97ac2fa,Hellas Verona,Inter,2,2,2024-05-26,2.4,1.7
+2b4865cf,Lazio,Sassuolo,1,1,2024-05-26,1.1,1.0
+c234b266,Napoli,Lecce,0,0,2024-05-26,0.5,1.5
+ceb127e3,Atalanta,Fiorentina,2,3,2024-06-02,1.2,1.7
+e1942888,Empoli,Monza,0,0,2024-08-17,0.3,0.5
+5dd9a8ae,Genoa,Inter,2,2,2024-08-17,1.9,2.1
+6321e075,Milan,Torino,2,2,2024-08-17,1.0,2.1
+99186416,Parma,Fiorentina,1,1,2024-08-17,0.7,1.7
+a538d1ae,Bologna,Udinese,1,1,2024-08-18,0.9,3.2
+8314db9d,Cagliari,Roma,0,0,2024-08-18,0.9,1.0
+6a1d7fbe,Hellas Verona,Napoli,3,0,2024-08-18,1.0,1.7
+8c25dfec,Lazio,Venezia,3,1,2024-08-18,0.6,2.4
+888690a6,Juventus,Como,3,0,2024-08-19,0.2,1.2
+5b248995,Lecce,Atalanta,0,4,2024-08-19,1.7,1.5
+bf16fd3f,Inter,Lecce,2,0,2024-08-24,0.3,2.4
+d9489d1e,Monza,Genoa,0,1,2024-08-24,0.7,0.4
+d2885a35,Parma,Milan,2,1,2024-08-24,1.9,1.7
+b6b8cabd,Udinese,Lazio,2,1,2024-08-24,1.3,0.8
+cab6fee7,Fiorentina,Venezia,0,0,2024-08-25,0.6,0.9
+cd189339,Napoli,Bologna,3,0,2024-08-25,0.6,2.5
+31d64d59,Roma,Empoli,1,2,2024-08-25,2.7,2.1
+324b2f87,Torino,Atalanta,2,1,2024-08-25,3.0,2.4
+0948742e,Cagliari,Como,1,1,2024-08-26,1.5,0.8
+22c07009,Hellas Verona,Juventus,0,3,2024-08-26,1.2,0.5
+adc30b79,Inter,Atalanta,4,0,2024-08-30,1.4,1.3
+55203d33,Venezia,Torino,0,1,2024-08-30,1.0,0.8
+bd4cd3af,Bologna,Empoli,1,1,2024-08-31,1.0,1.3
+105b1a82,Lazio,Milan,2,2,2024-08-31,1.3,2.1
+25367b4b,Lecce,Cagliari,1,0,2024-08-31,1.8,1.7
+f6ed3bc4,Napoli,Parma,2,1,2024-08-31,1.7,2.2
+2fc37926,Fiorentina,Monza,2,2,2024-09-01,0.3,2.0
+aab74d02,Genoa,Hellas Verona,0,2,2024-09-01,1.5,1.5
+6a978d77,Juventus,Roma,0,0,2024-09-01,0.3,0.5
+24249630,Udinese,Como,1,0,2024-09-01,1.6,1.0
+30c9c7af,Como,Bologna,2,2,2024-09-14,1.2,1.2
+5ede3e48,Empoli,Juventus,0,0,2024-09-14,0.9,0.5
+ec4ceae1,Milan,Venezia,4,0,2024-09-14,0.3,2.2
+c69565c7,Atalanta,Fiorentina,3,2,2024-09-15,1.7,1.7
+226b0118,Cagliari,Napoli,0,4,2024-09-15,1.9,1.0
+ad2de1d0,Genoa,Roma,1,1,2024-09-15,2.2,1.2
+cb14ff92,Monza,Inter,1,1,2024-09-15,1.7,0.2
+dab3859c,Torino,Lecce,0,0,2024-09-15,1.6,0.4
+45f09f95,Lazio,Hellas Verona,2,1,2024-09-16,0.8,1.2
+580f27c1,Parma,Udinese,2,3,2024-09-16,2.5,0.8
+89a8e948,Cagliari,Empoli,0,2,2024-09-20,0.8,2.2
+2e904a65,Hellas Verona,Torino,2,3,2024-09-20,2.2,0.5
+87a4e1ae,Juventus,Napoli,0,0,2024-09-21,0.3,0.3
+8aed6358,Lecce,Parma,2,2,2024-09-21,2.0,1.5
+2cd93038,Venezia,Genoa,2,0,2024-09-21,0.5,1.7
+ad104788,Fiorentina,Lazio,2,1,2024-09-22,1.0,2.7
+5ceec90c,Inter,Milan,1,2,2024-09-22,1.7,0.7
+9c510611,Monza,Bologna,1,2,2024-09-22,0.8,0.6
+2c1f7af3,Roma,Udinese,3,0,2024-09-22,0.7,1.9
+3e592227,Atalanta,Como,2,3,2024-09-24,1.1,1.6
+6d6624e2,Milan,Lecce,3,0,2024-09-27,0.5,1.6
+5ebd3c92,Bologna,Atalanta,1,1,2024-09-28,2.0,0.1
+b21bad0d,Genoa,Juventus,0,3,2024-09-28,2.6,0.4
+a87c6b35,Udinese,Inter,2,3,2024-09-28,2.2,0.8
+1b4d793e,Como,Hellas Verona,3,2,2024-09-29,1.1,2.2
+11c1605f,Empoli,Fiorentina,0,0,2024-09-29,0.7,0.4
+54f6fa48,Napoli,Monza,2,0,2024-09-29,0.3,1.1
+ec69829c,Roma,Venezia,2,1,2024-09-29,1.7,1.7
+caf6a7d2,Torino,Lazio,2,3,2024-09-29,2.0,0.7
+df2ec112,Parma,Cagliari,2,3,2024-09-30,2.4,2.4
+f8385042,Hellas Verona,Venezia,2,1,2024-10-04,0.9,2.3
+e474c2fe,Napoli,Como,3,1,2024-10-04,0.4,1.9
+b1035fb5,Atalanta,Genoa,5,1,2024-10-05,0.7,3.6
+282abdf2,Inter,Torino,3,2,2024-10-05,1.6,2.4
+e86c2b7c,Udinese,Lecce,1,0,2024-10-05,0.5,0.9
+0ca23022,Bologna,Parma,0,0,2024-10-06,0.8,0.8
+7b49f33b,Fiorentina,Milan,2,1,2024-10-06,2.6,1.5
+3f957426,Juventus,Cagliari,1,1,2024-10-06,1.1,2.4
+6b642876,Lazio,Empoli,2,1,2024-10-06,0.5,2.1
+d19770cf,Monza,Roma,1,1,2024-10-06,1.1,1.1
+0e383c84,Como,Parma,1,1,2024-10-19,0.5,1.3
+b69fbc8e,Genoa,Bologna,2,2,2024-10-19,0.7,0.4
+2a7043fd,Juventus,Lazio,1,0,2024-10-19,0.1,1.3
+c9b4f966,Milan,Udinese,1,0,2024-10-19,0.4,1.2
+1d1a4e0d,Cagliari,Torino,3,2,2024-10-20,1.4,1.6
+e486a986,Empoli,Napoli,0,1,2024-10-20,1.3,0.7
+015e4919,Lecce,Fiorentina,0,6,2024-10-20,2.2,0.2
+f65c16b7,Roma,Inter,0,1,2024-10-20,1.0,1.0
+2ec189f4,Venezia,Atalanta,0,2,2024-10-20,1.4,0.8
+1bf8a854,Hellas Verona,Monza,0,3,2024-10-21,1.4,0.9
+05c25e1e,Torino,Como,1,0,2024-10-25,1.4,1.3
+8bd5bba7,Udinese,Cagliari,2,0,2024-10-25,0.4,1.0
+8e432430,Atalanta,Hellas Verona,6,1,2024-10-26,0.2,2.4
+69ffe801,Napoli,Lecce,1,0,2024-10-26,0.7,2.7
+54bfe5ba,Fiorentina,Roma,5,1,2024-10-27,0.8,3.7
+1e164a6c,Inter,Juventus,4,4,2024-10-27,2.1,3.0
+67b8955a,Lazio,Genoa,3,0,2024-10-27,0.3,2.1
+ee055cc8,Monza,Venezia,2,2,2024-10-27,0.4,1.1
+edec012f,Parma,Empoli,1,1,2024-10-27,0.2,1.7
+cbe119cc,Cagliari,Bologna,0,2,2024-10-29,0.9,0.8
+1affd587,Lecce,Hellas Verona,1,0,2024-10-29,0.3,1.7
+da11c409,Milan,Napoli,0,2,2024-10-29,1.1,0.7
+75f96018,Atalanta,Monza,2,0,2024-10-30,0.1,1.2
+a2a61f01,Empoli,Inter,0,3,2024-10-30,1.1,0.3
+bc7ed4c6,Juventus,Parma,2,2,2024-10-30,1.2,2.4
+50efe60a,Venezia,Udinese,3,2,2024-10-30,0.9,2.3
+128ece0d,Como,Lazio,1,5,2024-10-31,2.9,1.1
+463a6b71,Genoa,Fiorentina,0,1,2024-10-31,0.5,0.9
+2d7f07e3,Roma,Torino,1,0,2024-10-31,0.2,0.6
+131fb996,Bologna,Lecce,1,0,2024-11-02,0.7,1.4
+6e2f5ec6,Monza,Milan,0,1,2024-11-02,2.5,1.2
+2680b604,Udinese,Juventus,0,2,2024-11-02,1.3,0.6
+0c67c952,Hellas Verona,Roma,3,2,2024-11-03,1.7,1.1
+f6ba9194,Inter,Venezia,1,0,2024-11-03,1.0,2.4
+31d4ab7d,Napoli,Atalanta,0,3,2024-11-03,1.2,0.8
+7c298383,Torino,Fiorentina,0,1,2024-11-03,0.6,0.6
+cf8ba91a,Empoli,Como,1,0,2024-11-04,0.4,0.6
+b3fa2e3c,Lazio,Cagliari,2,1,2024-11-04,0.3,2.9
+d8a1b693,Parma,Genoa,0,1,2024-11-04,1.4,1.1
+ee077ae1,Genoa,Como,1,1,2024-11-07,1.4,0.9
+dac22768,Lecce,Empoli,1,1,2024-11-08,0.6,1.6
+23026b6f,Cagliari,Milan,3,3,2024-11-09,3.3,1.7
+51962386,Juventus,Torino,2,0,2024-11-09,0.4,1.7
+8b0cfe1d,Venezia,Parma,1,2,2024-11-09,1.0,0.8
+fcc555f9,Atalanta,Udinese,2,1,2024-11-10,0.8,0.9
+c9d4e593,Fiorentina,Hellas Verona,3,1,2024-11-10,0.4,1.9
+8a3f7f87,Inter,Napoli,1,1,2024-11-10,0.7,1.5
+90116cdb,Monza,Lazio,0,1,2024-11-10,1.6,1.0
+b93d514f,Roma,Bologna,2,3,2024-11-10,1.7,1.3
+f40e8673,Hellas Verona,Inter,0,5,2024-11-23,3.2,0.5
+3d6d1119,Milan,Juventus,0,0,2024-11-23,0.4,0.3
+b0abcd14,Parma,Atalanta,1,3,2024-11-23,2.7,0.7
+8ad4e7bb,Como,Fiorentina,0,2,2024-11-24,0.8,1.1
+6a1e4119,Genoa,Cagliari,2,2,2024-11-24,3.0,1.7
+b823aa0b,Lazio,Bologna,3,0,2024-11-24,0.1,2.0
+5993c0f0,Napoli,Roma,1,0,2024-11-24,0.6,1.4
+a9bc6012,Torino,Monza,1,1,2024-11-24,0.9,1.0
+249de3fa,Empoli,Udinese,1,1,2024-11-25,0.8,0.1
+616c48a5,Venezia,Lecce,0,1,2024-11-25,0.7,2.5
+b2adb745,Cagliari,Hellas Verona,1,0,2024-11-29,0.7,1.8
+75f6e865,Bologna,Venezia,3,0,2024-11-30,0.4,3.2
+54be0ee5,Como,Monza,1,1,2024-11-30,1.3,1.3
+1d6a6ac7,Milan,Empoli,3,0,2024-11-30,0.5,2.3
+6663ff8b,Lecce,Juventus,1,1,2024-12-01,1.3,1.5
+655f8c05,Parma,Lazio,3,1,2024-12-01,2.5,1.5
+148db1a0,Torino,Napoli,0,1,2024-12-01,1.4,0.3
+bb7b34e8,Udinese,Genoa,0,2,2024-12-01,1.6,0.2
+74396b38,Roma,Atalanta,0,2,2024-12-02,1.3,0.4
+3c291cde,Atalanta,Milan,2,1,2024-12-06,0.7,2.1
+36a8e6c1,Inter,Parma,3,1,2024-12-06,0.4,1.8
+5209f745,Genoa,Torino,0,0,2024-12-07,0.6,0.5
+f335a456,Juventus,Bologna,2,2,2024-12-07,0.9,1.0
+2f4aac74,Roma,Lecce,4,1,2024-12-07,0.9,1.8
+a3f7f065,Fiorentina,Cagliari,1,0,2024-12-08,0.8,0.3
+52d351e8,Hellas Verona,Empoli,1,4,2024-12-08,1.3,0.9
+aea55efb,Napoli,Lazio,0,1,2024-12-08,0.3,0.5
+4171bb56,Venezia,Como,2,2,2024-12-08,1.0,0.3
+fbe80ac9,Monza,Udinese,1,2,2024-12-09,1.2,1.3
+33b426d2,Empoli,Torino,0,1,2024-12-13,1.0,0.6
+69244b8a,Cagliari,Atalanta,0,1,2024-12-14,1.5,1.4
+6eb424b7,Juventus,Venezia,2,2,2024-12-14,0.4,2.1
+700e4d44,Udinese,Napoli,1,3,2024-12-14,2.2,1.4
+a4be7984,Bologna,Fiorentina,1,0,2024-12-15,1.0,1.2
+27c53562,Como,Roma,2,0,2024-12-15,0.3,1.2
+4bd3b181,Lecce,Monza,2,1,2024-12-15,0.6,1.5
+715aa683,Milan,Genoa,0,0,2024-12-15,0.3,1.1
+c31235f0,Parma,Hellas Verona,2,3,2024-12-15,2.6,1.9
+180750a4,Lazio,Inter,0,6,2024-12-16,2.0,0.4
+95273d30,Hellas Verona,Milan,0,1,2024-12-20,0.8,0.7
+f40ec8ec,Genoa,Napoli,1,2,2024-12-21,1.2,1.0
+e9e5a4d3,Lecce,Lazio,1,2,2024-12-21,1.6,0.7
+b6364093,Torino,Bologna,0,2,2024-12-21,1.7,0.3
+8ea96d1a,Atalanta,Empoli,3,2,2024-12-22,1.3,1.3
+d259dc6c,Monza,Juventus,1,2,2024-12-22,1.8,1.3
+ee646ed8,Roma,Parma,5,0,2024-12-22,0.4,5.4
+e97ff3c8,Venezia,Cagliari,2,1,2024-12-22,2.1,1.5
+bc6b88d2,Fiorentina,Udinese,1,2,2024-12-23,0.9,2.1
+815f82e8,Inter,Como,2,0,2024-12-23,0.3,1.6
+a4004016,Cagliari,Inter,0,3,2024-12-28,3.2,0.3
+6d5e84f9,Empoli,Genoa,1,2,2024-12-28,1.8,1.3
+864b029d,Lazio,Atalanta,1,1,2024-12-28,2.7,0.6
+45c4ef98,Parma,Monza,2,1,2024-12-28,2.2,1.4
+866b53df,Juventus,Fiorentina,2,2,2024-12-29,1.0,1.5
+3f619cbf,Milan,Roma,1,1,2024-12-29,1.3,1.9
+84d5d1b8,Napoli,Venezia,1,0,2024-12-29,0.2,1.9
+eda442e1,Udinese,Torino,2,2,2024-12-29,0.6,0.7
+8607729b,Bologna,Hellas Verona,2,3,2024-12-30,0.8,2.2
+e75996b8,Como,Lecce,2,0,2024-12-30,0.4,2.0
+b061fbf8,Fiorentina,Napoli,0,3,2025-01-04,1.6,1.0
+9a2501ce,Hellas Verona,Udinese,0,0,2025-01-04,0.8,1.0
+81fed71a,Venezia,Empoli,1,1,2025-01-04,1.8,0.8
+02f898b8,Lecce,Genoa,0,0,2025-01-05,1.1,0.6
+91f9e319,Monza,Cagliari,1,2,2025-01-05,0.8,1.4
+5e0b2192,Roma,Lazio,2,0,2025-01-05,0.9,1.1
+cdeef583,Torino,Parma,0,0,2025-01-05,0.4,1.1
+f8c231d6,Lazio,Como,1,1,2025-01-10,2.0,0.5
+fad008cb,Empoli,Lecce,1,3,2025-01-11,1.5,1.4
+48765cf8,Milan,Cagliari,1,1,2025-01-11,0.4,2.7
+ccb3439a,Torino,Juventus,1,1,2025-01-11,0.9,0.6
+69cd8e7c,Udinese,Atalanta,0,0,2025-01-11,0.2,1.5
+a5eda625,Bologna,Roma,2,2,2025-01-12,1.4,2.0
+ac1441eb,Genoa,Parma,1,0,2025-01-12,0.4,1.2
+340f5b84,Napoli,Hellas Verona,2,0,2025-01-12,0.3,1.1
+358fd054,Venezia,Inter,0,1,2025-01-12,1.9,0.4
+d27a6eb4,Monza,Fiorentina,2,1,2025-01-13,1.4,0.7
+167a39df,Atalanta,Juventus,1,1,2025-01-14,1.5,1.4
+c8bcd0d8,Como,Milan,1,2,2025-01-14,1.3,1.4
+276006d8,Inter,Bologna,2,2,2025-01-15,0.6,1.7
+00edb7b5,Roma,Genoa,3,1,2025-01-17,0.5,1.6
+c60e5b0e,Atalanta,Napoli,2,3,2025-01-18,0.8,0.7
+9f9010d6,Bologna,Monza,3,1,2025-01-18,0.5,1.8
+4ba45ccb,Juventus,Milan,2,0,2025-01-18,0.9,1.1
+25c00123,Cagliari,Lecce,4,1,2025-01-19,0.4,2.6
+15a113e1,Fiorentina,Torino,1,1,2025-01-19,0.4,1.5
+a125644d,Hellas Verona,Lazio,0,3,2025-01-19,1.5,1.3
+94972e08,Inter,Empoli,3,1,2025-01-19,0.4,2.1
+fa8b77b9,Parma,Venezia,1,1,2025-01-19,1.1,1.6
+0e2d0788,Como,Udinese,4,1,2025-01-20,0.6,1.4
+ef7d0127,Torino,Cagliari,2,0,2025-01-24,0.3,1.5
+b003f7e9,Como,Atalanta,1,2,2025-01-25,1.0,0.8
+23c955ea,Empoli,Bologna,1,1,2025-01-25,0.7,0.6
+8e264909,Napoli,Juventus,2,1,2025-01-25,0.8,2.3
+5f421e14,Lazio,Fiorentina,1,2,2025-01-26,0.7,1.4
+c93d7be3,Lecce,Inter,0,4,2025-01-26,2.1,0.9
+212a47ce,Milan,Parma,3,2,2025-01-26,1.6,2.2
+bab3336a,Udinese,Roma,1,2,2025-01-26,2.7,0.8
+3cf963e6,Genoa,Monza,2,0,2025-01-27,0.4,2.6
+172aa746,Venezia,Hellas Verona,1,1,2025-01-27,1.6,0.6
+be735978,Parma,Lecce,1,3,2025-01-31,0.7,1.9
+5ce2b496,Atalanta,Torino,1,1,2025-02-01,0.6,2.9
+313b466d,Bologna,Como,2,0,2025-02-01,0.5,1.5
+95dc31fb,Monza,Hellas Verona,0,1,2025-02-01,0.9,0.4
+55a39dc2,Udinese,Venezia,3,2,2025-02-01,1.2,0.6
+d04f2be7,Fiorentina,Genoa,2,1,2025-02-02,1.6,0.7
+448d4707,Juventus,Empoli,4,1,2025-02-02,0.8,1.8
+c14ebb74,Milan,Inter,1,1,2025-02-02,1.3,0.6
+bc8eb4c8,Roma,Napoli,1,1,2025-02-02,0.4,0.5
+4b57b989,Cagliari,Lazio,1,2,2025-02-03,1.5,1.6
+f7e35659,Fiorentina,Inter,3,0,2025-02-06,0.4,1.0
+3278f598,Como,Juventus,1,2,2025-02-07,1.1,0.9
+3af8a61d,Empoli,Milan,0,2,2025-02-08,1.3,0.7
+d1303859,Hellas Verona,Atalanta,0,5,2025-02-08,2.2,1.6
+094512d6,Torino,Genoa,1,1,2025-02-08,0.3,0.7
+23f6ed48,Cagliari,Parma,2,1,2025-02-09,0.8,1.2
+a8e48bad,Lazio,Monza,5,1,2025-02-09,0.9,3.2
+2b41c316,Lecce,Bologna,0,0,2025-02-09,0.8,0.4
+2d512f04,Napoli,Udinese,1,1,2025-02-09,0.8,1.1
+99a32fd5,Venezia,Roma,0,1,2025-02-09,1.6,0.7
+ccfbf3d4,Inter,Fiorentina,2,1,2025-02-10,0.9,2.2
+a88cd10b,Bologna,Torino,3,2,2025-02-14,1.0,2.3
+aad0599d,Atalanta,Cagliari,0,0,2025-02-15,0.2,0.4
+95099d4b,Lazio,Napoli,2,2,2025-02-15,0.3,0.7
+70955f6e,Milan,Hellas Verona,1,0,2025-02-15,0.4,2.1
+02aa80e2,Fiorentina,Como,0,2,2025-02-16,0.8,0.3
+1937abc6,Juventus,Inter,1,0,2025-02-16,1.8,1.3
+eccedcc2,Monza,Lecce,0,0,2025-02-16,0.9,0.2
+375b1b94,Parma,Roma,0,1,2025-02-16,1.1,0.2
+1fbf8daa,Udinese,Empoli,3,0,2025-02-16,2.1,2.3
+696a318f,Genoa,Venezia,2,0,2025-02-17,0.5,1.5
+9ec509fe,Lecce,Udinese,0,1,2025-02-21,1.6,0.4
+d32f9068,Inter,Genoa,1,0,2025-02-22,1.3,1.5
+ebb1f74f,Parma,Bologna,2,0,2025-02-22,0.7,1.1
+e6575a92,Torino,Milan,2,1,2025-02-22,2.4,0.3
+48f3bc32,Venezia,Lazio,0,0,2025-02-22,1.1,0.8
+e87e1d99,Cagliari,Juventus,0,1,2025-02-23,2.1,0.3
+f232cc45,Como,Napoli,2,1,2025-02-23,1.2,0.7
+89964eba,Empoli,Atalanta,0,5,2025-02-23,2.1,0.9
+e156f514,Hellas Verona,Fiorentina,1,0,2025-02-23,1.4,1.2
+e00a9736,Roma,Monza,4,0,2025-02-24,0.3,1.5
+5f718bc4,Bologna,Milan,2,1,2025-02-27,0.8,2.0
+d99d1615,Fiorentina,Lecce,1,0,2025-02-28,0.9,1.6
+af143178,Atalanta,Venezia,0,0,2025-03-01,0.8,1.9
+74de313e,Napoli,Inter,1,1,2025-03-01,0.3,1.8
+55b0643e,Udinese,Parma,1,0,2025-03-01,0.8,2.3
+ece34ddb,Bologna,Cagliari,2,1,2025-03-02,0.5,2.1
+a38d0698,Genoa,Empoli,1,1,2025-03-02,0.9,0.3
+8ea3005d,Milan,Lazio,1,2,2025-03-02,3.0,1.4
+ff368ffa,Monza,Torino,0,2,2025-03-02,1.2,1.0
+a7745557,Roma,Como,2,1,2025-03-02,1.2,1.6
+3974ef83,Juventus,Hellas Verona,2,0,2025-03-03,0.2,2.0
+f3d49f01,Cagliari,Genoa,1,1,2025-03-07,0.9,0.7
+80e5cecf,Como,Venezia,1,1,2025-03-08,1.3,1.3
+86ce720b,Inter,Monza,3,2,2025-03-08,0.6,2.6
+001d3a5d,Lecce,Milan,2,3,2025-03-08,3.5,1.0
+6074c57f,Parma,Torino,2,2,2025-03-08,0.7,1.6
+ce1efae1,Empoli,Roma,0,1,2025-03-09,2.0,0.1
+396148a3,Hellas Verona,Bologna,1,2,2025-03-09,1.3,1.2
+ecdc4b8d,Juventus,Atalanta,0,4,2025-03-09,3.2,0.9
+33dc159c,Napoli,Fiorentina,2,1,2025-03-09,0.7,2.8
+f9658b87,Lazio,Udinese,1,1,2025-03-10,1.2,1.2
+65b3e4b2,Genoa,Lecce,2,1,2025-03-14,1.2,1.0
+a7ffc114,Milan,Como,2,1,2025-03-15,1.0,1.3
+a90db6a7,Monza,Parma,1,1,2025-03-15,0.7,0.7
+f021f721,Torino,Empoli,1,0,2025-03-15,0.9,0.6
+30070e2c,Udinese,Hellas Verona,0,1,2025-03-15,0.4,0.5
+0247cede,Atalanta,Inter,0,2,2025-03-16,2.2,0.6
+6ea9a6f4,Bologna,Lazio,5,0,2025-03-16,0.5,2.2
+8c211ded,Fiorentina,Juventus,3,0,2025-03-16,0.8,0.4
+4fb25784,Roma,Cagliari,1,0,2025-03-16,0.8,1.3
+bebdb801,Venezia,Napoli,0,0,2025-03-16,1.7,0.7
+dc730fc2,Como,Empoli,1,1,2025-03-29,2.0,1.9
+b11ec446,Juventus,Genoa,1,0,2025-03-29,0.4,0.9
+f29c7427,Lecce,Roma,0,1,2025-03-29,2.4,0.7
+3c6a91ff,Venezia,Bologna,0,1,2025-03-29,1.0,0.8
+b5cbd016,Cagliari,Monza,3,0,2025-03-30,0.4,1.7
+3a802457,Fiorentina,Atalanta,1,0,2025-03-30,1.1,1.6
+29412934,Inter,Udinese,2,1,2025-03-30,0.7,1.7
+f211a752,Napoli,Milan,2,1,2025-03-30,2.6,1.0
+a7028401,Hellas Verona,Parma,0,0,2025-03-31,0.5,0.4
+26731b01,Lazio,Torino,1,1,2025-03-31,0.4,1.2
+839ac664,Genoa,Udinese,1,0,2025-04-04,1.1,1.3
+686be623,Milan,Fiorentina,2,2,2025-04-05,2.3,2.6
+e970c3a4,Monza,Como,1,3,2025-04-05,2.2,0.8
+c0287d8d,Parma,Inter,2,2,2025-04-05,2.0,1.4
+617486d8,Atalanta,Lazio,0,1,2025-04-06,0.5,0.5
+2db8cc44,Empoli,Cagliari,0,0,2025-04-06,0.3,0.3
+4c323af9,Lecce,Venezia,1,1,2025-04-06,0.6,1.2
+97fb2367,Roma,Juventus,1,1,2025-04-06,0.8,1.1
+d0dd0be5,Torino,Hellas Verona,1,1,2025-04-06,0.9,1.1
+d8fb6510,Bologna,Napoli,1,1,2025-04-07,1.2,0.8
+08727bbe,Udinese,Milan,0,4,2025-04-11,2.1,0.8
+ef4a7f22,Inter,Cagliari,3,1,2025-04-12,1.1,1.8
+8984b658,Juventus,Lecce,2,1,2025-04-12,1.1,1.5
+48567cfa,Venezia,Monza,1,0,2025-04-12,0.5,1.3
+fc3de8a2,Atalanta,Bologna,2,0,2025-04-13,0.6,1.0
+508b84c8,Como,Torino,1,0,2025-04-13,1.2,1.3
+790548b5,Fiorentina,Parma,0,0,2025-04-13,0.6,0.8
+35af7e08,Hellas Verona,Genoa,0,0,2025-04-13,0.2,1.2
+7ce59536,Lazio,Roma,1,1,2025-04-13,0.2,1.2
+25fd6dcc,Napoli,Empoli,3,0,2025-04-14,1.2,2.0
+51659765,Lecce,Como,0,3,2025-04-19,1.3,0.7
+43293eff,Monza,Napoli,0,1,2025-04-19,1.5,0.9
+bfe41ff3,Roma,Hellas Verona,1,0,2025-04-19,0.5,1.2
+c84d74dd,Bologna,Inter,1,0,2025-04-20,0.5,0.8
+a32623e7,Empoli,Venezia,2,2,2025-04-20,1.8,1.2
+c810b524,Milan,Atalanta,0,1,2025-04-20,1.9,0.6
+2ab6a96f,Cagliari,Fiorentina,1,2,2025-04-23,0.7,0.3
+40628936,Genoa,Lazio,0,2,2025-04-23,1.1,0.6
+2dc01d9d,Parma,Juventus,1,0,2025-04-23,0.8,0.6
+9a00f207,Torino,Udinese,2,0,2025-04-23,1.1,0.9
+f8863600,Atalanta,Lecce,1,1,2025-04-27,1.4,2.3
+65b86f16,Como,Genoa,1,0,2025-04-27,1.3,1.3
+a2af722c,Fiorentina,Empoli,2,1,2025-04-27,0.4,0.8
+bd8b0528,Inter,Roma,0,1,2025-04-27,1.9,1.1
+a12f6bbe,Juventus,Monza,2,0,2025-04-27,0.7,1.4
+b0a980eb,Napoli,Torino,2,0,2025-04-27,0.8,1.1
+b5347b9e,Venezia,Milan,0,2,2025-04-27,1.6,1.2
+74ff68ec,Hellas Verona,Cagliari,0,2,2025-04-28,1.9,0.3
+e492b3dc,Lazio,Parma,2,2,2025-04-28,0.9,1.4
+fae1422d,Udinese,Bologna,0,0,2025-04-28,1.6,0.5
+f57140cf,Torino,Venezia,1,1,2025-05-02,0.6,2.1
+374d14e7,Cagliari,Udinese,1,2,2025-05-03,1.4,1.0
+e3647411,Inter,Hellas Verona,1,0,2025-05-03,0.2,1.3
+95959c4f,Lecce,Napoli,0,1,2025-05-03,0.6,0.3
+2530eda5,Parma,Como,0,1,2025-05-03,0.8,1.8
+27fb223d,Bologna,Juventus,1,1,2025-05-04,0.8,0.4
+90d9dd2e,Empoli,Lazio,0,1,2025-05-04,1.8,0.2
+baef8a4c,Monza,Atalanta,0,4,2025-05-04,2.4,0.8
+07a1cabc,Roma,Fiorentina,1,0,2025-05-04,1.0,0.6
+0fcd692b,Genoa,Milan,1,2,2025-05-05,1.0,0.6
+eaef3f45,Milan,Bologna,3,1,2025-05-09,0.6,1.6
+6495e7f4,Como,Cagliari,3,1,2025-05-10,0.9,2.0
+c14e9e23,Empoli,Parma,2,1,2025-05-10,0.3,0.6
+6549caed,Lazio,Juventus,1,1,2025-05-10,0.8,1.7
+a1325187,Hellas Verona,Lecce,1,1,2025-05-11,1.1,0.3
+ac2b39d3,Napoli,Genoa,2,2,2025-05-11,0.6,1.7
+48220756,Torino,Inter,0,2,2025-05-11,2.5,1.5
+17fc8f69,Udinese,Monza,1,2,2025-05-11,1.5,1.6
+89fed893,Atalanta,Roma,2,1,2025-05-12,0.8,2.3
+ce81908e,Venezia,Fiorentina,2,1,2025-05-12,1.1,2.0
+ff6b72ea,Genoa,Atalanta,2,3,2025-05-17,2.0,1.2
+c9e65a18,Cagliari,Venezia,3,0,2025-05-18,0.5,1.6
+dfdf1b4a,Fiorentina,Bologna,3,2,2025-05-18,2.4,1.8
+1a9a2b31,Hellas Verona,Como,1,1,2025-05-18,0.8,1.5
+17533f2c,Inter,Lazio,2,2,2025-05-18,2.1,1.1
+a358a6ca,Juventus,Udinese,2,0,2025-05-18,0.3,1.8
+5bc1c77a,Lecce,Torino,1,0,2025-05-18,0.5,0.8
+4ffa8178,Monza,Empoli,1,3,2025-05-18,1.3,1.1
+5c73f7db,Parma,Napoli,0,0,2025-05-18,0.4,0.4
+e8a82fc6,Roma,Milan,3,1,2025-05-18,1.4,1.0
+50b87e8b,Como,Inter,0,2,2025-05-23,1.4,1.2
+4d5ce659,Napoli,Cagliari,2,0,2025-05-23,0.1,2.4
+97392c7a,Bologna,Genoa,1,3,2025-05-24,0.9,0.7
+44028e06,Milan,Monza,2,0,2025-05-24,0.3,1.5
+75ae7628,Atalanta,Parma,2,3,2025-05-25,2.5,1.2
+dd961a5a,Empoli,Hellas Verona,1,2,2025-05-25,0.8,0.9
+233f0d37,Lazio,Lecce,0,1,2025-05-25,0.4,1.8
+ec6788d3,Torino,Roma,0,2,2025-05-25,1.9,0.5
+70731611,Udinese,Fiorentina,2,3,2025-05-25,2.7,1.4
+2473b3f0,Venezia,Juventus,2,3,2025-05-25,1.9,0.9
